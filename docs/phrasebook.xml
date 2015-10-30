@@ -1,0 +1,1292 @@
+<add>
+<doc>
+<field name="id">SimplePhrases:1</field>
+<field name="jbo_t">go'i</field>
+<field name="eng_t">Yes.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:2</field>
+<field name="jbo_t">mi tugni</field>
+<field name="eng_t">I agree.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:3</field>
+<field name="jbo_t">na go'i</field>
+<field name="eng_t">No.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:4</field>
+<field name="jbo_t">mi na tugni</field>
+<field name="eng_t">I do not agree.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:5</field>
+<field name="jbo_t">pe'u</field>
+<field name="eng_t">Please.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:6</field>
+<field name="jbo_t">mi cpedu</field>
+<field name="eng_t">I request.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:7</field>
+<field name="jbo_t">ki'e</field>
+<field name="eng_t">Thanks.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:8</field>
+<field name="jbo_t">ki'e do</field>
+<field name="eng_t">Thank you.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:9</field>
+<field name="jbo_t">ki'e sai do</field>
+<field name="eng_t">Thank you very much</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:10</field>
+<field name="jbo_t">je'e do</field>
+<field name="eng_t">That's all right.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:11</field>
+<field name="jbo_t">mi prami do</field>
+<field name="eng_t">I love you.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:12</field>
+<field name="jbo_t">.iu sai</field>
+<field name="eng_t">I love you.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:13</field>
+<field name="jbo_t">go'ira'o</field>
+<field name="eng_t">What you just said about yourself is true for me too.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:14</field>
+<field name="jbo_t">xu do se bangu da</field>
+<field name="eng_t">Do you speak ...?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:15</field>
+<field name="jbo_t">mi na se bangu da</field>
+<field name="eng_t">I don't speak ...</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:16</field>
+<field name="jbo_t">ma jufra gi'e se vanbi le vi cukta</field>
+<field name="eng_t">Where is the phrase in this book?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:17</field>
+<field name="jbo_t">je'e</field>
+<field name="eng_t">I understand.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:18</field>
+<field name="jbo_t">mi jimpe</field>
+<field name="eng_t">I understand.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:19</field>
+<field name="jbo_t">je'enai</field>
+<field name="eng_t">I don't understand.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:20</field>
+<field name="jbo_t">mi na jimpe</field>
+<field name="eng_t">I don't understand.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:21</field>
+<field name="jbo_t">e'o ko skusno</field>
+<field name="eng_t">Could you talk more slowly please?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:22</field>
+<field name="jbo_t">je'epei</field>
+<field name="eng_t">Do you understand me?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:23</field>
+<field name="jbo_t">xu do jimpe fi mi</field>
+<field name="eng_t">Do you understand me?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:24</field>
+<field name="jbo_t">mi xagji</field>
+<field name="eng_t">I am hungry.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:25</field>
+<field name="jbo_t">mi taske</field>
+<field name="eng_t">I am thirsty.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:26</field>
+<field name="jbo_t">ma stuzi le djacu kumfa</field>
+<field name="eng_t">Where is the bathroom?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:27</field>
+<field name="jbo_t">ma stuzi le vimku'a</field>
+<field name="eng_t">Where is the toilet?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:28</field>
+<field name="jbo_t">mi renvi fi li cino</field>
+<field name="eng_t">I am 30 years old</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:29</field>
+<field name="jbo_t">mi jbena fi li pasobire</field>
+<field name="eng_t">I am born in 1982</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:30</field>
+<field name="jbo_t">li xy. cu ni mi clani</field>
+<field name="eng_t">I am X (unit unspecified) tall.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:31</field>
+<field name="jbo_t">mi mitre li xy. le ni clani</field>
+<field name="eng_t">I am X meters tall.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:32</field>
+<field name="jbo_t">mi se bangu le glibau</field>
+<field name="eng_t">I speak English.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:33</field>
+<field name="jbo_t">mi ka'e se bangu le fasybau</field>
+<field name="eng_t">I can speak French</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:34</field>
+<field name="jbo_t">mi djica le nu mi vitke fi da</field>
+<field name="eng_t">I would like to visit ...</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:35</field>
+<field name="jbo_t">mi se jibri da</field>
+<field name="eng_t">I work as ...</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:36</field>
+<field name="jbo_t">zo xy. cu cmene le mamta be mi</field>
+<field name="eng_t">My mother is called X.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:37</field>
+<field name="jbo_t">la alis mi mamta</field>
+<field name="eng_t">Alice is my mother</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:38</field>
+<field name="jbo_t">mi zmanei le ka broda</field>
+<field name="eng_t">My favorite color is ...</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:39</field>
+<field name="jbo_t">mi zmanei le blanu le xunre</field>
+<field name="eng_t">I prefer the blue one over the red one.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:40</field>
+<field name="jbo_t">mo</field>
+<field name="eng_t">What's happening?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:41</field>
+<field name="jbo_t">mi djuno noda le se zvati be mi</field>
+<field name="eng_t">I'm lost</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:42</field>
+<field name="jbo_t">mi xadgu'a</field>
+<field name="eng_t">I practice sport.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:43</field>
+<field name="jbo_t">mi fraso le ka jbena gi'e dotco le ka se natmi</field>
+<field name="eng_t">I'm French by birth but German by nationality.</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:44</field>
+<field name="jbo_t">selgugycmi</field>
+<field name="eng_t">citizenship</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:45</field>
+<field name="jbo_t">do jbena fi ma</field>
+<field name="eng_t">When are you born?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:46</field>
+<field name="jbo_t">ma ni do clani</field>
+<field name="eng_t">What is your size?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:47</field>
+<field name="jbo_t">do xabju ma</field>
+<field name="eng_t">Where do you live?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:48</field>
+<field name="jbo_t">do mo</field>
+<field name="eng_t">What are you doing?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:49</field>
+<field name="jbo_t">do se briju fi ma</field>
+<field name="eng_t">Where do you work?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:50</field>
+<field name="jbo_t">xu do ka'e tavla bau da</field>
+<field name="eng_t">Can you speak language ...?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:51</field>
+<field name="jbo_t">ma cmene le patfu be do</field>
+<field name="eng_t">What is your father's name?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:52</field>
+<field name="jbo_t">xu do pu zvati da</field>
+<field name="eng_t">Have you already been to place ...?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:53</field>
+<field name="jbo_t">do jerna li xo</field>
+<field name="eng_t">How much do you earn?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:54</field>
+<field name="jbo_t">do klama ma</field>
+<field name="eng_t">Where are you going to?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:55</field>
+<field name="jbo_t">do klama fi ma</field>
+<field name="eng_t">Where do you come from?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:56</field>
+<field name="jbo_t">xu do pu djuno fi le du'u broda</field>
+<field name="eng_t">Did you know that ...?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:57</field>
+<field name="jbo_t">do djica le ni mi mo</field>
+<field name="eng_t">What do you want me to do?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:58</field>
+<field name="jbo_t">pei sidju mi</field>
+<field name="eng_t">Can you help me?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:59</field>
+<field name="jbo_t">xu mi do melbi</field>
+<field name="eng_t">Do you find me pretty?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:60</field>
+<field name="jbo_t">xu do da kansa le ka xabju</field>
+<field name="eng_t">Do you live with someone?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:61</field>
+<field name="jbo_t">xu do speni</field>
+<field name="eng_t">Are you married?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:62</field>
+<field name="jbo_t">xu do prami selpe'o</field>
+<field name="eng_t">Do you have (a) lover(s)?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">SimplePhrases:63</field>
+<field name="jbo_t">pavyseljirna kavbu ba'oxuku</field>
+<field name="eng_t">Have you caught that Unicorn yet?</field>
+<field name="src_t">http://www.lojban.org/tiki/Simple+phrases</field>
+</doc>
+<doc>
+<field name="id">Food:1</field>
+<field name="jbo_t">broselcru</field>
+<field name="eng_t">kosher (food)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:2</field>
+<field name="jbo_t">cidjrkacera</field>
+<field name="eng_t">kosher (food)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:3</field>
+<field name="jbo_t">musyselcru</field>
+<field name="eng_t">halal (food)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:4</field>
+<field name="jbo_t">cidjrxalalu</field>
+<field name="eng_t">halal (food)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:5</field>
+<field name="jbo_t">stagi</field>
+<field name="eng_t">vegetarian (food)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:6</field>
+<field name="jbo_t">recycau</field>
+<field name="eng_t">vegetarian (food)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:7</field>
+<field name="jbo_t">bakyrectu</field>
+<field name="eng_t">beef</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:8</field>
+<field name="jbo_t">xajrectu</field>
+<field name="eng_t">pork</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:9</field>
+<field name="jbo_t">lanrectu</field>
+<field name="eng_t">lamb</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:10</field>
+<field name="jbo_t">ractyrectu</field>
+<field name="eng_t">rabbit (meat)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:11</field>
+<field name="jbo_t">smacyrectu</field>
+<field name="eng_t">mouse (meat)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:12</field>
+<field name="jbo_t">geryrectu</field>
+<field name="eng_t">dog (meat)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:13</field>
+<field name="jbo_t">boldembi</field>
+<field name="eng_t">peas</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:14</field>
+<field name="jbo_t">derdembi</field>
+<field name="eng_t">peanuts</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:15</field>
+<field name="jbo_t">kobli rulstani</field>
+<field name="eng_t">broccoli</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:16</field>
+<field name="jbo_t">kobli xrula</field>
+<field name="eng_t">cauliflower</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:17</field>
+<field name="jbo_t">laktuka</field>
+<field name="eng_t">lettuce</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:18</field>
+<field name="jbo_t">tsaprpiperi</field>
+<field name="eng_t">pepper (black/white)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:19</field>
+<field name="jbo_t">kapsiku</field>
+<field name="eng_t">pepper (green/red/bell/hot)</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:20</field>
+<field name="jbo_t">mlongena</field>
+<field name="eng_t">eggplant</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:21</field>
+<field name="jbo_t">najyzme</field>
+<field name="eng_t">cantaloupe</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">Food:22</field>
+<field name="jbo_t">gugrtcosanykobli</field>
+<field name="eng_t">kimchee</field>
+<field name="src_t">http://www.lojban.org/tiki/Food</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:1</field>
+<field name="jbo_t">coi .robert.</field>
+<field name="eng_t">Hi, Robert!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:2</field>
+<field name="jbo_t">coi .nik.</field>
+<field name="eng_t">Hi, Nick!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:3</field>
+<field name="jbo_t">xu ti selpo'e do gi'e karce</field>
+<field name="eng_t">Is this your car?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:4</field>
+<field name="jbo_t">na go'i</field>
+<field name="eng_t">No, it isn't.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:5</field>
+<field name="jbo_t">lo mi karce cu va zvati</field>
+<field name="eng_t">My car is there!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:6</field>
+<field name="jbo_t">lo xunre xu</field>
+<field name="eng_t">Red one?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:7</field>
+<field name="jbo_t">.ie</field>
+<field name="eng_t">Exactly.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:8</field>
+<field name="jbo_t">karce .a'u</field>
+<field name="eng_t">A cool car.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:9</field>
+<field name="jbo_t">.iacu'i .i mi co'u se cinri</field>
+<field name="eng_t">You think? I'm bored with it.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:10</field>
+<field name="jbo_t">.e'o ko vecnu lo karce mi .i mu'i bo lo za'i do ponse ra cu na'e cinri</field>
+<field name="eng_t">If you are bored then sell it to me!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:11</field>
+<field name="jbo_t">vecnu fo loi rupnu po'o be li paki'oki'o</field>
+<field name="eng_t">Only for $1,000,000.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:12</field>
+<field name="jbo_t">xu tolyfadni jdika va'u lo pendo</field>
+<field name="eng_t">A special discount for a friend?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:13</field>
+<field name="jbo_t">go'i .i jdika zo'e li muno</field>
+<field name="eng_t">Yeah, $50 down.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:14</field>
+<field name="jbo_t">.abu dunda loi jdini by.</field>
+<field name="eng_t">A gives B the money.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:15</field>
+<field name="jbo_t">vi zvati</field>
+<field name="eng_t">Here they are.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:16</field>
+<field name="jbo_t">li'a loi jdini cu pelji .aucu'i .i je ti dacti gi'e karce</field>
+<field name="eng_t">You know, money is just paper, and that is a real car.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:17</field>
+<field name="jbo_t">mi zmanei loi pelji</field>
+<field name="eng_t">I prefer the paper</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:18</field>
+<field name="jbo_t">ti makfa pelji gi'e kakne lonu binxo ro lo seldji</field>
+<field name="eng_t">This paper is magical, it can turn into anything you want.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:19</field>
+<field name="jbo_t">na go'i</field>
+<field name="eng_t">No it can't.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:20</field>
+<field name="jbo_t">na'e binxo ro nunpe'o</field>
+<field name="eng_t">It won't turn into friendship.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:21</field>
+<field name="jbo_t">sa'e lo mi nunpe'o</field>
+<field name="eng_t">At least, my friendship.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:22</field>
+<field name="jbo_t">.a'unai</field>
+<field name="eng_t">Stop moralizing.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:23</field>
+<field name="jbo_t">loi jdini cu krasi ro nunpalci</field>
+<field name="eng_t">Money is the root of all evil.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:24</field>
+<field name="jbo_t">.ianai mu'i ma da'inai do ricfu jy.</field>
+<field name="eng_t">Then why do you have so much?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:25</field>
+<field name="jbo_t">coi lojbo tadni</field>
+<field name="eng_t">Hi, Lojban-student!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:26</field>
+<field name="jbo_t">do facki lo du'u mi tadni la lojban. kei ta'i ma?</field>
+<field name="eng_t">How did you know I am a Lojban student?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:27</field>
+<field name="jbo_t">do rinsa mi bau la lojban. zo'o</field>
+<field name="eng_t">You greeted me in Lojban ;)</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:28</field>
+<field name="jbo_t">ma gugde do</field>
+<field name="eng_t">What country are you from?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:29</field>
+<field name="jbo_t">la kanadas.</field>
+<field name="eng_t">(I am from) Canada.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:30</field>
+<field name="jbo_t">je'e .i mi se gugde lo dotco</field>
+<field name="eng_t">I see. I am from Germany.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:31</field>
+<field name="jbo_t">mi na pinxe lo birje</field>
+<field name="eng_t">I don't trink beer.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:32</field>
+<field name="jbo_t">do ro xu xalka naku pinxe</field>
+<field name="eng_t">You don't drink alcohol beverage at all?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:33</field>
+<field name="jbo_t">lo birje po'o .i ma na nelci le vrusi</field>
+<field name="eng_t">No. Only beer, I don't like its taste.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:34</field>
+<field name="jbo_t">do nelci lo vanju xu</field>
+<field name="eng_t">So, you like wine?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:35</field>
+<field name="jbo_t">mutce go'i</field>
+<field name="eng_t">Very much.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:36</field>
+<field name="jbo_t">si'a lo speni be mi cu go'i</field>
+<field name="eng_t">My wife likes wine, too.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:37</field>
+<field name="jbo_t">.ui</field>
+<field name="eng_t">Glad to hear it.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:38</field>
+<field name="jbo_t">mi mutce caucni lo speni be mi</field>
+<field name="eng_t">I miss my wife greatly.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:39</field>
+<field name="jbo_t">pu mo</field>
+<field name="eng_t">What's happened?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:40</field>
+<field name="jbo_t">mi ca jdali'u le drata tcadu .ije mi ba viska ra punaijeba le jeftu be li re</field>
+<field name="eng_t">I am on a mission in another city, and will see her only in two weeks.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:41</field>
+<field name="jbo_t">.uu</field>
+<field name="eng_t">Oh.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:42</field>
+<field name="jbo_t">lo speni be mi cu mutce melbi</field>
+<field name="eng_t">My wife is very beautiful.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:43</field>
+<field name="jbo_t">.ui</field>
+<field name="eng_t">Glad to hear it.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:44</field>
+<field name="jbo_t">lo clani cu kerfa sy.</field>
+<field name="eng_t">She has long hair.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:45</field>
+<field name="jbo_t">mi zmadu nelci lo ninmu pe lo tordu kerfa</field>
+<field name="eng_t">I prefer woman with short hair.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:46</field>
+<field name="jbo_t">mi no'e se trina lo ninmu pe lo tordu kerfa</field>
+<field name="eng_t">I find nothing attractive in woman with short hair.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:47</field>
+<field name="jbo_t">lo tordu kerfa cu mutce loka se nelci</field>
+<field name="eng_t">Short hair is very exciting.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:48</field>
+<field name="jbo_t">.ie.iacu'i</field>
+<field name="eng_t">Maybe.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:49</field>
+<field name="jbo_t">mi bilga lonu mi klama co'o</field>
+<field name="eng_t">I oughta go. Bye!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:50</field>
+<field name="jbo_t">.ua lo cnino cu tarmi loi do kerfa</field>
+<field name="eng_t">I see you have a new coiffure.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:51</field>
+<field name="jbo_t">.ienai na go'i .i lo tarmi cu co'a mintu ri ca lo remoi prujeftu</field>
+<field name="eng_t">Why, no! It is two weeks old already.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:52</field>
+<field name="jbo_t">.i xu do na pu'o viska</field>
+<field name="eng_t">Didn't you see it before?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:53</field>
+<field name="jbo_t">xu mintu .i la'a mi mutce gunka</field>
+<field name="eng_t">Really? I must have been ery busy those days.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:54</field>
+<field name="jbo_t">ko na xanka</field>
+<field name="eng_t">Don't worry.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:55</field>
+<field name="jbo_t">xu do djuno lo du'u la keit. pu cliva</field>
+<field name="eng_t">Do you know that Kate has quit?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:56</field>
+<field name="jbo_t">.uesai mo</field>
+<field name="eng_t">What?!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:57</field>
+<field name="jbo_t">bu'unai cliva .i ky. cliva ca lo prulamdei</field>
+<field name="eng_t">Yeah, she quit yesterday.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:58</field>
+<field name="jbo_t">jinga fo lo funca nunkei</field>
+<field name="eng_t">She had won in a lottery.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:59</field>
+<field name="jbo_t">xu jinga loi mutce</field>
+<field name="eng_t">Very much?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:60</field>
+<field name="jbo_t">mi na djuno .i ku'i ky. simlu loka mutce gleki</field>
+<field name="eng_t">I don't know. But she looked very happy.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:61</field>
+<field name="jbo_t">.ianai mi na ka'e krici .i la'a lo drata cu krinu</field>
+<field name="eng_t">No, I can't believe. There must have been another reason.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:62</field>
+<field name="jbo_t">ku'i ky. na cusku</field>
+<field name="eng_t">Although she won't say.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:63</field>
+<field name="jbo_t">.ie ju'oru'e go'i</field>
+<field name="eng_t">I think so, too.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:64</field>
+<field name="jbo_t">ze'e mutce mipri</field>
+<field name="eng_t">She was always very secretive.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:65</field>
+<field name="jbo_t">.ienai du'e cliva ti</field>
+<field name="eng_t">It is not good. People quit from here.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:66</field>
+<field name="jbo_t">la djek. pamoiroi go'i .i babo la djudyt. ca lo cibma'i .i caku la keit.</field>
+<field name="eng_t">First Jack, then Judith in March, now Kate...</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:67</field>
+<field name="jbo_t">do djuno lonu ba'e ma kau fuzme la'e de'u</field>
+<field name="eng_t">You know "who" is responsible for that.</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:68</field>
+<field name="jbo_t">xu mi .i na djuno</field>
+<field name="eng_t">I? No!</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:69</field>
+<field name="jbo_t">jo'a do djuno</field>
+<field name="eng_t">You do (know).</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">EverydayLojban:70</field>
+<field name="jbo_t">.ienai na go'i .i do pensi lonu go'e kei mu'i ma</field>
+<field name="eng_t">No! Why do you think I know?</field>
+<field name="src_t">http://www.lojban.org/tiki/Everyday%20Lojban%20B01</field>
+</doc>
+<doc>
+<field name="id">GettingAround:1</field>
+<field name="jbo_t">ma stuzi da</field>
+<field name="eng_t">Where is X?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:2</field>
+<field name="jbo_t">mi klama da fo ma</field>
+<field name="eng_t">How do I get to X?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:3</field>
+<field name="jbo_t">ma pluta da</field>
+<field name="eng_t">How do I get to X?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:4</field>
+<field name="jbo_t">le renytcana</field>
+<field name="eng_t">the train station</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:5</field>
+<field name="jbo_t">le sorprekarcytcana</field>
+<field name="eng_t">the bus station</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:6</field>
+<field name="jbo_t">le vijytcana</field>
+<field name="eng_t">the airport</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:7</field>
+<field name="jbo_t">le mritcana</field>
+<field name="eng_t">the post office</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:8</field>
+<field name="jbo_t">le ckudi'u</field>
+<field name="eng_t">the library</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:9</field>
+<field name="jbo_t">le tatpi cukta barja</field>
+<field name="eng_t">the used bookstore</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:10</field>
+<field name="jbo_t">.i au pikta co klama da</field>
+<field name="eng_t">I'd like a ticket to ...</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:11</field>
+<field name="jbo_t">klama je'i xruti</field>
+<field name="eng_t">One way or round trip?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:12</field>
+<field name="jbo_t">klama po'o</field>
+<field name="eng_t">One way</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:13</field>
+<field name="jbo_t">klama je xruti</field>
+<field name="eng_t">Round trip</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:14</field>
+<field name="jbo_t">.i eipei le trene cu se basti</field>
+<field name="eng_t">Do I have to change trains?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:15</field>
+<field name="jbo_t">le trene cu klama fi ma poi tsina</field>
+<field name="eng_t">What platform does the train leave from?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:16</field>
+<field name="jbo_t">ca ma cliva fa le pamoi sormemkarce poi klama da</field>
+<field name="eng_t">When is the furst bus to X?</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:17</field>
+<field name="jbo_t">le bavla'i sormemkarce</field>
+<field name="eng_t">the next bus</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:18</field>
+<field name="jbo_t">le romoi sormemkarce</field>
+<field name="eng_t">the last bus</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">GettingAround:19</field>
+<field name="jbo_t">e'o ko livycru mi bu'u le bavla'i ke nunde'a tcana</field>
+<field name="eng_t">Please let me off at the next stop.</field>
+<field name="src_t">http://www.lojban.org/tiki/Getting+Around</field>
+</doc>
+<doc>
+<field name="id">Health:1</field>
+<field name="jbo_t">le mikce cu zvati ma</field>
+<field name="eng_t">Where is a doctor?</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:2</field>
+<field name="jbo_t">le spita cu zvati ma</field>
+<field name="eng_t">Where is a hospital?</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:3</field>
+<field name="jbo_t">le vi zarci be le velmicyxu'i cu zvati ma</field>
+<field name="eng_t">Where is a nearby pharmacy?</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:4</field>
+<field name="jbo_t">cortu ti</field>
+<field name="eng_t">It hurts here.</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:5</field>
+<field name="jbo_t">le stedu be mi cu kelvo du'eda</field>
+<field name="eng_t">My head is too hot.</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:6</field>
+<field name="jbo_t">mi bilma</field>
+<field name="eng_t">I am sick.</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:7</field>
+<field name="jbo_t">mi cortu le betfu</field>
+<field name="eng_t">I have a stomach ache.</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:8</field>
+<field name="jbo_t">xu mi nitcu le nu le mikce ku curni kei le nu mi pilno le velmicyxu'i</field>
+<field name="eng_t">Do I need doctor's permission to use this medicine?</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:9</field>
+<field name="jbo_t">mi vaxybi'a</field>
+<field name="eng_t">I have a cold.</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:10</field>
+<field name="jbo_t">ko cimoi citka ja pinxa ja je'erse'a ti di'i lo djedi ca'o lo ze'aba jeftu be li re</field>
+<field name="eng_t">Take this three times a day for the next two weeks.</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:11</field>
+<field name="jbo_t">slamrsalike</field>
+<field name="eng_t">aspirin</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:12</field>
+<field name="jbo_t">to ledyselkra toi jumcatra</field>
+<field name="eng_t">antibiotic</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:13</field>
+<field name="jbo_t">velmicyspa</field>
+<field name="eng_t">herb</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:14</field>
+<field name="jbo_t">ricrtabebu'i</field>
+<field name="eng_t">pau d'arco / lapacho / taheebo (the inner barks of various trees)</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:15</field>
+<field name="jbo_t">satleixu'i</field>
+<field name="eng_t">carbohydrate</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:16</field>
+<field name="jbo_t">dronalclu rasyslami</field>
+<field name="eng_t">unsaturated fatty acid</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:17</field>
+<field name="jbo_t">droclu rasyslami</field>
+<field name="eng_t">saturated fatty acid</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:18</field>
+<field name="jbo_t">abumoi mivytcuxu'i</field>
+<field name="eng_t">vitamin A</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:19</field>
+<field name="jbo_t">by.cimoi mivytcuxu'i</field>
+<field name="eng_t">vitamin B3</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Health:20</field>
+<field name="jbo_t">cy.moi mivytcuxu'i</field>
+<field name="eng_t">vitamin C</field>
+<field name="src_t">http://www.lojban.org/tiki/Health</field>
+</doc>
+<doc>
+<field name="id">Money:1</field>
+<field name="jbo_t">ma jdima ti</field>
+<field name="eng_t">What's the price of this?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:2</field>
+<field name="jbo_t">ti rupnu li xo</field>
+<field name="eng_t">What's the price of this?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:3</field>
+<field name="jbo_t">.ei mi pleji vi ma</field>
+<field name="eng_t">Where should I pay?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:4</field>
+<field name="jbo_t">mi sisku lo'e kargu mleca</field>
+<field name="eng_t">I'm looking for something less expensive.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:5</field>
+<field name="jbo_t">mi djica le nu te vecnu da</field>
+<field name="eng_t">I would like to buy X.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:6</field>
+<field name="jbo_t">le jbirai banxa cu zvati ma</field>
+<field name="eng_t">Where is the nearest bank?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:7</field>
+<field name="jbo_t">mi djica lenu canja lo meryru'u lo jborupnu</field>
+<field name="eng_t">I would like to exchange American dollars for rupnu.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:8</field>
+<field name="jbo_t">ma canja parbi lo ronru'u lo jborupnu</field>
+<field name="eng_t">What is the exchange rate of the euro against the rupnu?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:9</field>
+<field name="jbo_t">ko ti mi dunda</field>
+<field name="eng_t">Can you give me that?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:10</field>
+<field name="jbo_t">ko ti mi vecnu</field>
+<field name="eng_t">I want to buy that.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:11</field>
+<field name="jbo_t">ti se jdima ma</field>
+<field name="eng_t">How much does this cost?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:12</field>
+<field name="jbo_t">ti se vecnu fo ma</field>
+<field name="eng_t">How much does this cost?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:13</field>
+<field name="jbo_t">ma ti fo do jdima</field>
+<field name="eng_t">How much do you want to sell this?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:14</field>
+<field name="jbo_t">ma vecnu ti</field>
+<field name="eng_t">Who sells this?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:15</field>
+<field name="jbo_t">li du'e cu jdima</field>
+<field name="eng_t">It is too expensive</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:16</field>
+<field name="jbo_t">mi te vecnu ti fo da</field>
+<field name="eng_t">I offer ... (amount of money) for this.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:17</field>
+<field name="jbo_t">pe'udo'u mi jbera ti do</field>
+<field name="eng_t">Please, I'd like you to lend this to me.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:18</field>
+<field name="jbo_t">ma ve jbera</field>
+<field name="eng_t">How long can I borrow?</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:19</field>
+<field name="jbo_t">mi ponse le rupnu be li mo'a</field>
+<field name="eng_t">I don't have enough money.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:20</field>
+<field name="jbo_t">ko ti mi zmudu'a</field>
+<field name="eng_t">Give me some more.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+<doc>
+<field name="id">Money:21</field>
+<field name="jbo_t">mi na te vecnu ti poi snacukyvei .i se sraku</field>
+<field name="eng_t">I would like to buy some cigarettes.</field>
+<field name="src_t">http://www.lojban.org/tiki/Money</field>
+</doc>
+</add>

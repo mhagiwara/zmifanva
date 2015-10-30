@@ -1,0 +1,4796 @@
+<add>
+<doc>
+<field name="id">jbowiki:gombesa</field>
+<field name="jbo_t">gombesa</field>
+<field name="eng_t">Latimeria</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gombesa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cmaci</field>
+<field name="jbo_t">cmaci</field>
+<field name="eng_t">Mathematics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cmaci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mivyske</field>
+<field name="jbo_t">mivyske</field>
+<field name="eng_t">Biology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mivyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:finpe</field>
+<field name="jbo_t">finpe</field>
+<field name="eng_t">Fish</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/finpe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:skoselti'e</field>
+<field name="jbo_t">skoselti'e</field>
+<field name="eng_t">Chordate</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/skoselti%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kacna'u</field>
+<field name="jbo_t">kacna'u</field>
+<field name="eng_t">Natural number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kacna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xindo ropno bangu</field>
+<field name="jbo_t">xindo ropno bangu</field>
+<field name="eng_t">Indo-European languages</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xindo_ropno_bangu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ma'arlinsi</field>
+<field name="jbo_t">ma'arlinsi</field>
+<field name="eng_t">Mountain range</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ma%27arlinsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cteduncitsi</field>
+<field name="jbo_t">cteduncitsi</field>
+<field name="eng_t">Equinox</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cteduncitsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:runbau</field>
+<field name="jbo_t">runbau</field>
+<field name="eng_t">Constructed language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/runbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:terdi</field>
+<field name="jbo_t">terdi</field>
+<field name="eng_t">Earth</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/terdi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bangu</field>
+<field name="jbo_t">bangu</field>
+<field name="eng_t">Language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bangu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lojban.</field>
+<field name="jbo_t">lojban.</field>
+<field name="eng_t">Lojban</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lojban.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sanbau</field>
+<field name="jbo_t">sanbau</field>
+<field name="eng_t">Spanish language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sanbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nikaraguas. zei lalxu</field>
+<field name="jbo_t">nikaraguas. zei lalxu</field>
+<field name="eng_t">Lake Nicaragua</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nikaraguas._zei_lalxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:plugri</field>
+<field name="jbo_t">plugri</field>
+<field name="eng_t">Archipelago</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/plugri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kampidjip.</field>
+<field name="jbo_t">kampidjip.</field>
+<field name="eng_t">Poverty Point</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kampidjip.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:solri</field>
+<field name="jbo_t">solri</field>
+<field name="eng_t">Sun</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/solri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:skalduna</field>
+<field name="jbo_t">skalduna</field>
+<field name="eng_t">Basque people</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/skalduna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:auskalerik</field>
+<field name="jbo_t">auskalerik</field>
+<field name="eng_t">Basque Country (greater region)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/auskalerik</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zgike</field>
+<field name="jbo_t">zgike</field>
+<field name="eng_t">Music</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zgike</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zgitci</field>
+<field name="jbo_t">zgitci</field>
+<field name="eng_t">Musical instrument</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zgitci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jgita</field>
+<field name="jbo_t">jgita</field>
+<field name="eng_t">Guitar</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jgita</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tabra</field>
+<field name="jbo_t">tabra</field>
+<field name="eng_t">Brass instrument</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tabra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:trixexo</field>
+<field name="jbo_t">trixexo</field>
+<field name="eng_t">Manatee</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/trixexo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:alybamas</field>
+<field name="jbo_t">alybamas</field>
+<field name="eng_t">Alabama</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/alybamas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mexygu'e xamsi</field>
+<field name="jbo_t">mexygu'e xamsi</field>
+<field name="eng_t">Gulf of Mexico</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mexygu%27e_xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xi'ojda</field>
+<field name="jbo_t">xi'ojda</field>
+<field name="eng_t">Christianity</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xi%27ojda</field>
+</doc>
+<doc>
+<field name="id">jbowiki:oradeas</field>
+<field name="jbo_t">oradeas</field>
+<field name="eng_t">Oradea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/oradeas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:esperantos</field>
+<field name="jbo_t">esperantos</field>
+<field name="eng_t">Esperanto</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/esperantos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mabru</field>
+<field name="jbo_t">mabru</field>
+<field name="eng_t">Mammal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mabru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sovmabru</field>
+<field name="jbo_t">sovmabru</field>
+<field name="eng_t">Monotreme</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sovmabru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:samske</field>
+<field name="jbo_t">samske</field>
+<field name="eng_t">Computer science</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/samske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bu'ojda</field>
+<field name="jbo_t">bu'ojda</field>
+<field name="eng_t">Buddhism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bu%27ojda</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nanba</field>
+<field name="jbo_t">nanba</field>
+<field name="eng_t">Bread</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nanba</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cirla</field>
+<field name="jbo_t">cirla</field>
+<field name="eng_t">Cheese</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cirla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ci'i</field>
+<field name="jbo_t">ci'i</field>
+<field name="eng_t">Infinity</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ci%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gusni</field>
+<field name="jbo_t">gusni</field>
+<field name="eng_t">Light</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gusni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:abumoi mivytcuxu'i</field>
+<field name="jbo_t">abumoi mivytcuxu'i</field>
+<field name="eng_t">Vitamin A</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/abumoi_mivytcuxu%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bogjinme</field>
+<field name="jbo_t">bogjinme</field>
+<field name="eng_t">Calcium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bogjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:moresnet</field>
+<field name="jbo_t">moresnet</field>
+<field name="eng_t">Neutral Moresnet</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/moresnet</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcingis. xan</field>
+<field name="jbo_t">tcingis. xan</field>
+<field name="eng_t">Genghis Khan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcingis._xan</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sornai ke mlemai terzba cmeci'e</field>
+<field name="jbo_t">sornai ke mlemai terzba cmeci'e</field>
+<field name="eng_t">International Nomenclature of Cosmetic Ingredients</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sornai_ke_mlemai_terzba_cmeci%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cionmau la barda</field>
+<field name="jbo_t">cionmau la barda</field>
+<field name="eng_t">Giant panda</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cionmau_la_barda</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gismu</field>
+<field name="jbo_t">gismu</field>
+<field name="eng_t">Root (linguistics)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gismu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:natpenbau</field>
+<field name="jbo_t">natpenbau</field>
+<field name="eng_t">Official script</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/natpenbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:krilytabno</field>
+<field name="jbo_t">krilytabno</field>
+<field name="eng_t">Diamond</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/krilytabno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:beldjym</field>
+<field name="jbo_t">beldjym</field>
+<field name="eng_t">Belgium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/beldjym</field>
+</doc>
+<doc>
+<field name="id">jbowiki:spaske</field>
+<field name="jbo_t">spaske</field>
+<field name="eng_t">Botany</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/spaske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:musyjda</field>
+<field name="jbo_t">musyjda</field>
+<field name="eng_t">Islam</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/musyjda</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zumri</field>
+<field name="jbo_t">zumri</field>
+<field name="eng_t">Maize</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zumri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:citri lo glibau</field>
+<field name="jbo_t">citri lo glibau</field>
+<field name="eng_t">History of the English language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/citri_lo_glibau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dilcyna'u</field>
+<field name="jbo_t">dilcyna'u</field>
+<field name="eng_t">Rational number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dilcyna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:spatrmeliace</field>
+<field name="jbo_t">spatrmeliace</field>
+<field name="eng_t">Meliaceae</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/spatrmeliace</field>
+</doc>
+<doc>
+<field name="id">jbowiki:treci'e</field>
+<field name="jbo_t">treci'e</field>
+<field name="eng_t">International System of Units</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/treci%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mergu'e</field>
+<field name="jbo_t">mergu'e</field>
+<field name="eng_t">United States</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mergu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:visbis</field>
+<field name="jbo_t">visbis</field>
+<field name="eng_t">Visby</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/visbis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pacruxydinj</field>
+<field name="jbo_t">pacruxydinj</field>
+<field name="eng_t">Castlevania (video game)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pacruxydinj</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bil. geits</field>
+<field name="jbo_t">bil. geits</field>
+<field name="eng_t">Bill Gates</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bil._geits</field>
+</doc>
+<doc>
+<field name="id">jbowiki:andis. kafmen</field>
+<field name="jbo_t">andis. kafmen</field>
+<field name="eng_t">Andy Kaufman</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/andis._kafmen</field>
+</doc>
+<doc>
+<field name="id">jbowiki:klutiksi'o pe le sezga'o</field>
+<field name="jbo_t">klutiksi'o pe le sezga'o</field>
+<field name="eng_t">Autism rights movement</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/klutiksi%27o_pe_le_sezga%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djordj. ualker. buc</field>
+<field name="jbo_t">djordj. ualker. buc</field>
+<field name="eng_t">George W. Bush</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djordj._ualker._buc</field>
+</doc>
+<doc>
+<field name="id">jbowiki:uikipidias</field>
+<field name="jbo_t">uikipidias</field>
+<field name="eng_t">Wikipedia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/uikipidias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bambusa</field>
+<field name="jbo_t">bambusa</field>
+<field name="eng_t">Bamboo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bambusa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mirlyxarju</field>
+<field name="jbo_t">mirlyxarju</field>
+<field name="eng_t">Babirusa</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mirlyxarju</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ckape befi la .uindoz.metalaif</field>
+<field name="jbo_t">ckape befi la .uindoz.metalaif</field>
+<field name="eng_t">Windows Metafile vulnerability</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ckape_befi_la_.uindoz.metalaif</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la canko</field>
+<field name="jbo_t">la canko</field>
+<field name="eng_t">Microsoft Windows</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_canko</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pinji</field>
+<field name="jbo_t">pinji</field>
+<field name="eng_t">Penis</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pinji</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vibna</field>
+<field name="jbo_t">vibna</field>
+<field name="eng_t">Vagina</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vibna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:novosibirsk</field>
+<field name="jbo_t">novosibirsk</field>
+<field name="eng_t">Novosibirsk</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/novosibirsk</field>
+</doc>
+<doc>
+<field name="id">jbowiki:moskovas</field>
+<field name="jbo_t">moskovas</field>
+<field name="eng_t">Moscow</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/moskovas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nepal</field>
+<field name="jbo_t">nepal</field>
+<field name="eng_t">Nepal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nepal</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zdotu'a</field>
+<field name="jbo_t">zdotu'a</field>
+<field name="eng_t">Asia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zdotu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kauntyr. straik</field>
+<field name="jbo_t">kauntyr. straik</field>
+<field name="eng_t">Counter-Strike</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kauntyr._straik</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gletu</field>
+<field name="jbo_t">gletu</field>
+<field name="eng_t">Mating</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gletu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:king.kong</field>
+<field name="jbo_t">king.kong</field>
+<field name="eng_t">King Kong</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/king.kong</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bangrklingo</field>
+<field name="jbo_t">bangrklingo</field>
+<field name="eng_t">Klingon language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bangrklingo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rontu'a</field>
+<field name="jbo_t">rontu'a</field>
+<field name="eng_t">Europe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rontu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:frikytu'a</field>
+<field name="jbo_t">frikytu'a</field>
+<field name="eng_t">Africa</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/frikytu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dikca mi'irlarcu</field>
+<field name="jbo_t">dikca mi'irlarcu</field>
+<field name="eng_t">Electrical engineering</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dikca_mi%27irlarcu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ritygu'e</field>
+<field name="jbo_t">ritygu'e</field>
+<field name="eng_t">United Kingdom</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ritygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kesyske</field>
+<field name="jbo_t">kesyske</field>
+<field name="eng_t">Astronomy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kesyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ransu cedra</field>
+<field name="jbo_t">ransu cedra</field>
+<field name="eng_t">Bronze Age</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ransu_cedra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:razgu'e</field>
+<field name="jbo_t">razgu'e</field>
+<field name="eng_t">Brazil</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/razgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pongu'e</field>
+<field name="jbo_t">pongu'e</field>
+<field name="eng_t">Japan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pongu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xumske</field>
+<field name="jbo_t">xumske</field>
+<field name="eng_t">Chemistry</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xumske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xingu'e</field>
+<field name="jbo_t">xingu'e</field>
+<field name="eng_t">India</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xingu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gerna</field>
+<field name="jbo_t">gerna</field>
+<field name="eng_t">Grammar</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gerna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:larcu</field>
+<field name="jbo_t">larcu</field>
+<field name="eng_t">Art</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/larcu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lijda</field>
+<field name="jbo_t">lijda</field>
+<field name="eng_t">Religion</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lijda</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ranmi</field>
+<field name="jbo_t">ranmi</field>
+<field name="eng_t">Legend</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ranmi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tedyske</field>
+<field name="jbo_t">tedyske</field>
+<field name="eng_t">Earth science</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tedyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:termu'eske</field>
+<field name="jbo_t">termu'eske</field>
+<field name="eng_t">Physics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/termu%27eske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:skina</field>
+<field name="jbo_t">skina</field>
+<field name="eng_t">Film</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/skina</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dansu</field>
+<field name="jbo_t">dansu</field>
+<field name="eng_t">Dance</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dansu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xelso citri</field>
+<field name="jbo_t">xelso citri</field>
+<field name="eng_t">History of Greece</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xelso_citri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dotygu'e</field>
+<field name="jbo_t">dotygu'e</field>
+<field name="eng_t">Germany</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dotygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fasygu'e</field>
+<field name="jbo_t">fasygu'e</field>
+<field name="eng_t">France</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fasygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ctuske</field>
+<field name="jbo_t">ctuske</field>
+<field name="eng_t">Pedagogy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ctuske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remske</field>
+<field name="jbo_t">remske</field>
+<field name="eng_t">Anthropology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:menske</field>
+<field name="jbo_t">menske</field>
+<field name="eng_t">Psychology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/menske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:purdi</field>
+<field name="jbo_t">purdi</field>
+<field name="eng_t">Garden</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/purdi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:keinritli</field>
+<field name="jbo_t">keinritli</field>
+<field name="eng_t">Acting</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/keinritli</field>
+</doc>
+<doc>
+<field name="id">jbowiki:flalu</field>
+<field name="jbo_t">flalu</field>
+<field name="eng_t">Law</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/flalu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ka'oske</field>
+<field name="jbo_t">ka'oske</field>
+<field name="eng_t">Healthcare science</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ka%27oske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sangu'e</field>
+<field name="jbo_t">sangu'e</field>
+<field name="eng_t">Spain</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sangu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cagyske</field>
+<field name="jbo_t">cagyske</field>
+<field name="eng_t">Agriculture</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cagyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kulnu</field>
+<field name="jbo_t">kulnu</field>
+<field name="eng_t">Culture</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kulnu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dijyselpla</field>
+<field name="jbo_t">dijyselpla</field>
+<field name="eng_t">Blueprint</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dijyselpla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:selpliske</field>
+<field name="jbo_t">selpliske</field>
+<field name="eng_t">Applied science</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/selpliske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rarske</field>
+<field name="jbo_t">rarske</field>
+<field name="eng_t">Natural science</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rarske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:saske</field>
+<field name="jbo_t">saske</field>
+<field name="eng_t">Science</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/saske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dicmakseldi'e</field>
+<field name="jbo_t">dicmakseldi'e</field>
+<field name="eng_t">Electromagnetic radiation</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dicmakseldi%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rukygu'e</field>
+<field name="jbo_t">rukygu'e</field>
+<field name="eng_t">Russia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rukygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nimre</field>
+<field name="jbo_t">nimre</field>
+<field name="eng_t">Citrus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nimre</field>
+</doc>
+<doc>
+<field name="id">jbowiki:preske</field>
+<field name="jbo_t">preske</field>
+<field name="eng_t">Teacher</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/preske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ratni</field>
+<field name="jbo_t">ratni</field>
+<field name="eng_t">Atom</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ratni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:daplu</field>
+<field name="jbo_t">daplu</field>
+<field name="eng_t">Island</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/daplu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nazbi</field>
+<field name="jbo_t">nazbi</field>
+<field name="eng_t">Nose</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nazbi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kerlo</field>
+<field name="jbo_t">kerlo</field>
+<field name="eng_t">Ear</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kerlo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:polskas</field>
+<field name="jbo_t">polskas</field>
+<field name="eng_t">Poland</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/polskas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bil. klinton</field>
+<field name="jbo_t">bil. klinton</field>
+<field name="eng_t">Bill Clinton</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bil._klinton</field>
+</doc>
+<doc>
+<field name="id">jbowiki:me la napoleon nunjamna</field>
+<field name="jbo_t">me la napoleon nunjamna</field>
+<field name="eng_t">Napoleonic Wars</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/me_la_napoleon_nunjamna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bolci danti cecla xarci</field>
+<field name="jbo_t">bolci danti cecla xarci</field>
+<field name="eng_t">Cannon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bolci_danti_cecla_xarci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vurgu'e</field>
+<field name="jbo_t">vurgu'e</field>
+<field name="eng_t">Ukraine</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vurgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xekri xamsi</field>
+<field name="jbo_t">xekri xamsi</field>
+<field name="eng_t">Black Sea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xekri_xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kijno</field>
+<field name="jbo_t">kijno</field>
+<field name="eng_t">Oxygen</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kijno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:selratni</field>
+<field name="jbo_t">selratni</field>
+<field name="eng_t">Chemical element</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/selratni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xasyske</field>
+<field name="jbo_t">xasyske</field>
+<field name="eng_t">Oceanography</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xasyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sutra denmi bo binxo senta</field>
+<field name="jbo_t">sutra denmi bo binxo senta</field>
+<field name="eng_t">Pycnocline</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sutra_denmi_bo_binxo_senta</field>
+</doc>
+<doc>
+<field name="id">jbowiki:plini</field>
+<field name="jbo_t">plini</field>
+<field name="eng_t">Planet</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/plini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mu'eske</field>
+<field name="jbo_t">mu'eske</field>
+<field name="eng_t">Cosmology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mu%27eske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:barda tarci bo girzu</field>
+<field name="jbo_t">barda tarci bo girzu</field>
+<field name="eng_t">Galaxy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/barda_tarci_bo_girzu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:spati</field>
+<field name="jbo_t">spati</field>
+<field name="eng_t">Plant</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/spati</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dotybau</field>
+<field name="jbo_t">dotybau</field>
+<field name="eng_t">German language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dotybau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cintylarcu</field>
+<field name="jbo_t">cintylarcu</field>
+<field name="eng_t">Painting</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cintylarcu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vasxu</field>
+<field name="jbo_t">vasxu</field>
+<field name="eng_t">Breathing</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vasxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pipno</field>
+<field name="jbo_t">pipno</field>
+<field name="eng_t">Piano</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pipno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:baltik. xamsi</field>
+<field name="jbo_t">baltik. xamsi</field>
+<field name="eng_t">Baltic Sea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/baltik._xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remna xadyske</field>
+<field name="jbo_t">remna xadyske</field>
+<field name="eng_t">Human anatomy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remna_xadyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rirxe</field>
+<field name="jbo_t">rirxe</field>
+<field name="eng_t">River</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rirxe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cmana</field>
+<field name="jbo_t">cmana</field>
+<field name="eng_t">Mountain</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cmana</field>
+</doc>
+<doc>
+<field name="id">jbowiki:braplu</field>
+<field name="jbo_t">braplu</field>
+<field name="eng_t">Continent</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/braplu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:timske</field>
+<field name="jbo_t">timske</field>
+<field name="eng_t">Meteorology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/timske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:atlantik. zei braxamsi</field>
+<field name="jbo_t">atlantik. zei braxamsi</field>
+<field name="eng_t">Atlantic Ocean</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/atlantik._zei_braxamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vlile carna xamsi brife</field>
+<field name="jbo_t">vlile carna xamsi brife</field>
+<field name="eng_t">Tropical cyclone</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vlile_carna_xamsi_brife</field>
+</doc>
+<doc>
+<field name="id">jbowiki:solri barna</field>
+<field name="jbo_t">solri barna</field>
+<field name="eng_t">Sunspot</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/solri_barna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:niuiork. zei tcadu</field>
+<field name="jbo_t">niuiork. zei tcadu</field>
+<field name="eng_t">New York City</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/niuiork._zei_tcadu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:merko jecta vlile binxo fasnu</field>
+<field name="jbo_t">merko jecta vlile binxo fasnu</field>
+<field name="eng_t">American Revolutionary War</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/merko_jecta_vlile_binxo_fasnu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cripu</field>
+<field name="jbo_t">cripu</field>
+<field name="eng_t">Bridge</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cripu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:karl. von. klausevits</field>
+<field name="jbo_t">karl. von. klausevits</field>
+<field name="eng_t">Carl von Clausewitz</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/karl._von._klausevits</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tunka</field>
+<field name="jbo_t">tunka</field>
+<field name="eng_t">Copper</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tunka</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tirse</field>
+<field name="jbo_t">tirse</field>
+<field name="eng_t">Iron</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tirse</field>
+</doc>
+<doc>
+<field name="id">jbowiki:solji</field>
+<field name="jbo_t">solji</field>
+<field name="eng_t">Gold</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/solji</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xukmi veljmina</field>
+<field name="jbo_t">xukmi veljmina</field>
+<field name="eng_t">Chemical compound</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xukmi_veljmina</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nunjamna le gligu'e la zanzibar</field>
+<field name="jbo_t">nunjamna le gligu'e la zanzibar</field>
+<field name="eng_t">Anglo-Zanzibar War</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nunjamna_le_gligu%27e_la_zanzibar</field>
+</doc>
+<doc>
+<field name="id">jbowiki:margu</field>
+<field name="jbo_t">margu</field>
+<field name="eng_t">Mercury (element)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/margu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rijno</field>
+<field name="jbo_t">rijno</field>
+<field name="eng_t">Silver</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rijno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:boxna</field>
+<field name="jbo_t">boxna</field>
+<field name="eng_t">Wave</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/boxna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lalxu</field>
+<field name="jbo_t">lalxu</field>
+<field name="eng_t">Lake</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lalxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sralygu'e</field>
+<field name="jbo_t">sralygu'e</field>
+<field name="eng_t">Australia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sralygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xamsi</field>
+<field name="jbo_t">xamsi</field>
+<field name="eng_t">Sea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:braxamsi</field>
+<field name="jbo_t">braxamsi</field>
+<field name="eng_t">Ocean</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/braxamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cidro</field>
+<field name="jbo_t">cidro</field>
+<field name="eng_t">Hydrogen</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cidro</field>
+</doc>
+<doc>
+<field name="id">jbowiki:danlu</field>
+<field name="jbo_t">danlu</field>
+<field name="eng_t">Animal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/danlu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tabno</field>
+<field name="jbo_t">tabno</field>
+<field name="eng_t">Carbon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tabno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bemtu'a</field>
+<field name="jbo_t">bemtu'a</field>
+<field name="eng_t">North America</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bemtu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:blobe'e ke ponjo nixli tadni taxfu</field>
+<field name="jbo_t">blobe'e ke ponjo nixli tadni taxfu</field>
+<field name="eng_t">Japanese school uniform#Sailor outfit</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/blobe%27e_ke_ponjo_nixli_tadni_taxfu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:blabi</field>
+<field name="jbo_t">blabi</field>
+<field name="eng_t">White</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/blabi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xunre</field>
+<field name="jbo_t">xunre</field>
+<field name="eng_t">Red</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xunre</field>
+</doc>
+<doc>
+<field name="id">jbowiki:alxebra</field>
+<field name="jbo_t">alxebra</field>
+<field name="eng_t">Algebra</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/alxebra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sapme'ocmaci</field>
+<field name="jbo_t">sapme'ocmaci</field>
+<field name="eng_t">Arithmetic</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sapme%27ocmaci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sumji</field>
+<field name="jbo_t">sumji</field>
+<field name="eng_t">Addition</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sumji</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sutra binxo</field>
+<field name="jbo_t">sutra binxo</field>
+<field name="eng_t">Revolution</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sutra_binxo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:citri</field>
+<field name="jbo_t">citri</field>
+<field name="eng_t">History</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/citri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lanzu</field>
+<field name="jbo_t">lanzu</field>
+<field name="eng_t">Family</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lanzu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:latmo sosygugje'a</field>
+<field name="jbo_t">latmo sosygugje'a</field>
+<field name="eng_t">Roman Empire</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/latmo_sosygugje%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fla,ui,us.klaudius.iulianus</field>
+<field name="jbo_t">fla,ui,us.klaudius.iulianus</field>
+<field name="eng_t">Julian the Apostate</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fla,ui,us.klaudius.iulianus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remoi me la fernandos. pe la .aragon</field>
+<field name="jbo_t">remoi me la fernandos. pe la .aragon</field>
+<field name="eng_t">Ferdinand II of Aragon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remoi_me_la_fernandos._pe_la_.aragon</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kalabrian.xesybau</field>
+<field name="jbo_t">kalabrian.xesybau</field>
+<field name="eng_t">Calabrian Greek dialect</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kalabrian.xesybau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:akenatyn</field>
+<field name="jbo_t">akenatyn</field>
+<field name="eng_t">Akhenaten</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/akenatyn</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fasybau</field>
+<field name="jbo_t">fasybau</field>
+<field name="eng_t">French language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fasybau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:voksnaske</field>
+<field name="jbo_t">voksnaske</field>
+<field name="eng_t">Phonetics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/voksnaske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pitr.djeksyn</field>
+<field name="jbo_t">pitr.djeksyn</field>
+<field name="eng_t">Peter Jackson</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pitr.djeksyn</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rafske</field>
+<field name="jbo_t">rafske</field>
+<field name="eng_t">Morphology (linguistics)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rafske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:genlalske</field>
+<field name="jbo_t">genlalske</field>
+<field name="eng_t">Syntax</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/genlalske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:smuske</field>
+<field name="jbo_t">smuske</field>
+<field name="eng_t">Semantics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/smuske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:banpliske</field>
+<field name="jbo_t">banpliske</field>
+<field name="eng_t">Pragmatics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/banpliske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:snage'a</field>
+<field name="jbo_t">snage'a</field>
+<field name="eng_t">Phonology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/snage%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sance</field>
+<field name="jbo_t">sance</field>
+<field name="eng_t">Sound</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sance</field>
+</doc>
+<doc>
+<field name="id">jbowiki:berti xamsi</field>
+<field name="jbo_t">berti xamsi</field>
+<field name="eng_t">North Sea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/berti_xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dat.seventiz.cous</field>
+<field name="jbo_t">dat.seventiz.cous</field>
+<field name="eng_t">That '70s Show</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dat.seventiz.cous</field>
+</doc>
+<doc>
+<field name="id">jbowiki:glibau</field>
+<field name="jbo_t">glibau</field>
+<field name="eng_t">English language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/glibau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kadnygu'e</field>
+<field name="jbo_t">kadnygu'e</field>
+<field name="eng_t">Canada</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kadnygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mexygu'e</field>
+<field name="jbo_t">mexygu'e</field>
+<field name="eng_t">Mexico</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mexygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bidgu'e</field>
+<field name="jbo_t">bidgu'e</field>
+<field name="eng_t">Indonesia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bidgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mejgu'e</field>
+<field name="jbo_t">mejgu'e</field>
+<field name="eng_t">Malaysia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mejgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:getygu'e</field>
+<field name="jbo_t">getygu'e</field>
+<field name="eng_t">Argentina</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/getygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kisygu'e</field>
+<field name="jbo_t">kisygu'e</field>
+<field name="eng_t">Pakistan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kisygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ka sezga'o</field>
+<field name="jbo_t">ka sezga'o</field>
+<field name="eng_t">Autism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ka_sezga%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sankt. peterburg</field>
+<field name="jbo_t">sankt. peterburg</field>
+<field name="eng_t">Saint Petersburg</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sankt._peterburg</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la nolraiseltru be la .araukanias. joi la patagonias.</field>
+<field name="jbo_t">la nolraiseltru be la .araukanias. joi la patagonias.</field>
+<field name="eng_t">Kingdom of Araucanía and Patagonia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_nolraiseltru_be_la_.araukanias._joi_la_patagonias.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:euklidi tamcmaci</field>
+<field name="jbo_t">euklidi tamcmaci</field>
+<field name="eng_t">Euclidean geometry</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/euklidi_tamcmaci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sliders</field>
+<field name="jbo_t">sliders</field>
+<field name="eng_t">Sliders</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sliders</field>
+</doc>
+<doc>
+<field name="id">jbowiki:caxmati</field>
+<field name="jbo_t">caxmati</field>
+<field name="eng_t">Chess</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/caxmati</field>
+</doc>
+<doc>
+<field name="id">jbowiki:monopolis</field>
+<field name="jbo_t">monopolis</field>
+<field name="eng_t">Monopoly (game)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/monopolis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ctemidju</field>
+<field name="jbo_t">ctemidju</field>
+<field name="eng_t">Midnight</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ctemidju</field>
+</doc>
+<doc>
+<field name="id">jbowiki:iosef.ben.matitia'uv</field>
+<field name="jbo_t">iosef.ben.matitia'uv</field>
+<field name="eng_t">Josephus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/iosef.ben.matitia%27uv</field>
+</doc>
+<doc>
+<field name="id">jbowiki:benficysi'a</field>
+<field name="jbo_t">benficysi'a</field>
+<field name="eng_t">Neurodiversity</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/benficysi%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:albert. ainctain</field>
+<field name="jbo_t">albert. ainctain</field>
+<field name="eng_t">Albert Einstein</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/albert._ainctain</field>
+</doc>
+<doc>
+<field name="id">jbowiki:iran</field>
+<field name="jbo_t">iran</field>
+<field name="eng_t">Iran</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/iran</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pijyske</field>
+<field name="jbo_t">pijyske</field>
+<field name="eng_t">Philosophy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pijyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rokci pelji jinci</field>
+<field name="jbo_t">rokci pelji jinci</field>
+<field name="eng_t">Rock-paper-scissors</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rokci_pelji_jinci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fla,ui,us.iulius konstantius</field>
+<field name="jbo_t">fla,ui,us.iulius konstantius</field>
+<field name="eng_t">Constantius II</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fla,ui,us.iulius_konstantius</field>
+</doc>
+<doc>
+<field name="id">jbowiki:estis</field>
+<field name="jbo_t">estis</field>
+<field name="eng_t">Estonia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/estis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:be'ejda be lei fanmo djedi cespre bei la iecy,ys.krist</field>
+<field name="jbo_t">be'ejda be lei fanmo djedi cespre bei la iecy,ys.krist</field>
+<field name="eng_t">The Church of Jesus Christ of Latter-day Saints</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/be%27ejda_be_lei_fanmo_djedi_cespre_bei_la_iecy,ys.krist</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ritcard.dokinz</field>
+<field name="jbo_t">ritcard.dokinz</field>
+<field name="eng_t">Richard Dawkins</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ritcard.dokinz</field>
+</doc>
+<doc>
+<field name="id">jbowiki:iulius. kaisar</field>
+<field name="jbo_t">iulius. kaisar</field>
+<field name="eng_t">Julius Caesar</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/iulius._kaisar</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ponbau</field>
+<field name="jbo_t">ponbau</field>
+<field name="eng_t">Japanese language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ponbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jyryrys. tolkien</field>
+<field name="jbo_t">jyryrys. tolkien</field>
+<field name="eng_t">J. R. R. Tolkien</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jyryrys._tolkien</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tibet</field>
+<field name="jbo_t">tibet</field>
+<field name="eng_t">Tibet</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tibet</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sidartas.gautamas</field>
+<field name="jbo_t">sidartas.gautamas</field>
+<field name="eng_t">Gautama Buddha</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sidartas.gautamas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vulfygan.amade,us.motsart</field>
+<field name="jbo_t">vulfygan.amade,us.motsart</field>
+<field name="eng_t">Wolfgang Amadeus Mozart</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vulfygan.amade,us.motsart</field>
+</doc>
+<doc>
+<field name="id">jbowiki:selratni liste fi lo sinxa</field>
+<field name="jbo_t">selratni liste fi lo sinxa</field>
+<field name="eng_t">Symbol (chemical element)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/selratni_liste_fi_lo_sinxa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:trano</field>
+<field name="jbo_t">trano</field>
+<field name="eng_t">Nitrogen</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/trano</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sliri</field>
+<field name="jbo_t">sliri</field>
+<field name="eng_t">Sulfur</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sliri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kliru</field>
+<field name="jbo_t">kliru</field>
+<field name="eng_t">Chlorine</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kliru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nikle</field>
+<field name="jbo_t">nikle</field>
+<field name="eng_t">Nickel</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nikle</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zinki</field>
+<field name="jbo_t">zinki</field>
+<field name="eng_t">Zinc</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zinki</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tinci</field>
+<field name="jbo_t">tinci</field>
+<field name="eng_t">Tin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tinci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cnisa</field>
+<field name="jbo_t">cnisa</field>
+<field name="eng_t">Lead</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cnisa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:solnavni</field>
+<field name="jbo_t">solnavni</field>
+<field name="eng_t">Helium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/solnavni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:roksodna</field>
+<field name="jbo_t">roksodna</field>
+<field name="eng_t">Lithium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/roksodna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrberilo</field>
+<field name="jbo_t">jinmrberilo</field>
+<field name="eng_t">Beryllium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrberilo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jicmrboro</field>
+<field name="jbo_t">jicmrboro</field>
+<field name="eng_t">Boron</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jicmrboro</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la glico selmikce</field>
+<field name="jbo_t">la glico selmikce</field>
+<field name="eng_t">The English Patient (film)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_glico_selmikce</field>
+</doc>
+<doc>
+<field name="id">jbowiki:troneim</field>
+<field name="jbo_t">troneim</field>
+<field name="eng_t">Trondheim</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/troneim</field>
+</doc>
+<doc>
+<field name="id">jbowiki:namsos</field>
+<field name="jbo_t">namsos</field>
+<field name="eng_t">Namsos</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/namsos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la jaumoi sonci</field>
+<field name="jbo_t">la jaumoi sonci</field>
+<field name="eng_t">The 13th Warrior</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_jaumoi_sonci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dinske</field>
+<field name="jbo_t">dinske</field>
+<field name="eng_t">Economics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dinske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:konstantinupolis</field>
+<field name="jbo_t">konstantinupolis</field>
+<field name="eng_t">Constantinople</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/konstantinupolis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kelvo</field>
+<field name="jbo_t">kelvo</field>
+<field name="eng_t">Kelvin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kelvo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:befsraku</field>
+<field name="jbo_t">befsraku</field>
+<field name="eng_t">Seppuku</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/befsraku</field>
+</doc>
+<doc>
+<field name="id">jbowiki:Stanisław Lem</field>
+<field name="jbo_t">Stanisław Lem</field>
+<field name="eng_t">Stanisław Lem</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/Stanisław_Lem</field>
+</doc>
+<doc>
+<field name="id">jbowiki:soliaris to cuktrnovela toi</field>
+<field name="jbo_t">soliaris to cuktrnovela toi</field>
+<field name="eng_t">Solaris (novel)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/soliaris_to_cuktrnovela_toi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ob</field>
+<field name="jbo_t">ob</field>
+<field name="eng_t">Ob River</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ob</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mu'amad.djunus</field>
+<field name="jbo_t">mu'amad.djunus</field>
+<field name="eng_t">Muhammad Yunus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mu%27amad.djunus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cladakyxa'i</field>
+<field name="jbo_t">cladakyxa'i</field>
+<field name="eng_t">Sword</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cladakyxa%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nu damba befi la berstici</field>
+<field name="jbo_t">nu damba befi la berstici</field>
+<field name="eng_t">The Battle for Wesnoth</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nu_damba_befi_la_berstici</field>
+</doc>
+<doc>
+<field name="id">jbowiki:samselkei</field>
+<field name="jbo_t">samselkei</field>
+<field name="eng_t">Video game</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/samselkei</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gramin. zei banxa</field>
+<field name="jbo_t">gramin. zei banxa</field>
+<field name="eng_t">Grameen Bank</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gramin._zei_banxa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cidjrspageti</field>
+<field name="jbo_t">cidjrspageti</field>
+<field name="eng_t">Spaghetti</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cidjrspageti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ckafi</field>
+<field name="jbo_t">ckafi</field>
+<field name="eng_t">Coffee</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ckafi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:italias</field>
+<field name="jbo_t">italias</field>
+<field name="eng_t">Italy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/italias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lijdrdjaina</field>
+<field name="jbo_t">lijdrdjaina</field>
+<field name="eng_t">Jainism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lijdrdjaina</field>
+</doc>
+<doc>
+<field name="id">jbowiki:stace lijda befi la .iecuax</field>
+<field name="jbo_t">stace lijda befi la .iecuax</field>
+<field name="eng_t">True Jesus Church</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/stace_lijda_befi_la_.iecuax</field>
+</doc>
+<doc>
+<field name="id">jbowiki:frederik. bastiat</field>
+<field name="jbo_t">frederik. bastiat</field>
+<field name="eng_t">Frédéric Bastiat</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/frederik._bastiat</field>
+</doc>
+<doc>
+<field name="id">jbowiki:luk.besyn</field>
+<field name="jbo_t">luk.besyn</field>
+<field name="eng_t">Luc Besson</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/luk.besyn</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kinzbapre</field>
+<field name="jbo_t">kinzbapre</field>
+<field name="eng_t">Film director</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kinzbapre</field>
+</doc>
+<doc>
+<field name="id">jbowiki:leon. to skina toi</field>
+<field name="jbo_t">leon. to skina toi</field>
+<field name="eng_t">Léon (film)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/leon._to_skina_toi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:marna snexu'i</field>
+<field name="jbo_t">marna snexu'i</field>
+<field name="eng_t">Cannabis (drug)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/marna_snexu%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rutni menli</field>
+<field name="jbo_t">rutni menli</field>
+<field name="eng_t">Artificial intelligence</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rutni_menli</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcadrjenevu</field>
+<field name="jbo_t">tcadrjenevu</field>
+<field name="eng_t">Geneva</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcadrjenevu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:peljma daskysmacu</field>
+<field name="jbo_t">peljma daskysmacu</field>
+<field name="eng_t">Yellow-footed Antechinus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/peljma_daskysmacu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sordaivla</field>
+<field name="jbo_t">sordaivla</field>
+<field name="eng_t">Plural</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sordaivla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nanmu</field>
+<field name="jbo_t">nanmu</field>
+<field name="eng_t">Man</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nanmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remna</field>
+<field name="jbo_t">remna</field>
+<field name="eng_t">Human</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cmaplini</field>
+<field name="jbo_t">cmaplini</field>
+<field name="eng_t">Dwarf planet</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cmaplini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pistabno</field>
+<field name="jbo_t">pistabno</field>
+<field name="eng_t">Graphite</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pistabno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cimni smani cmacyje'u</field>
+<field name="jbo_t">cimni smani cmacyje'u</field>
+<field name="eng_t">Infinite monkey theorem</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cimni_smani_cmacyje%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcimpazi</field>
+<field name="jbo_t">tcimpazi</field>
+<field name="eng_t">Chimpanzee</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcimpazi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kanguru</field>
+<field name="jbo_t">kanguru</field>
+<field name="eng_t">Kangaroo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kanguru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tirxu</field>
+<field name="jbo_t">tirxu</field>
+<field name="eng_t">Tiger</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tirxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:selpinxe</field>
+<field name="jbo_t">selpinxe</field>
+<field name="eng_t">Drink</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/selpinxe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djirafa</field>
+<field name="jbo_t">djirafa</field>
+<field name="eng_t">Giraffe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djirafa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kumte</field>
+<field name="jbo_t">kumte</field>
+<field name="eng_t">Camelid</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kumte</field>
+</doc>
+<doc>
+<field name="id">jbowiki:onkapi</field>
+<field name="jbo_t">onkapi</field>
+<field name="eng_t">Okapi</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/onkapi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rafsi</field>
+<field name="jbo_t">rafsi</field>
+<field name="eng_t">Affix</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rafsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fu'ivla</field>
+<field name="jbo_t">fu'ivla</field>
+<field name="eng_t">Loanword</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fu%27ivla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cmevla</field>
+<field name="jbo_t">cmevla</field>
+<field name="eng_t">Name</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cmevla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:odbenu</field>
+<field name="jbo_t">odbenu</field>
+<field name="eng_t">Walrus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/odbenu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pinpedi</field>
+<field name="jbo_t">pinpedi</field>
+<field name="eng_t">Pinniped</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pinpedi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:elvetias</field>
+<field name="jbo_t">elvetias</field>
+<field name="eng_t">Switzerland</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/elvetias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:skari</field>
+<field name="jbo_t">skari</field>
+<field name="eng_t">Color</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/skari</field>
+</doc>
+<doc>
+<field name="id">jbowiki:snidu</field>
+<field name="jbo_t">snidu</field>
+<field name="eng_t">Second</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/snidu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:romanias</field>
+<field name="jbo_t">romanias</field>
+<field name="eng_t">Romania</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/romanias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nalfendi kacna'u</field>
+<field name="jbo_t">nalfendi kacna'u</field>
+<field name="eng_t">Prime number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nalfendi_kacna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nacycmaci</field>
+<field name="jbo_t">nacycmaci</field>
+<field name="eng_t">Number theory</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nacycmaci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinme</field>
+<field name="jbo_t">jinme</field>
+<field name="eng_t">Metal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sodna</field>
+<field name="jbo_t">sodna</field>
+<field name="eng_t">Sodium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sodna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zbabu</field>
+<field name="jbo_t">zbabu</field>
+<field name="eng_t">Soap</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zbabu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:silna</field>
+<field name="jbo_t">silna</field>
+<field name="eng_t">Salt (chemistry)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/silna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:li'orkliru</field>
+<field name="jbo_t">li'orkliru</field>
+<field name="eng_t">Fluorine</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/li%27orkliru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gapci</field>
+<field name="jbo_t">gapci</field>
+<field name="eng_t">Gas</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gapci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ninynavni</field>
+<field name="jbo_t">ninynavni</field>
+<field name="eng_t">Neon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ninynavni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:klirylei</field>
+<field name="jbo_t">klirylei</field>
+<field name="eng_t">Halogen</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/klirylei</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrmalume</field>
+<field name="jbo_t">jinmrmalume</field>
+<field name="eng_t">Aluminium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrmalume</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lastu</field>
+<field name="jbo_t">lastu</field>
+<field name="eng_t">Brass</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lastu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cancmu</field>
+<field name="jbo_t">cancmu</field>
+<field name="eng_t">Silicon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cancmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gasta</field>
+<field name="jbo_t">gasta</field>
+<field name="eng_t">Steel</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gasta</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtitani</field>
+<field name="jbo_t">jinmrtitani</field>
+<field name="eng_t">Titanium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtitani</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sackycmu</field>
+<field name="jbo_t">sackycmu</field>
+<field name="eng_t">Phosphorus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sackycmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lerfu</field>
+<field name="jbo_t">lerfu</field>
+<field name="eng_t">Letter (alphabet)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lerfu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:laznynavni</field>
+<field name="jbo_t">laznynavni</field>
+<field name="eng_t">Argon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/laznynavni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lidgusyjinme</field>
+<field name="jbo_t">lidgusyjinme</field>
+<field name="eng_t">Magnesium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lidgusyjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djacu</field>
+<field name="jbo_t">djacu</field>
+<field name="eng_t">Water</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djacu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vraga</field>
+<field name="jbo_t">vraga</field>
+<field name="eng_t">Lever</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vraga</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sodnrkali</field>
+<field name="jbo_t">sodnrkali</field>
+<field name="eng_t">Potassium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sodnrkali</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sakta</field>
+<field name="jbo_t">sakta</field>
+<field name="eng_t">Sugar</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sakta</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rogjinme</field>
+<field name="jbo_t">rogjinme</field>
+<field name="eng_t">Chromium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rogjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrskandi</field>
+<field name="jbo_t">jinmrskandi</field>
+<field name="eng_t">Scandium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrskandi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrvanadi</field>
+<field name="jbo_t">jinmrvanadi</field>
+<field name="eng_t">Vanadium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrvanadi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrmanga</field>
+<field name="jbo_t">jinmrmanga</field>
+<field name="eng_t">Manganese</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrmanga</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ridjinme</field>
+<field name="jbo_t">ridjinme</field>
+<field name="eng_t">Cobalt</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ridjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fasyjinme</field>
+<field name="jbo_t">fasyjinme</field>
+<field name="eng_t">Gallium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fasyjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dotyjinme</field>
+<field name="jbo_t">dotyjinme</field>
+<field name="eng_t">Germanium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dotyjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:arseniko</field>
+<field name="jbo_t">arseniko</field>
+<field name="eng_t">Arsenic</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/arseniko</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lurcmu</field>
+<field name="jbo_t">lurcmu</field>
+<field name="eng_t">Selenium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lurcmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xunkliru</field>
+<field name="jbo_t">xunkliru</field>
+<field name="eng_t">Bromine</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xunkliru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mipnavni</field>
+<field name="jbo_t">mipnavni</field>
+<field name="eng_t">Krypton</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mipnavni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xunsodna</field>
+<field name="jbo_t">xunsodna</field>
+<field name="eng_t">Rubidium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xunsodna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrstronti</field>
+<field name="jbo_t">jinmrstronti</field>
+<field name="eng_t">Strontium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrstronti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtitri</field>
+<field name="jbo_t">jinmrtitri</field>
+<field name="eng_t">Yttrium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtitri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrzirkoni</field>
+<field name="jbo_t">jinmrzirkoni</field>
+<field name="eng_t">Zirconium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrzirkoni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrni,obi</field>
+<field name="jbo_t">jinmrni,obi</field>
+<field name="eng_t">Niobium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrni,obi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mlibdena</field>
+<field name="jbo_t">mlibdena</field>
+<field name="eng_t">Molybdenum</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mlibdena</field>
+</doc>
+<doc>
+<field name="id">jbowiki:runjinme</field>
+<field name="jbo_t">runjinme</field>
+<field name="eng_t">Technetium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/runjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rukyjinme</field>
+<field name="jbo_t">rukyjinme</field>
+<field name="eng_t">Ruthenium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rukyjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zgujinme</field>
+<field name="jbo_t">zgujinme</field>
+<field name="eng_t">Rhodium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zgujinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrpaladi</field>
+<field name="jbo_t">jinmrpaladi</field>
+<field name="eng_t">Palladium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrpaladi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrkadmu</field>
+<field name="jbo_t">jinmrkadmu</field>
+<field name="eng_t">Cadmium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrkadmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:blajinme</field>
+<field name="jbo_t">blajinme</field>
+<field name="eng_t">Indium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/blajinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:antimoni</field>
+<field name="jbo_t">antimoni</field>
+<field name="eng_t">Antimony</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/antimoni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tedjicmu</field>
+<field name="jbo_t">tedjicmu</field>
+<field name="eng_t">Tellurium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tedjicmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zirkliru</field>
+<field name="jbo_t">zirkliru</field>
+<field name="eng_t">Iodine</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zirkliru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fangynavni</field>
+<field name="jbo_t">fangynavni</field>
+<field name="eng_t">Xenon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fangynavni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:blasodna</field>
+<field name="jbo_t">blasodna</field>
+<field name="eng_t">Caesium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/blasodna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tijyjinme</field>
+<field name="jbo_t">tijyjinme</field>
+<field name="eng_t">Barium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tijyjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrluteti</field>
+<field name="jbo_t">jinmrluteti</field>
+<field name="eng_t">Lutetium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrluteti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrxafni</field>
+<field name="jbo_t">jinmrxafni</field>
+<field name="eng_t">Hafnium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrxafni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtantalu</field>
+<field name="jbo_t">jinmrtantalu</field>
+<field name="eng_t">Tantalum</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtantalu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jarjinme</field>
+<field name="jbo_t">jarjinme</field>
+<field name="eng_t">Tungsten</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jarjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmlreni</field>
+<field name="jbo_t">jinmlreni</field>
+<field name="eng_t">Rhenium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmlreni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrbosmi</field>
+<field name="jbo_t">jinmrbosmi</field>
+<field name="eng_t">Osmium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrbosmi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrdiridi</field>
+<field name="jbo_t">jinmrdiridi</field>
+<field name="eng_t">Iridium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrdiridi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrplati</field>
+<field name="jbo_t">jinmrplati</field>
+<field name="eng_t">Platinum</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrplati</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtali</field>
+<field name="jbo_t">jinmrtali</field>
+<field name="eng_t">Thallium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtali</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrbismu</field>
+<field name="jbo_t">jinmrbismu</field>
+<field name="eng_t">Bismuth</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrbismu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jicmrpoloni</field>
+<field name="jbo_t">jicmrpoloni</field>
+<field name="eng_t">Polonium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jicmrpoloni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:klirlxastati</field>
+<field name="jbo_t">klirlxastati</field>
+<field name="eng_t">Astatine</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/klirlxastati</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dircynavni</field>
+<field name="jbo_t">dircynavni</field>
+<field name="eng_t">Radon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dircynavni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fasysodna</field>
+<field name="jbo_t">fasysodna</field>
+<field name="eng_t">Francium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fasysodna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dircyjinme</field>
+<field name="jbo_t">dircyjinme</field>
+<field name="eng_t">Radium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dircyjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtaktini</field>
+<field name="jbo_t">jinmrtaktini</field>
+<field name="eng_t">Actinium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtaktini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lidycevjinme</field>
+<field name="jbo_t">lidycevjinme</field>
+<field name="eng_t">Thorium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lidycevjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrproktini</field>
+<field name="jbo_t">jinmrproktini</field>
+<field name="eng_t">Protactinium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrproktini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrvurani</field>
+<field name="jbo_t">jinmrvurani</field>
+<field name="eng_t">Uranium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrvurani</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrlantano</field>
+<field name="jbo_t">jinmrlantano</field>
+<field name="eng_t">Lanthanum</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrlantano</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mlijilkle</field>
+<field name="jbo_t">mlijilkle</field>
+<field name="eng_t">Alkaline earth metal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mlijilkle</field>
+</doc>
+<doc>
+<field name="id">jbowiki:denmi</field>
+<field name="jbo_t">denmi</field>
+<field name="eng_t">Density</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/denmi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:krilysu'a</field>
+<field name="jbo_t">krilysu'a</field>
+<field name="eng_t">Crystal structure</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/krilysu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dikni selratni cartu</field>
+<field name="jbo_t">dikni selratni cartu</field>
+<field name="eng_t">Periodic table</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dikni_selratni_cartu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:binjimkle</field>
+<field name="jbo_t">binjimkle</field>
+<field name="eng_t">Transition metal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/binjimkle</field>
+</doc>
+<doc>
+<field name="id">jbowiki:selrunme</field>
+<field name="jbo_t">selrunme</field>
+<field name="eng_t">Melting point</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/selrunme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tadjycolnunte'a</field>
+<field name="jbo_t">tadjycolnunte'a</field>
+<field name="eng_t">Terrorism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tadjycolnunte%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:makfartci</field>
+<field name="jbo_t">makfartci</field>
+<field name="eng_t">Compass</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/makfartci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nalvelganzu sligu</field>
+<field name="jbo_t">nalvelganzu sligu</field>
+<field name="eng_t">Amorphous solid</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nalvelganzu_sligu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrseri</field>
+<field name="jbo_t">jinmrseri</field>
+<field name="eng_t">Cerium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrseri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrprase,odimi</field>
+<field name="jbo_t">jinmrprase,odimi</field>
+<field name="eng_t">Praseodymium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrprase,odimi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrne,odimi</field>
+<field name="jbo_t">jinmrne,odimi</field>
+<field name="eng_t">Neodymium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrne,odimi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fagycevjinme</field>
+<field name="jbo_t">fagycevjinme</field>
+<field name="eng_t">Promethium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fagycevjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrsamari</field>
+<field name="jbo_t">jinmrsamari</field>
+<field name="eng_t">Samarium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrsamari</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ronjinme</field>
+<field name="jbo_t">ronjinme</field>
+<field name="eng_t">Europium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ronjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrgadolini</field>
+<field name="jbo_t">jinmrgadolini</field>
+<field name="eng_t">Gadolinium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrgadolini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrterbi</field>
+<field name="jbo_t">jinmrterbi</field>
+<field name="eng_t">Terbium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrterbi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrdisprosi</field>
+<field name="jbo_t">jinmrdisprosi</field>
+<field name="eng_t">Dysprosium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrdisprosi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrxolmi</field>
+<field name="jbo_t">jinmrxolmi</field>
+<field name="eng_t">Holmium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrxolmi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrberbi</field>
+<field name="jbo_t">jinmrberbi</field>
+<field name="eng_t">Erbium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrberbi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtuli</field>
+<field name="jbo_t">jinmrtuli</field>
+<field name="eng_t">Thulium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtuli</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtiterbi</field>
+<field name="jbo_t">jinmrtiterbi</field>
+<field name="eng_t">Ytterbium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtiterbi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrneptuni</field>
+<field name="jbo_t">jinmrneptuni</field>
+<field name="eng_t">Neptunium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrneptuni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrplutoni</field>
+<field name="jbo_t">jinmrplutoni</field>
+<field name="eng_t">Plutonium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrplutoni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kijytcini</field>
+<field name="jbo_t">kijytcini</field>
+<field name="eng_t">Oxidation number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kijytcini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:febvi</field>
+<field name="jbo_t">febvi</field>
+<field name="eng_t">Boiling point</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/febvi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kalkopairait</field>
+<field name="jbo_t">kalkopairait</field>
+<field name="eng_t">Chalcopyrite</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kalkopairait</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pifcpi</field>
+<field name="jbo_t">pifcpi</field>
+<field name="eng_t">Hornbill</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pifcpi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:merjinme</field>
+<field name="jbo_t">merjinme</field>
+<field name="eng_t">Americium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/merjinme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrkuri</field>
+<field name="jbo_t">jinmrkuri</field>
+<field name="eng_t">Curium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrkuri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrberkeli</field>
+<field name="jbo_t">jinmrberkeli</field>
+<field name="eng_t">Berkelium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrberkeli</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrkaliforni</field>
+<field name="jbo_t">jinmrkaliforni</field>
+<field name="eng_t">Californium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrkaliforni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrtainctaini</field>
+<field name="jbo_t">jinmrtainctaini</field>
+<field name="eng_t">Einsteinium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrtainctaini</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrfermi</field>
+<field name="jbo_t">jinmrfermi</field>
+<field name="eng_t">Fermium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrfermi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrmendelevi</field>
+<field name="jbo_t">jinmrmendelevi</field>
+<field name="eng_t">Mendelevium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrmendelevi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrnobeli</field>
+<field name="jbo_t">jinmrnobeli</field>
+<field name="eng_t">Nobelium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrnobeli</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrlorensi</field>
+<field name="jbo_t">jinmrlorensi</field>
+<field name="eng_t">Lawrencium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrlorensi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmlruterfordi</field>
+<field name="jbo_t">jinmlruterfordi</field>
+<field name="eng_t">Rutherfordium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmlruterfordi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrdubni</field>
+<field name="jbo_t">jinmrdubni</field>
+<field name="eng_t">Dubnium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrdubni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrsiborgi</field>
+<field name="jbo_t">jinmrsiborgi</field>
+<field name="eng_t">Seaborgium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrsiborgi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrbori</field>
+<field name="jbo_t">jinmrbori</field>
+<field name="eng_t">Bohrium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrbori</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrxasi</field>
+<field name="jbo_t">jinmrxasi</field>
+<field name="eng_t">Hassium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrxasi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrmaitneri</field>
+<field name="jbo_t">jinmrmaitneri</field>
+<field name="eng_t">Meitnerium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrmaitneri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jinmrdarmctati</field>
+<field name="jbo_t">jinmrdarmctati</field>
+<field name="eng_t">Darmstadtium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jinmrdarmctati</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rikteropu</field>
+<field name="jbo_t">rikteropu</field>
+<field name="eng_t">Aardvark</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rikteropu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lujvo</field>
+<field name="jbo_t">lujvo</field>
+<field name="eng_t">Compound (linguistics)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lujvo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:manri dujbi'o nejni</field>
+<field name="jbo_t">manri dujbi'o nejni</field>
+<field name="eng_t">Enthalpy of fusion</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/manri_dujbi%27o_nejni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:manri febybi'o nejni</field>
+<field name="jbo_t">manri febybi'o nejni</field>
+<field name="eng_t">Enthalpy of vaporization</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/manri_febybi%27o_nejni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ninxinronbau</field>
+<field name="jbo_t">ninxinronbau</field>
+<field name="eng_t">Modern Indo-European language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ninxinronbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sligu</field>
+<field name="jbo_t">sligu</field>
+<field name="eng_t">Solid</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sligu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pidjni</field>
+<field name="jbo_t">pidjni</field>
+<field name="eng_t">Pidgin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pidjni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:liste loi banskepre</field>
+<field name="jbo_t">liste loi banskepre</field>
+<field name="eng_t">list of linguists</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/liste_loi_banskepre</field>
+</doc>
+<doc>
+<field name="id">jbowiki:na'orteryratni</field>
+<field name="jbo_t">na'orteryratni</field>
+<field name="eng_t">Atomic mass</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/na%27orteryratni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:stedu</field>
+<field name="jbo_t">stedu</field>
+<field name="eng_t">Head</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/stedu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:makykai</field>
+<field name="jbo_t">makykai</field>
+<field name="eng_t">Magnetism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/makykai</field>
+</doc>
+<doc>
+<field name="id">jbowiki:snanilsutra</field>
+<field name="jbo_t">snanilsutra</field>
+<field name="eng_t">Speed of sound</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/snanilsutra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ponslakyle'u</field>
+<field name="jbo_t">ponslakyle'u</field>
+<field name="eng_t">Kana</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ponslakyle%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:daplrxometepe</field>
+<field name="jbo_t">daplrxometepe</field>
+<field name="eng_t">Ometepe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/daplrxometepe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcadrklaipeda</field>
+<field name="jbo_t">tcadrklaipeda</field>
+<field name="eng_t">Klaipėda</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcadrklaipeda</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcadrkatovitse</field>
+<field name="jbo_t">tcadrkatovitse</field>
+<field name="eng_t">Katowice</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcadrkatovitse</field>
+</doc>
+<doc>
+<field name="id">jbowiki:relbau klamburi</field>
+<field name="jbo_t">relbau klamburi</field>
+<field name="eng_t">Bilingual pun</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/relbau_klamburi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:baklanme</field>
+<field name="jbo_t">baklanme</field>
+<field name="eng_t">Muskox</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/baklanme</field>
+</doc>
+<doc>
+<field name="id">jbowiki:me la .OIdipus. stura</field>
+<field name="jbo_t">me la .OIdipus. stura</field>
+<field name="eng_t">Oedipus complex</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/me_la_.OIdipus._stura</field>
+</doc>
+<doc>
+<field name="id">jbowiki:birje</field>
+<field name="jbo_t">birje</field>
+<field name="eng_t">Beer</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/birje</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kuruf</field>
+<field name="jbo_t">kuruf</field>
+<field name="eng_t">Kurów</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kuruf</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sumti</field>
+<field name="jbo_t">sumti</field>
+<field name="eng_t">Verb argument</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sumti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rismi</field>
+<field name="jbo_t">rismi</field>
+<field name="eng_t">Rice</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rismi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gurni</field>
+<field name="jbo_t">gurni</field>
+<field name="eng_t">Cereal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gurni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:noreg</field>
+<field name="jbo_t">noreg</field>
+<field name="eng_t">Norway</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/noreg</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sueriges</field>
+<field name="jbo_t">sueriges</field>
+<field name="eng_t">Sweden</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sueriges</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bertu'a</field>
+<field name="jbo_t">bertu'a</field>
+<field name="eng_t">Scandinavia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bertu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:danmark</field>
+<field name="jbo_t">danmark</field>
+<field name="eng_t">Denmark</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/danmark</field>
+</doc>
+<doc>
+<field name="id">jbowiki:andoras</field>
+<field name="jbo_t">andoras</field>
+<field name="eng_t">Andorra</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/andoras</field>
+</doc>
+<doc>
+<field name="id">jbowiki:island</field>
+<field name="jbo_t">island</field>
+<field name="eng_t">Iceland</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/island</field>
+</doc>
+<doc>
+<field name="id">jbowiki:airland</field>
+<field name="jbo_t">airland</field>
+<field name="eng_t">Republic of Ireland</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/airland</field>
+</doc>
+<doc>
+<field name="id">jbowiki:potygu'e</field>
+<field name="jbo_t">potygu'e</field>
+<field name="eng_t">Portugal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/potygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nederland</field>
+<field name="jbo_t">nederland</field>
+<field name="eng_t">Netherlands</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nederland</field>
+</doc>
+<doc>
+<field name="id">jbowiki:maltas</field>
+<field name="jbo_t">maltas</field>
+<field name="eng_t">Malta</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/maltas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lEtsyburg</field>
+<field name="jbo_t">lEtsyburg</field>
+<field name="eng_t">Luxembourg</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lEtsyburg</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lictenctain</field>
+<field name="jbo_t">lictenctain</field>
+<field name="eng_t">Liechtenstein</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lictenctain</field>
+</doc>
+<doc>
+<field name="id">jbowiki:parikuTIN</field>
+<field name="jbo_t">parikuTIN</field>
+<field name="eng_t">Parícutin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/parikuTIN</field>
+</doc>
+<doc>
+<field name="id">jbowiki:maikrosaft</field>
+<field name="jbo_t">maikrosaft</field>
+<field name="eng_t">Microsoft</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/maikrosaft</field>
+</doc>
+<doc>
+<field name="id">jbowiki:imazixen</field>
+<field name="jbo_t">imazixen</field>
+<field name="eng_t">Berber people</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/imazixen</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ludvix.fan.beitoven</field>
+<field name="jbo_t">ludvix.fan.beitoven</field>
+<field name="eng_t">Ludwig van Beethoven</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ludvix.fan.beitoven</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nalseljunbau</field>
+<field name="jbo_t">nalseljunbau</field>
+<field name="eng_t">Lingua Ignota</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nalseljunbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:.nikolaus.kopernikus</field>
+<field name="jbo_t">.nikolaus.kopernikus</field>
+<field name="eng_t">Nicolaus Copernicus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/.nikolaus.kopernikus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ketlete</field>
+<field name="jbo_t">ketlete</field>
+<field name="eng_t">Body mass index</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ketlete</field>
+</doc>
+<doc>
+<field name="id">jbowiki:Nagardjunas</field>
+<field name="jbo_t">Nagardjunas</field>
+<field name="eng_t">Nagarjuna</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/Nagardjunas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:canti</field>
+<field name="jbo_t">canti</field>
+<field name="eng_t">Human gastrointestinal tract</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/canti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gerna selcni</field>
+<field name="jbo_t">gerna selcni</field>
+<field name="eng_t">Grammatical mood</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gerna_selcni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fla,ui,us.klaudius.io,ui,anus</field>
+<field name="jbo_t">fla,ui,us.klaudius.io,ui,anus</field>
+<field name="eng_t">Jovian (emperor)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fla,ui,us.klaudius.io,ui,anus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:danlu kamjikyzi'e</field>
+<field name="jbo_t">danlu kamjikyzi'e</field>
+<field name="eng_t">Animal rights</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/danlu_kamjikyzi%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:marji</field>
+<field name="jbo_t">marji</field>
+<field name="eng_t">Matter</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/marji</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ligytedyske</field>
+<field name="jbo_t">ligytedyske</field>
+<field name="eng_t">Geology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ligytedyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remna girzu</field>
+<field name="jbo_t">remna girzu</field>
+<field name="eng_t">Social group</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remna_girzu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mivyfu'i</field>
+<field name="jbo_t">mivyfu'i</field>
+<field name="eng_t">Cloning</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mivyfu%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jmive</field>
+<field name="jbo_t">jmive</field>
+<field name="eng_t">Organism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jmive</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ji'esle</field>
+<field name="jbo_t">ji'esle</field>
+<field name="eng_t">Cell (biology)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ji%27esle</field>
+</doc>
+<doc>
+<field name="id">jbowiki:banfi</field>
+<field name="jbo_t">banfi</field>
+<field name="eng_t">Amphibian</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/banfi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pavma'i</field>
+<field name="jbo_t">pavma'i</field>
+<field name="eng_t">January</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pavma%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:masti</field>
+<field name="jbo_t">masti</field>
+<field name="eng_t">Month</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/masti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:singapura</field>
+<field name="jbo_t">singapura</field>
+<field name="eng_t">Singapore</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/singapura</field>
+</doc>
+<doc>
+<field name="id">jbowiki:relma'i</field>
+<field name="jbo_t">relma'i</field>
+<field name="eng_t">February</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/relma%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jaurbei solgrixra</field>
+<field name="jbo_t">jaurbei solgrixra</field>
+<field name="eng_t">Aquarius (constellation)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jaurbei_solgrixra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kanba solgrixra</field>
+<field name="jbo_t">kanba solgrixra</field>
+<field name="eng_t">Capricornus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kanba_solgrixra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:manti saske</field>
+<field name="jbo_t">manti saske</field>
+<field name="eng_t">Myrmecology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/manti_saske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dujro'i</field>
+<field name="jbo_t">dujro'i</field>
+<field name="eng_t">Igneous rock</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dujro%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ginske</field>
+<field name="jbo_t">ginske</field>
+<field name="eng_t">Genetics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ginske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:libgu'e</field>
+<field name="jbo_t">libgu'e</field>
+<field name="eng_t">Libya</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/libgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcad</field>
+<field name="jbo_t">tcad</field>
+<field name="eng_t">Chad</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcad</field>
+</doc>
+<doc>
+<field name="id">jbowiki:alzaitu</field>
+<field name="jbo_t">alzaitu</field>
+<field name="eng_t">Olive</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/alzaitu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kuritcibas</field>
+<field name="jbo_t">kuritcibas</field>
+<field name="eng_t">Curitiba</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kuritcibas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:drupepa</field>
+<field name="jbo_t">drupepa</field>
+<field name="eng_t">Drupe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/drupepa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bercribe</field>
+<field name="jbo_t">bercribe</field>
+<field name="eng_t">Polar bear</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bercribe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ma'a fa'u mi'a</field>
+<field name="jbo_t">ma'a fa'u mi'a</field>
+<field name="eng_t">Clusivity</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ma%27a_fa%27u_mi%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nobel.zei termu'eske velne'u</field>
+<field name="jbo_t">nobel.zei termu'eske velne'u</field>
+<field name="eng_t">Nobel Prize in Physics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nobel.zei_termu%27eske_velne%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:almaZAN</field>
+<field name="jbo_t">almaZAN</field>
+<field name="eng_t">Almazán</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/almaZAN</field>
+</doc>
+<doc>
+<field name="id">jbowiki:eliogabalus</field>
+<field name="jbo_t">eliogabalus</field>
+<field name="eng_t">Elagabalus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/eliogabalus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:vietnam</field>
+<field name="jbo_t">vietnam</field>
+<field name="eng_t">Vietnam</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/vietnam</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nixerias</field>
+<field name="jbo_t">nixerias</field>
+<field name="eng_t">Nigeria</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nixerias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:latmo veldetri</field>
+<field name="jbo_t">latmo veldetri</field>
+<field name="eng_t">Roman calendar</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/latmo_veldetri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mijropno</field>
+<field name="jbo_t">mijropno</field>
+<field name="eng_t">Central Europe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mijropno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:uetersen</field>
+<field name="jbo_t">uetersen</field>
+<field name="eng_t">Uetersen</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/uetersen</field>
+</doc>
+<doc>
+<field name="id">jbowiki:napoleon</field>
+<field name="jbo_t">napoleon</field>
+<field name="eng_t">Napoleon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/napoleon</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nalre'ucti</field>
+<field name="jbo_t">nalre'ucti</field>
+<field name="eng_t">Vegetarianism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nalre%27ucti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:neptunz. to remei toi</field>
+<field name="jbo_t">neptunz. to remei toi</field>
+<field name="eng_t">The Neptunes</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/neptunz._to_remei_toi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:madjan</field>
+<field name="jbo_t">madjan</field>
+<field name="eng_t">Mahjong</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/madjan</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tabrelkijno</field>
+<field name="jbo_t">tabrelkijno</field>
+<field name="eng_t">Carbon dioxide</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tabrelkijno</field>
+</doc>
+<doc>
+<field name="id">jbowiki:badenvirtemberg</field>
+<field name="jbo_t">badenvirtemberg</field>
+<field name="eng_t">Baden-Württemberg</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/badenvirtemberg</field>
+</doc>
+<doc>
+<field name="id">jbowiki:berlin</field>
+<field name="jbo_t">berlin</field>
+<field name="eng_t">Berlin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/berlin</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jacke'o</field>
+<field name="jbo_t">jacke'o</field>
+<field name="eng_t">Celsius</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jacke%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dutydikca kantu</field>
+<field name="jbo_t">dutydikca kantu</field>
+<field name="eng_t">Electron</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dutydikca_kantu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ronru'u</field>
+<field name="jbo_t">ronru'u</field>
+<field name="eng_t">Euro</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ronru%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ropno gunma</field>
+<field name="jbo_t">ropno gunma</field>
+<field name="eng_t">European Union</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ropno_gunma</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rirni</field>
+<field name="jbo_t">rirni</field>
+<field name="eng_t">Parent</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rirni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:astrid. lindgren</field>
+<field name="jbo_t">astrid. lindgren</field>
+<field name="eng_t">Astrid Lindgren</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/astrid._lindgren</field>
+</doc>
+<doc>
+<field name="id">jbowiki:galbisybau</field>
+<field name="jbo_t">galbisybau</field>
+<field name="eng_t">High Icelandic</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/galbisybau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bancuvysi'o</field>
+<field name="jbo_t">bancuvysi'o</field>
+<field name="eng_t">Linguistic purism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bancuvysi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:beryrontu'a</field>
+<field name="jbo_t">beryrontu'a</field>
+<field name="eng_t">Northern Europe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/beryrontu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mitre</field>
+<field name="jbo_t">mitre</field>
+<field name="eng_t">Metre</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mitre</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nilsutra lo gusni</field>
+<field name="jbo_t">nilsutra lo gusni</field>
+<field name="eng_t">Speed of light</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nilsutra_lo_gusni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la by sy dy poi gubni</field>
+<field name="jbo_t">la by sy dy poi gubni</field>
+<field name="eng_t">OpenBSD</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_by_sy_dy_poi_gubni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:konskovola</field>
+<field name="jbo_t">konskovola</field>
+<field name="eng_t">Końskowola</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/konskovola</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sampla</field>
+<field name="jbo_t">sampla</field>
+<field name="eng_t">Computer programming</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sampla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sambau</field>
+<field name="jbo_t">sambau</field>
+<field name="eng_t">Machine code</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sambau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:samplabau</field>
+<field name="jbo_t">samplabau</field>
+<field name="eng_t">Programming language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/samplabau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:badna</field>
+<field name="jbo_t">badna</field>
+<field name="eng_t">Banana</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/badna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:merkurios</field>
+<field name="jbo_t">merkurios</field>
+<field name="eng_t">Mercury (planet)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/merkurios</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mars</field>
+<field name="jbo_t">mars</field>
+<field name="eng_t">Mars</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mars</field>
+</doc>
+<doc>
+<field name="id">jbowiki:saturn</field>
+<field name="jbo_t">saturn</field>
+<field name="eng_t">Saturn</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/saturn</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cicna</field>
+<field name="jbo_t">cicna</field>
+<field name="eng_t">Cyan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cicna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:relcimdyna'u</field>
+<field name="jbo_t">relcimdyna'u</field>
+<field name="eng_t">Complex number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/relcimdyna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ka'o</field>
+<field name="jbo_t">ka'o</field>
+<field name="eng_t">Imaginary unit</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ka%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:voncimdyna'u</field>
+<field name="jbo_t">voncimdyna'u</field>
+<field name="eng_t">Quaternion</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/voncimdyna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mark.tuein</field>
+<field name="jbo_t">mark.tuein</field>
+<field name="eng_t">Mark Twain</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mark.tuein</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nom.tcomskis</field>
+<field name="jbo_t">nom.tcomskis</field>
+<field name="eng_t">Noam Chomsky</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nom.tcomskis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:starkraft</field>
+<field name="jbo_t">starkraft</field>
+<field name="eng_t">StarCraft</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/starkraft</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nintendos</field>
+<field name="jbo_t">nintendos</field>
+<field name="eng_t">Nintendo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nintendos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:toiotas</field>
+<field name="jbo_t">toiotas</field>
+<field name="eng_t">Toyota</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/toiotas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gugdrsu,omi</field>
+<field name="jbo_t">gugdrsu,omi</field>
+<field name="eng_t">Finland</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gugdrsu,omi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:biork</field>
+<field name="jbo_t">biork</field>
+<field name="eng_t">Björk</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/biork</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kalifornias</field>
+<field name="jbo_t">kalifornias</field>
+<field name="eng_t">California</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kalifornias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kolorados</field>
+<field name="jbo_t">kolorados</field>
+<field name="eng_t">Colorado</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kolorados</field>
+</doc>
+<doc>
+<field name="id">jbowiki:oregon</field>
+<field name="jbo_t">oregon</field>
+<field name="eng_t">Oregon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/oregon</field>
+</doc>
+<doc>
+<field name="id">jbowiki:io'an.zebastian.bax</field>
+<field name="jbo_t">io'an.zebastian.bax</field>
+<field name="eng_t">Johann Sebastian Bach</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/io%27an.zebastian.bax</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djosef.smit</field>
+<field name="jbo_t">djosef.smit</field>
+<field name="eng_t">Joseph Smith</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djosef.smit</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tokiponas</field>
+<field name="jbo_t">tokiponas</field>
+<field name="eng_t">Toki Pona</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tokiponas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:buenosaires</field>
+<field name="jbo_t">buenosaires</field>
+<field name="eng_t">Buenos Aires</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/buenosaires</field>
+</doc>
+<doc>
+<field name="id">jbowiki:paris</field>
+<field name="jbo_t">paris</field>
+<field name="eng_t">Paris</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/paris</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xorxes.luis.borxes</field>
+<field name="jbo_t">xorxes.luis.borxes</field>
+<field name="eng_t">Jorge Luis Borges</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xorxes.luis.borxes</field>
+</doc>
+<doc>
+<field name="id">jbowiki:arnold. cyvartseneger</field>
+<field name="jbo_t">arnold. cyvartseneger</field>
+<field name="eng_t">Arnold Schwarzenegger</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/arnold._cyvartseneger</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xalo,uin</field>
+<field name="jbo_t">xalo,uin</field>
+<field name="eng_t">Halloween</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xalo,uin</field>
+</doc>
+<doc>
+<field name="id">jbowiki:muicerangas</field>
+<field name="jbo_t">muicerangas</field>
+<field name="eng_t">Muixeranga</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/muicerangas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sirenias</field>
+<field name="jbo_t">sirenias</field>
+<field name="eng_t">Sirenia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sirenias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:luvr</field>
+<field name="jbo_t">luvr</field>
+<field name="eng_t">Musée du Louvre</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/luvr</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fraiburg</field>
+<field name="jbo_t">fraiburg</field>
+<field name="eng_t">Freiburg im Breisgau</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fraiburg</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rafael.del.riegos</field>
+<field name="jbo_t">rafael.del.riegos</field>
+<field name="eng_t">Rafael del Riego</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rafael.del.riegos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dcosyn/xanguk</field>
+<field name="jbo_t">dcosyn/xanguk</field>
+<field name="eng_t">Korea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dcosyn/xanguk</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gos</field>
+<field name="jbo_t">gos</field>
+<field name="eng_t">Go (game)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:volapuk</field>
+<field name="jbo_t">volapuk</field>
+<field name="eng_t">Volapük</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/volapuk</field>
+</doc>
+<doc>
+<field name="id">jbowiki:prolog</field>
+<field name="jbo_t">prolog</field>
+<field name="eng_t">Prolog</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/prolog</field>
+</doc>
+<doc>
+<field name="id">jbowiki:deivid.pekinpas</field>
+<field name="jbo_t">deivid.pekinpas</field>
+<field name="eng_t">David Peckinpah</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/deivid.pekinpas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:poxiol</field>
+<field name="jbo_t">poxiol</field>
+<field name="eng_t">Pohjola</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/poxiol</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gymbis</field>
+<field name="jbo_t">gymbis</field>
+<field name="eng_t">Gumby</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gymbis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:miraris.uos</field>
+<field name="jbo_t">miraris.uos</field>
+<field name="eng_t">Mirari Vos</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/miraris.uos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lubin</field>
+<field name="jbo_t">lubin</field>
+<field name="eng_t">Lubin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lubin</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bangrmalti</field>
+<field name="jbo_t">bangrmalti</field>
+<field name="eng_t">Maltese language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bangrmalti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cipra mukti sampla</field>
+<field name="jbo_t">cipra mukti sampla</field>
+<field name="eng_t">Test-driven development</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cipra_mukti_sampla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gerku</field>
+<field name="jbo_t">gerku</field>
+<field name="eng_t">Dog</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gerku</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bylgAri,as</field>
+<field name="jbo_t">bylgAri,as</field>
+<field name="eng_t">Bulgaria</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bylgAri,as</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la .alkubi,er. ci'efanc.</field>
+<field name="jbo_t">la .alkubi,er. ci'efanc.</field>
+<field name="eng_t">Alcubierre drive</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_.alkubi,er._ci%27efanc.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dalske</field>
+<field name="jbo_t">dalske</field>
+<field name="eng_t">Zoology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dalske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cmavo</field>
+<field name="jbo_t">cmavo</field>
+<field name="eng_t">Function word</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cmavo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xesybau</field>
+<field name="jbo_t">xesybau</field>
+<field name="eng_t">Greek language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xesybau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ladru</field>
+<field name="jbo_t">ladru</field>
+<field name="eng_t">Milk</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ladru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:moklu</field>
+<field name="jbo_t">moklu</field>
+<field name="eng_t">Mouth</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/moklu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kanla</field>
+<field name="jbo_t">kanla</field>
+<field name="eng_t">Eye</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kanla</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tunba</field>
+<field name="jbo_t">tunba</field>
+<field name="eng_t">Sibling</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tunba</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fepri</field>
+<field name="jbo_t">fepri</field>
+<field name="eng_t">Lung</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fepri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:risna</field>
+<field name="jbo_t">risna</field>
+<field name="eng_t">Heart</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/risna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fonxa</field>
+<field name="jbo_t">fonxa</field>
+<field name="eng_t">Telephone</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fonxa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:byRAK.obamas</field>
+<field name="jbo_t">byRAK.obamas</field>
+<field name="eng_t">Barack Obama</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/byRAK.obamas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jmive remske</field>
+<field name="jbo_t">jmive remske</field>
+<field name="eng_t">Biological anthropology</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jmive_remske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lenin</field>
+<field name="jbo_t">lenin</field>
+<field name="eng_t">Vladimir Lenin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lenin</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mluske to pijyske</field>
+<field name="jbo_t">mluske to pijyske</field>
+<field name="eng_t">Phenomenology (philosophy)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mluske_to_pijyske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zatsi'o</field>
+<field name="jbo_t">zatsi'o</field>
+<field name="eng_t">Existentialism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zatsi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dong. xois.</field>
+<field name="jbo_t">dong. xois.</field>
+<field name="eng_t">Dong Hoi</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dong._xois.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la xunre je blanu stizu</field>
+<field name="jbo_t">la xunre je blanu stizu</field>
+<field name="eng_t">Red and Blue Chair</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_xunre_je_blanu_stizu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nikitas. xrucof.</field>
+<field name="jbo_t">nikitas. xrucof.</field>
+<field name="eng_t">Nikita Khrushchev</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nikitas._xrucof.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:karl. marks</field>
+<field name="jbo_t">karl. marks</field>
+<field name="eng_t">Karl Marx</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/karl._marks</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la'ortu'a</field>
+<field name="jbo_t">la'ortu'a</field>
+<field name="eng_t">Latin America</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la%27ortu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tutske</field>
+<field name="jbo_t">tutske</field>
+<field name="eng_t">Geography</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tutske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remce'u</field>
+<field name="jbo_t">remce'u</field>
+<field name="eng_t">Society</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remce%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:benesuel</field>
+<field name="jbo_t">benesuel</field>
+<field name="eng_t">Venezuela</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/benesuel</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ketytu'a</field>
+<field name="jbo_t">ketytu'a</field>
+<field name="eng_t">South America</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ketytu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:guatemal</field>
+<field name="jbo_t">guatemal</field>
+<field name="eng_t">Guatemala</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/guatemal</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kubas</field>
+<field name="jbo_t">kubas</field>
+<field name="eng_t">Cuba</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kubas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ekuador</field>
+<field name="jbo_t">ekuador</field>
+<field name="eng_t">Ecuador</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ekuador</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sofygu'e</field>
+<field name="jbo_t">sofygu'e</field>
+<field name="eng_t">Soviet Union</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sofygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nikaraguas</field>
+<field name="jbo_t">nikaraguas</field>
+<field name="eng_t">Nicaragua</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nikaraguas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pasifik. zei braxamsi</field>
+<field name="jbo_t">pasifik. zei braxamsi</field>
+<field name="eng_t">Pacific Ocean</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pasifik._zei_braxamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bolivias</field>
+<field name="jbo_t">bolivias</field>
+<field name="eng_t">Bolivia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bolivias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:paraguais</field>
+<field name="jbo_t">paraguais</field>
+<field name="eng_t">Paraguay</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/paraguais</field>
+</doc>
+<doc>
+<field name="id">jbowiki:onduras</field>
+<field name="jbo_t">onduras</field>
+<field name="eng_t">Honduras</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/onduras</field>
+</doc>
+<doc>
+<field name="id">jbowiki:salbador</field>
+<field name="jbo_t">salbador</field>
+<field name="eng_t">El Salvador</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/salbador</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kostarikas</field>
+<field name="jbo_t">kostarikas</field>
+<field name="eng_t">Costa Rica</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kostarikas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:panamas</field>
+<field name="jbo_t">panamas</field>
+<field name="eng_t">Panama</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/panamas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kolombias</field>
+<field name="jbo_t">kolombias</field>
+<field name="eng_t">Colombia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kolombias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:perus</field>
+<field name="jbo_t">perus</field>
+<field name="eng_t">Peru</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/perus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:uruguais</field>
+<field name="jbo_t">uruguais</field>
+<field name="eng_t">Uruguay</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/uruguais</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gudjanas</field>
+<field name="jbo_t">gudjanas</field>
+<field name="eng_t">Guyana</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gudjanas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tciles</field>
+<field name="jbo_t">tciles</field>
+<field name="eng_t">Chile</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tciles</field>
+</doc>
+<doc>
+<field name="id">jbowiki:belrus</field>
+<field name="jbo_t">belrus</field>
+<field name="eng_t">Belarus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/belrus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:moldovas</field>
+<field name="jbo_t">moldovas</field>
+<field name="eng_t">Moldova</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/moldovas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:misrygu'e</field>
+<field name="jbo_t">misrygu'e</field>
+<field name="eng_t">Egypt</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/misrygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xesygu'e</field>
+<field name="jbo_t">xesygu'e</field>
+<field name="eng_t">Greece</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xesygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bauske</field>
+<field name="jbo_t">bauske</field>
+<field name="eng_t">Linguistics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bauske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcati</field>
+<field name="jbo_t">tcati</field>
+<field name="eng_t">Tea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcati</field>
+</doc>
+<doc>
+<field name="id">jbowiki:karibes. zei xamsi</field>
+<field name="jbo_t">karibes. zei xamsi</field>
+<field name="eng_t">Caribbean Sea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/karibes._zei_xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ubuntus</field>
+<field name="jbo_t">ubuntus</field>
+<field name="eng_t">Ubuntu (operating system)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ubuntus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jexygu'e</field>
+<field name="jbo_t">jexygu'e</field>
+<field name="eng_t">Algeria</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jexygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gynus</field>
+<field name="jbo_t">gynus</field>
+<field name="eng_t">GNU</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gynus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:morgu'e</field>
+<field name="jbo_t">morgu'e</field>
+<field name="eng_t">Morocco</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/morgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lu'orgu'e</field>
+<field name="jbo_t">lu'orgu'e</field>
+<field name="eng_t">Lebanon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lu%27orgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:raksygu'e</field>
+<field name="jbo_t">raksygu'e</field>
+<field name="eng_t">Iraq</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/raksygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zgirpopu</field>
+<field name="jbo_t">zgirpopu</field>
+<field name="eng_t">Pop music</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zgirpopu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zgirjazu</field>
+<field name="jbo_t">zgirjazu</field>
+<field name="eng_t">Jazz</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zgirjazu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zginroknro</field>
+<field name="jbo_t">zginroknro</field>
+<field name="eng_t">Rock and roll</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zginroknro</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ninmu</field>
+<field name="jbo_t">ninmu</field>
+<field name="eng_t">Woman</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ninmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:detri</field>
+<field name="jbo_t">detri</field>
+<field name="eng_t">Calendar date</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/detri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:Huang Xianfan</field>
+<field name="jbo_t">Huang Xianfan</field>
+<field name="eng_t">Huang Xianfan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/Huang_Xianfan</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djogu'e</field>
+<field name="jbo_t">djogu'e</field>
+<field name="eng_t">Saudi Arabia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djogu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zdosible'u</field>
+<field name="jbo_t">zdosible'u</field>
+<field name="eng_t">Chinese characters</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zdosible%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:iesus</field>
+<field name="jbo_t">iesus</field>
+<field name="eng_t">Jesus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/iesus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sieras. leon</field>
+<field name="jbo_t">sieras. leon</field>
+<field name="eng_t">Sierra Leone</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sieras._leon</field>
+</doc>
+<doc>
+<field name="id">jbowiki:uuxan</field>
+<field name="jbo_t">uuxan</field>
+<field name="eng_t">Wuhan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/uuxan</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tces.gevaras</field>
+<field name="jbo_t">tces.gevaras</field>
+<field name="eng_t">Che Guevara</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tces.gevaras</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jugbau</field>
+<field name="jbo_t">jugbau</field>
+<field name="eng_t">Chinese language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jugbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mergu'e vipygu'e</field>
+<field name="jbo_t">mergu'e vipygu'e</field>
+<field name="eng_t">U.S. state</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mergu%27e_vipygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sokrates</field>
+<field name="jbo_t">sokrates</field>
+<field name="eng_t">Socrates</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sokrates</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gunma natmi</field>
+<field name="jbo_t">gunma natmi</field>
+<field name="eng_t">United Nations</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gunma_natmi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:besna</field>
+<field name="jbo_t">besna</field>
+<field name="eng_t">Brain</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/besna</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xindo braxamsi</field>
+<field name="jbo_t">xindo braxamsi</field>
+<field name="eng_t">Indian Ocean</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xindo_braxamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bakni</field>
+<field name="jbo_t">bakni</field>
+<field name="eng_t">Cattle</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bakni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lunra</field>
+<field name="jbo_t">lunra</field>
+<field name="eng_t">Moon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lunra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:solri ciste</field>
+<field name="jbo_t">solri ciste</field>
+<field name="eng_t">Solar System</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/solri_ciste</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xumsle</field>
+<field name="jbo_t">xumsle</field>
+<field name="eng_t">Molecule</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xumsle</field>
+</doc>
+<doc>
+<field name="id">jbowiki:logji</field>
+<field name="jbo_t">logji</field>
+<field name="eng_t">Logic</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/logji</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cipra</field>
+<field name="jbo_t">cipra</field>
+<field name="eng_t">Mathematical proof</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cipra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:skami</field>
+<field name="jbo_t">skami</field>
+<field name="eng_t">Computer</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/skami</field>
+</doc>
+<doc>
+<field name="id">jbowiki:iupiter</field>
+<field name="jbo_t">iupiter</field>
+<field name="eng_t">Jupiter</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/iupiter</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mexygu'e tcadu</field>
+<field name="jbo_t">mexygu'e tcadu</field>
+<field name="eng_t">Mexico City</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mexygu%27e_tcadu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pluton</field>
+<field name="jbo_t">pluton</field>
+<field name="eng_t">Pluto</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pluton</field>
+</doc>
+<doc>
+<field name="id">jbowiki:venus</field>
+<field name="jbo_t">venus</field>
+<field name="eng_t">Venus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/venus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:aristoteles</field>
+<field name="jbo_t">aristoteles</field>
+<field name="eng_t">Aristotle</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/aristoteles</field>
+</doc>
+<doc>
+<field name="id">jbowiki:volter</field>
+<field name="jbo_t">volter</field>
+<field name="eng_t">Voltaire</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/volter</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rios. dis. djaneiros</field>
+<field name="jbo_t">rios. dis. djaneiros</field>
+<field name="eng_t">Rio de Janeiro</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rios._dis._djaneiros</field>
+</doc>
+<doc>
+<field name="id">jbowiki:aleksandr. puckin</field>
+<field name="jbo_t">aleksandr. puckin</field>
+<field name="eng_t">Alexander Pushkin</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/aleksandr._puckin</field>
+</doc>
+<doc>
+<field name="id">jbowiki:atenas</field>
+<field name="jbo_t">atenas</field>
+<field name="eng_t">Athens</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/atenas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:baikal. zei lalxu</field>
+<field name="jbo_t">baikal. zei lalxu</field>
+<field name="eng_t">Lake Baikal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/baikal._zei_lalxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ritcard. stalman</field>
+<field name="jbo_t">ritcard. stalman</field>
+<field name="eng_t">Richard Stallman</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ritcard._stalman</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lev. trotskis</field>
+<field name="jbo_t">lev. trotskis</field>
+<field name="eng_t">Leon Trotsky</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lev._trotskis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remna selcru</field>
+<field name="jbo_t">remna selcru</field>
+<field name="eng_t">Human rights</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remna_selcru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:banli lalxu</field>
+<field name="jbo_t">banli lalxu</field>
+<field name="eng_t">Great Lakes</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/banli_lalxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:konstantius.xlorus</field>
+<field name="jbo_t">konstantius.xlorus</field>
+<field name="eng_t">Constantius Chlorus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/konstantius.xlorus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gugde</field>
+<field name="jbo_t">gugde</field>
+<field name="eng_t">Country</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gugde</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jorgu'e</field>
+<field name="jbo_t">jorgu'e</field>
+<field name="eng_t">Jordan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jorgu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:brogu'e</field>
+<field name="jbo_t">brogu'e</field>
+<field name="eng_t">Israel</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/brogu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sixygu'e</field>
+<field name="jbo_t">sixygu'e</field>
+<field name="eng_t">Syria</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sixygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:beliz</field>
+<field name="jbo_t">beliz</field>
+<field name="eng_t">Belize</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/beliz</field>
+</doc>
+<doc>
+<field name="id">jbowiki:surinam</field>
+<field name="jbo_t">surinam</field>
+<field name="eng_t">Suriname</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/surinam</field>
+</doc>
+<doc>
+<field name="id">jbowiki:gabon</field>
+<field name="jbo_t">gabon</field>
+<field name="eng_t">Gabon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/gabon</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sudan</field>
+<field name="jbo_t">sudan</field>
+<field name="eng_t">Sudan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sudan</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ugandas</field>
+<field name="jbo_t">ugandas</field>
+<field name="eng_t">Uganda</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ugandas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:snanu zei .xanguk</field>
+<field name="jbo_t">snanu zei .xanguk</field>
+<field name="eng_t">South Korea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/snanu_zei_.xanguk</field>
+</doc>
+<doc>
+<field name="id">jbowiki:berti zei .dcosyn</field>
+<field name="jbo_t">berti zei .dcosyn</field>
+<field name="eng_t">North Korea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/berti_zei_.dcosyn</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kazaksTAN</field>
+<field name="jbo_t">kazaksTAN</field>
+<field name="eng_t">Kazakhstan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kazaksTAN</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ziptu'a</field>
+<field name="jbo_t">ziptu'a</field>
+<field name="eng_t">Antarctica</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ziptu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kampindi</field>
+<field name="jbo_t">kampindi</field>
+<field name="eng_t">Poverty</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kampindi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mijytu'a xamsi</field>
+<field name="jbo_t">mijytu'a xamsi</field>
+<field name="eng_t">Mediterranean Sea</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mijytu%27a_xamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kenias</field>
+<field name="jbo_t">kenias</field>
+<field name="eng_t">Kenya</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kenias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:leonardos.davintcis</field>
+<field name="jbo_t">leonardos.davintcis</field>
+<field name="eng_t">Leonardo da Vinci</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/leonardos.davintcis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:itiopias</field>
+<field name="jbo_t">itiopias</field>
+<field name="eng_t">Ethiopia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/itiopias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:aisak.niuton</field>
+<field name="jbo_t">aisak.niuton</field>
+<field name="eng_t">Isaac Newton</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/aisak.niuton</field>
+</doc>
+<doc>
+<field name="id">jbowiki:uranos</field>
+<field name="jbo_t">uranos</field>
+<field name="eng_t">Uranus</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/uranos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:prucitri</field>
+<field name="jbo_t">prucitri</field>
+<field name="eng_t">Prehistory</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/prucitri</field>
+</doc>
+<doc>
+<field name="id">jbowiki:anil. zei rirxe</field>
+<field name="jbo_t">anil. zei rirxe</field>
+<field name="eng_t">Nile</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/anil._zei_rirxe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tarci</field>
+<field name="jbo_t">tarci</field>
+<field name="eng_t">Star</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tarci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:respa</field>
+<field name="jbo_t">respa</field>
+<field name="eng_t">Reptile</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/respa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mlatu</field>
+<field name="jbo_t">mlatu</field>
+<field name="eng_t">Cat</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mlatu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rokci cedra</field>
+<field name="jbo_t">rokci cedra</field>
+<field name="eng_t">Stone Age</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rokci_cedra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:titikakas. zei lalxu</field>
+<field name="jbo_t">titikakas. zei lalxu</field>
+<field name="eng_t">Lake Titicaca</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/titikakas._zei_lalxu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cribe</field>
+<field name="jbo_t">cribe</field>
+<field name="eng_t">Bear</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cribe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lietuvas</field>
+<field name="jbo_t">lietuvas</field>
+<field name="eng_t">Lithuania</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lietuvas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:amazonas. zei rirxe</field>
+<field name="jbo_t">amazonas. zei rirxe</field>
+<field name="eng_t">Amazon River</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/amazonas._zei_rirxe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:plajva</field>
+<field name="jbo_t">plajva</field>
+<field name="eng_t">Politics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/plajva</field>
+</doc>
+<doc>
+<field name="id">jbowiki:noltrusi'o</field>
+<field name="jbo_t">noltrusi'o</field>
+<field name="eng_t">Monarchism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/noltrusi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:viltrusi'o</field>
+<field name="jbo_t">viltrusi'o</field>
+<field name="eng_t">Fascism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/viltrusi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cemtrusi'o</field>
+<field name="jbo_t">cemtrusi'o</field>
+<field name="eng_t">Socialism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cemtrusi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kaurpo'esi'o</field>
+<field name="jbo_t">kaurpo'esi'o</field>
+<field name="eng_t">Communism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kaurpo%27esi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:roltrusi'o</field>
+<field name="jbo_t">roltrusi'o</field>
+<field name="eng_t">Democracy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/roltrusi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nonje'asi'o</field>
+<field name="jbo_t">nonje'asi'o</field>
+<field name="eng_t">Anarchism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nonje%27asi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:selbaise'u</field>
+<field name="jbo_t">selbaise'u</field>
+<field name="eng_t">Slavery</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/selbaise%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:di,orsais. zei muzga</field>
+<field name="jbo_t">di,orsais. zei muzga</field>
+<field name="eng_t">Musée d'Orsay</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/di,orsais._zei_muzga</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kongzi</field>
+<field name="jbo_t">kongzi</field>
+<field name="eng_t">Confucius</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kongzi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nanfi'ogu'e</field>
+<field name="jbo_t">nanfi'ogu'e</field>
+<field name="eng_t">South Africa</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nanfi%27ogu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:namibias</field>
+<field name="jbo_t">namibias</field>
+<field name="eng_t">Namibia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/namibias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kamerun</field>
+<field name="jbo_t">kamerun</field>
+<field name="eng_t">Cameroon</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kamerun</field>
+</doc>
+<doc>
+<field name="id">jbowiki:angol</field>
+<field name="jbo_t">angol</field>
+<field name="eng_t">Angola</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/angol</field>
+</doc>
+<doc>
+<field name="id">jbowiki:marde</field>
+<field name="jbo_t">marde</field>
+<field name="eng_t">Ethics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/marde</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mleske</field>
+<field name="jbo_t">mleske</field>
+<field name="eng_t">Aesthetics</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mleske</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djamaikas</field>
+<field name="jbo_t">djamaikas</field>
+<field name="eng_t">Jamaica</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djamaikas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:interlingua</field>
+<field name="jbo_t">interlingua</field>
+<field name="eng_t">Interlingua</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/interlingua</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kongos</field>
+<field name="jbo_t">kongos</field>
+<field name="eng_t">Republic of the Congo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kongos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mitcelyngelos</field>
+<field name="jbo_t">mitcelyngelos</field>
+<field name="eng_t">Michelangelo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mitcelyngelos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ernan.kortes</field>
+<field name="jbo_t">ernan.kortes</field>
+<field name="eng_t">Hernán Cortés</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ernan.kortes</field>
+</doc>
+<doc>
+<field name="id">jbowiki:simon.bolivar</field>
+<field name="jbo_t">simon.bolivar</field>
+<field name="eng_t">Simón Bolívar</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/simon.bolivar</field>
+</doc>
+<doc>
+<field name="id">jbowiki:caurceisi'o</field>
+<field name="jbo_t">caurceisi'o</field>
+<field name="eng_t">Atheism</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/caurceisi%27o</field>
+</doc>
+<doc>
+<field name="id">jbowiki:fancu</field>
+<field name="jbo_t">fancu</field>
+<field name="eng_t">Function (mathematics)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/fancu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jgenanba</field>
+<field name="jbo_t">jgenanba</field>
+<field name="eng_t">Pretzel</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jgenanba</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mymbais</field>
+<field name="jbo_t">mymbais</field>
+<field name="eng_t">Mumbai</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mymbais</field>
+</doc>
+<doc>
+<field name="id">jbowiki:beidjin</field>
+<field name="jbo_t">beidjin</field>
+<field name="eng_t">Beijing</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/beidjin</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tokios</field>
+<field name="jbo_t">tokios</field>
+<field name="eng_t">Tokyo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tokios</field>
+</doc>
+<doc>
+<field name="id">jbowiki:banli jungo bitmu</field>
+<field name="jbo_t">banli jungo bitmu</field>
+<field name="eng_t">Great Wall of China</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/banli_jungo_bitmu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:euklides</field>
+<field name="jbo_t">euklides</field>
+<field name="eng_t">Euclid</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/euklides</field>
+</doc>
+<doc>
+<field name="id">jbowiki:somalias</field>
+<field name="jbo_t">somalias</field>
+<field name="eng_t">Somalia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/somalias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:senegal</field>
+<field name="jbo_t">senegal</field>
+<field name="eng_t">Senegal</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/senegal</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mosambik</field>
+<field name="jbo_t">mosambik</field>
+<field name="eng_t">Mozambique</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mosambik</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dzipo braxamsi</field>
+<field name="jbo_t">dzipo braxamsi</field>
+<field name="eng_t">Southern Ocean</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dzipo_braxamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sa'aras.zei kutytu'a</field>
+<field name="jbo_t">sa'aras.zei kutytu'a</field>
+<field name="eng_t">Sahara</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sa%27aras.zei_kutytu%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:karl.fridrix.gaus</field>
+<field name="jbo_t">karl.fridrix.gaus</field>
+<field name="eng_t">Carl Friedrich Gauss</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/karl.fridrix.gaus</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cipni</field>
+<field name="jbo_t">cipni</field>
+<field name="eng_t">Bird</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cipni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:linuks</field>
+<field name="jbo_t">linuks</field>
+<field name="eng_t">Linux</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/linuks</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nanca</field>
+<field name="jbo_t">nanca</field>
+<field name="eng_t">Year</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nanca</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sanga</field>
+<field name="jbo_t">sanga</field>
+<field name="eng_t">Singing</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sanga</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xeldraci</field>
+<field name="jbo_t">xeldraci</field>
+<field name="eng_t">Actor</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xeldraci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:osteraix</field>
+<field name="jbo_t">osteraix</field>
+<field name="eng_t">Austria</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/osteraix</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ctona'a</field>
+<field name="jbo_t">ctona'a</field>
+<field name="eng_t">Century</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ctona%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pemci</field>
+<field name="jbo_t">pemci</field>
+<field name="eng_t">Poetry</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pemci</field>
+</doc>
+<doc>
+<field name="id">jbowiki:dekna'a</field>
+<field name="jbo_t">dekna'a</field>
+<field name="eng_t">Decade</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/dekna%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:london</field>
+<field name="jbo_t">london</field>
+<field name="eng_t">London</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/london</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ki'orna'a</field>
+<field name="jbo_t">ki'orna'a</field>
+<field name="eng_t">Millennium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ki%27orna%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:19xyxymoi</field>
+<field name="jbo_t">19xyxymoi</field>
+<field name="eng_t">20th century</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/19xyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:18xyxymoi</field>
+<field name="jbo_t">18xyxymoi</field>
+<field name="eng_t">19th century</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/18xyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zgifi'i</field>
+<field name="jbo_t">zgifi'i</field>
+<field name="eng_t">Composer</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zgifi%27i</field>
+</doc>
+<doc>
+<field name="id">jbowiki:20xyxymoi</field>
+<field name="jbo_t">20xyxymoi</field>
+<field name="eng_t">21st century</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/20xyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:17xyxymoi</field>
+<field name="jbo_t">17xyxymoi</field>
+<field name="eng_t">18th century</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/17xyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:200xymoi</field>
+<field name="jbo_t">200xymoi</field>
+<field name="eng_t">2000s (decade)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/200xymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:199xymoi</field>
+<field name="jbo_t">199xymoi</field>
+<field name="eng_t">1990s</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/199xymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:198xymoi</field>
+<field name="jbo_t">198xymoi</field>
+<field name="eng_t">1980s</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/198xymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:2xyxyxymoi</field>
+<field name="jbo_t">2xyxyxymoi</field>
+<field name="eng_t">3rd millennium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/2xyxyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:1xyxyxymoi</field>
+<field name="jbo_t">1xyxyxymoi</field>
+<field name="eng_t">2nd millennium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/1xyxyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:0xyxyxymoi</field>
+<field name="jbo_t">0xyxyxymoi</field>
+<field name="eng_t">1st millennium</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/0xyxyxymoi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:friko gunma</field>
+<field name="jbo_t">friko gunma</field>
+<field name="eng_t">African Union</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/friko_gunma</field>
+</doc>
+<doc>
+<field name="id">jbowiki:finci'a</field>
+<field name="jbo_t">finci'a</field>
+<field name="eng_t">Writer</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/finci%27a</field>
+</doc>
+<doc>
+<field name="id">jbowiki:bagdad</field>
+<field name="jbo_t">bagdad</field>
+<field name="eng_t">Baghdad</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/bagdad</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ku,uait</field>
+<field name="jbo_t">ku,uait</field>
+<field name="eng_t">Kuwait</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ku,uait</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kurt.gedyl</field>
+<field name="jbo_t">kurt.gedyl</field>
+<field name="eng_t">Kurt Gödel</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kurt.gedyl</field>
+</doc>
+<doc>
+<field name="id">jbowiki:namcu</field>
+<field name="jbo_t">namcu</field>
+<field name="eng_t">Number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/namcu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:leonard.euler</field>
+<field name="jbo_t">leonard.euler</field>
+<field name="eng_t">Leonhard Euler</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/leonard.euler</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mulna'u</field>
+<field name="jbo_t">mulna'u</field>
+<field name="eng_t">Integer</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mulna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pavycimdyna'u</field>
+<field name="jbo_t">pavycimdyna'u</field>
+<field name="eng_t">Real number</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pavycimdyna%27u</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cevni</field>
+<field name="jbo_t">cevni</field>
+<field name="eng_t">Deity</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cevni</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kanji</field>
+<field name="jbo_t">kanji</field>
+<field name="eng_t">Calculation</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kanji</field>
+</doc>
+<doc>
+<field name="id">jbowiki:plise</field>
+<field name="jbo_t">plise</field>
+<field name="eng_t">Apple</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/plise</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nikolaus.lobatceskis</field>
+<field name="jbo_t">nikolaus.lobatceskis</field>
+<field name="eng_t">Nikolai Lobachevsky</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nikolaus.lobatceskis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:kuarizmis</field>
+<field name="jbo_t">kuarizmis</field>
+<field name="eng_t">Muḥammad ibn Mūsā al-Khwārizmī</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/kuarizmis</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rukybau</field>
+<field name="jbo_t">rukybau</field>
+<field name="eng_t">Russian language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rukybau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sornai bacru alfabeta</field>
+<field name="jbo_t">sornai bacru alfabeta</field>
+<field name="eng_t">International Phonetic Alphabet</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sornai_bacru_alfabeta</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pigazanos</field>
+<field name="jbo_t">pigazanos</field>
+<field name="eng_t">Pigazzano</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pigazanos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:artik.zei braxamsi</field>
+<field name="jbo_t">artik.zei braxamsi</field>
+<field name="eng_t">Arctic Ocean</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/artik.zei_braxamsi</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zimbabues</field>
+<field name="jbo_t">zimbabues</field>
+<field name="eng_t">Zimbabwe</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zimbabues</field>
+</doc>
+<doc>
+<field name="id">jbowiki:zambias</field>
+<field name="jbo_t">zambias</field>
+<field name="eng_t">Zambia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/zambias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:roltrusi'o zei.kongos</field>
+<field name="jbo_t">roltrusi'o zei.kongos</field>
+<field name="eng_t">Democratic Republic of the Congo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/roltrusi%27o_zei.kongos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ctile</field>
+<field name="jbo_t">ctile</field>
+<field name="eng_t">Petroleum</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ctile</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rarbau</field>
+<field name="jbo_t">rarbau</field>
+<field name="eng_t">Natural language</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rarbau</field>
+</doc>
+<doc>
+<field name="id">jbowiki:romas</field>
+<field name="jbo_t">romas</field>
+<field name="eng_t">Rome</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/romas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cange</field>
+<field name="jbo_t">cange</field>
+<field name="eng_t">Farm</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cange</field>
+</doc>
+<doc>
+<field name="id">jbowiki:cidja</field>
+<field name="jbo_t">cidja</field>
+<field name="eng_t">Food</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/cidja</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jordo rirxe</field>
+<field name="jbo_t">jordo rirxe</field>
+<field name="eng_t">Jordan River</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jordo_rirxe</field>
+</doc>
+<doc>
+<field name="id">jbowiki:djeims.kuk.braun</field>
+<field name="jbo_t">djeims.kuk.braun</field>
+<field name="eng_t">James Cooke Brown</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/djeims.kuk.braun</field>
+</doc>
+<doc>
+<field name="id">jbowiki:botsuanas</field>
+<field name="jbo_t">botsuanas</field>
+<field name="eng_t">Botswana</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/botsuanas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tcesk.zei gubyseltru</field>
+<field name="jbo_t">tcesk.zei gubyseltru</field>
+<field name="eng_t">Czech Republic</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tcesk.zei_gubyseltru</field>
+</doc>
+<doc>
+<field name="id">jbowiki:paiton</field>
+<field name="jbo_t">paiton</field>
+<field name="eng_t">Python (programming language)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/paiton</field>
+</doc>
+<doc>
+<field name="id">jbowiki:siberias</field>
+<field name="jbo_t">siberias</field>
+<field name="eng_t">Siberia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/siberias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:rober.cuman</field>
+<field name="jbo_t">rober.cuman</field>
+<field name="eng_t">Robert Schuman</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/rober.cuman</field>
+</doc>
+<doc>
+<field name="id">jbowiki:latmo lerfu</field>
+<field name="jbo_t">latmo lerfu</field>
+<field name="eng_t">Latin alphabet</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/latmo_lerfu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:slovensk</field>
+<field name="jbo_t">slovensk</field>
+<field name="eng_t">Slovakia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/slovensk</field>
+</doc>
+<doc>
+<field name="id">jbowiki:madjiar</field>
+<field name="jbo_t">madjiar</field>
+<field name="eng_t">Hungary</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/madjiar</field>
+</doc>
+<doc>
+<field name="id">jbowiki:serbias</field>
+<field name="jbo_t">serbias</field>
+<field name="eng_t">Serbia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/serbias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:slovEni,as</field>
+<field name="jbo_t">slovEni,as</field>
+<field name="eng_t">Slovenia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/slovEni,as</field>
+</doc>
+<doc>
+<field name="id">jbowiki:xrvatskas</field>
+<field name="jbo_t">xrvatskas</field>
+<field name="eng_t">Croatia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/xrvatskas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mongolo</field>
+<field name="jbo_t">mongolo</field>
+<field name="eng_t">Mongolia</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mongolo</field>
+</doc>
+<doc>
+<field name="id">jbowiki:turk</field>
+<field name="jbo_t">turk</field>
+<field name="eng_t">Turkey</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/turk</field>
+</doc>
+<doc>
+<field name="id">jbowiki:afyganisTAN</field>
+<field name="jbo_t">afyganisTAN</field>
+<field name="eng_t">Afghanistan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/afyganisTAN</field>
+</doc>
+<doc>
+<field name="id">jbowiki:remna kamfarvi namcu</field>
+<field name="jbo_t">remna kamfarvi namcu</field>
+<field name="eng_t">Human Development Index</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/remna_kamfarvi_namcu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tanzanias</field>
+<field name="jbo_t">tanzanias</field>
+<field name="eng_t">Tanzania</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tanzanias</field>
+</doc>
+<doc>
+<field name="id">jbowiki:luaos</field>
+<field name="jbo_t">luaos</field>
+<field name="eng_t">Laos</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/luaos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la'e pe abufy.ibu lu le nanca li panono zo'u skina tersitna panonomei</field>
+<field name="jbo_t">la'e pe abufy.ibu lu le nanca li panono zo'u skina tersitna panonomei</field>
+<field name="eng_t">AFI's 100 Years...100 Movie Quotes</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la%27e_pe_abufy.ibu_lu_le_nanca_li_panono_zo%27u_skina_tersitna_panonomei</field>
+</doc>
+<doc>
+<field name="id">jbowiki:le ciso klesi be lo selgu'a bei lo ka se tolcru ca lo brojda surdei</field>
+<field name="jbo_t">le ciso klesi be lo selgu'a bei lo ka se tolcru ca lo brojda surdei</field>
+<field name="eng_t">Activities prohibited on Shabbat</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/le_ciso_klesi_be_lo_selgu%27a_bei_lo_ka_se_tolcru_ca_lo_brojda_surdei</field>
+</doc>
+<doc>
+<field name="id">jbowiki:maircpukai</field>
+<field name="jbo_t">maircpukai</field>
+<field name="eng_t">Gravitation</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/maircpukai</field>
+</doc>
+<doc>
+<field name="id">jbowiki:strutione</field>
+<field name="jbo_t">strutione</field>
+<field name="eng_t">Ostrich</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/strutione</field>
+</doc>
+<doc>
+<field name="id">jbowiki:favmapti</field>
+<field name="jbo_t">favmapti</field>
+<field name="eng_t">Homology (biology)</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/favmapti</field>
+</doc>
+<doc>
+<field name="id">jbowiki:Ho Chi Minh tcadu</field>
+<field name="jbo_t">Ho Chi Minh tcadu</field>
+<field name="eng_t">Ho Chi Minh City</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/Ho_Chi_Minh_tcadu</field>
+</doc>
+<doc>
+<field name="id">jbowiki:loglan</field>
+<field name="jbo_t">loglan</field>
+<field name="eng_t">Loglan</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/loglan</field>
+</doc>
+<doc>
+<field name="id">jbowiki:jugygu'e</field>
+<field name="jbo_t">jugygu'e</field>
+<field name="eng_t">China</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/jugygu%27e</field>
+</doc>
+<doc>
+<field name="id">jbowiki:mataios</field>
+<field name="jbo_t">mataios</field>
+<field name="eng_t">Saint Matthew</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/mataios</field>
+</doc>
+<doc>
+<field name="id">jbowiki:sankt. paulos</field>
+<field name="jbo_t">sankt. paulos</field>
+<field name="eng_t">São Paulo</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/sankt._paulos</field>
+</doc>
+<doc>
+<field name="id">jbowiki:monZON</field>
+<field name="jbo_t">monZON</field>
+<field name="eng_t">Monzón</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/monZON</field>
+</doc>
+<doc>
+<field name="id">jbowiki:konsepSION</field>
+<field name="jbo_t">konsepSION</field>
+<field name="eng_t">Concepción, Chile</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/konsepSION</field>
+</doc>
+<doc>
+<field name="id">jbowiki:pragas</field>
+<field name="jbo_t">pragas</field>
+<field name="eng_t">Prague</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/pragas</field>
+</doc>
+<doc>
+<field name="id">jbowiki:neptun</field>
+<field name="jbo_t">neptun</field>
+<field name="eng_t">Neptune</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/neptun</field>
+</doc>
+<doc>
+<field name="id">jbowiki:la cabna cedra</field>
+<field name="jbo_t">la cabna cedra</field>
+<field name="eng_t">Common Era</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/la_cabna_cedra</field>
+</doc>
+<doc>
+<field name="id">jbowiki:paltoga</field>
+<field name="jbo_t">paltoga</field>
+<field name="eng_t">Paltoga</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/paltoga</field>
+</doc>
+<doc>
+<field name="id">jbowiki:.i mi pacna da</field>
+<field name="jbo_t">.i mi pacna da</field>
+<field name="eng_t">I Have a Dream</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/.i_mi_pacna_da</field>
+</doc>
+<doc>
+<field name="id">jbowiki:nowy.sontc</field>
+<field name="jbo_t">nowy.sontc</field>
+<field name="eng_t">Nowy Sącz</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/nowy.sontc</field>
+</doc>
+<doc>
+<field name="id">jbowiki:tixa</field>
+<field name="jbo_t">tixa</field>
+<field name="eng_t">Tychy</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/tixa</field>
+</doc>
+<doc>
+<field name="id">jbowiki:lex.wauensas.</field>
+<field name="jbo_t">lex.wauensas.</field>
+<field name="eng_t">Lech Wałęsa</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/lex.wauensas.</field>
+</doc>
+<doc>
+<field name="id">jbowiki:File:Windows98.png</field>
+<field name="jbo_t">File:Windows98.png</field>
+<field name="eng_t">File:Windows98.png</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/File:Windows98.png</field>
+</doc>
+<doc>
+<field name="id">jbowiki:ludvix.fan.betofn</field>
+<field name="jbo_t">ludvix.fan.betofn</field>
+<field name="eng_t">Ludwig van Beethoven</field>
+<field name="src_t">http://jbo.wikipedia.org/wiki/ludvix.fan.betofn</field>
+</doc>
+<doc>
+<field name="id">jbowiki:</field>
+<field name="jbo_t"></field>
+<field name="eng_t"></field>
+<field name="src_t"></field>
+</doc>
+</add>

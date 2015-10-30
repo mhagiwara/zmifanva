@@ -1,0 +1,524 @@
+<add>
+<doc>
+<field name="id">Conlang:1a</field>
+<field name="jbo_t">ro na'ebo le nolraitru naku sinma le nolraitru</field>
+<field name="eng_t">Everyone except the king does not admire the king.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:1b</field>
+<field name="jbo_t">da'apa da enai le nolraitru naku sinma le nolraitru</field>
+<field name="eng_t">Everyone except the king does not admire the king.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:2</field>
+<field name="jbo_t">lo clarai e lo toryrai be lo ro nanmu pe le munje cu cmibi'o le tigbe'e</field>
+<field name="eng_t">The tallest and smallest men in the world both joined the circus.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:3</field>
+<field name="jbo_t">re crida cu xebni ro termakfa</field>
+<field name="eng_t">Exactly two goblins hate every wizard.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:4</field>
+<field name="jbo_t">le nolraitruni'u be le glico cu tamne le nolraitrunau be le sfero</field>
+<field name="eng_t">The Queen of England is related to the King of Sweden.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:5</field>
+<field name="jbo_t">me'iro gugde cu cmima la jonsi'u gugde</field>
+<field name="eng_t">Not every country belongs to the U.N.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:6</field>
+<field name="jbo_t">ro jatna be lo gugde cu se slabu ro drata jatna be lo gugde</field>
+<field name="eng_t">The president of every country knows the president of every other country.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:7</field>
+<field name="jbo_t">li pai dilcu lo se mitre be lo korbi be lo cukla lo se mitre be lo ravysirji be cy li no</field>
+<field name="eng_t">The result of dividing the circumference of a circle by its diameter is equal to pi.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:8</field>
+<field name="jbo_t">no zdani cu se nenri pa po'o jalra</field>
+<field name="eng_t">No house has only one roach in it.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:9</field>
+<field name="jbo_t">lo ropa tixnu be la risna noltruni'u cu se prami ci spedji</field>
+<field name="eng_t">The Queen of Hearts' only daughter is loved by exactly three suitors.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:10</field>
+<field name="jbo_t">su'ore da poi misno tepri'apre cu se xebni da'apa de enai da</field>
+<field name="eng_t">At least two known terrorists are hated by everyone except themselves.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:11a</field>
+<field name="jbo_t">le nobli be lo elfe ba pagre le xamsi ijo le nobli be la mordor cu se jinga</field>
+<field name="eng_t">The lord of the elves will cross the sea only if the lord of Mordor is defeated.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:11b</field>
+<field name="jbo_t">le nobli be lo elfe ba pagre le xamsi inaja le nobli be la mordor cu se jinga</field>
+<field name="eng_t">The lord of the elves will cross the sea only if the lord of Mordor is defeated.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:12</field>
+<field name="jbo_t">ro sinma be lo sinma be le ca jatna be le merko naku se sinma su'o prenu</field>
+<field name="eng_t">Anyone who repsects someone who repsects the current president of the United States is not respected by at least one person.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:13</field>
+<field name="jbo_t">le bitmu poi la xamtidamtis cu farlu fi ke'a cu na du la banli bitmu pe le jungo</field>
+<field name="eng_t">The wall from which Humpty Dumpty fell is not the Great Wall of China.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:14</field>
+<field name="jbo_t">le ninmu poi la argail pacna lo nu speni cu du da poi le nanmu poi da pacna lo nu speni cu pacna lo nu speni</field>
+<field name="eng_t">The woman Argyle hoped to marry was the woman the man she hoped to marry hoped to marry.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:15</field>
+<field name="jbo_t">da vi fasnu ije lo nu da mokau cu na klina</field>
+<field name="eng_t">Something's happening here, and what it is ain't exactly clear.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:16</field>
+<field name="jbo_t">ti du le nanla poi kelci le selkei poi tepygau le plipybanfi poi jacre'o le gerku poi jersi le mlatu poi citka le ratcu poi catra le smacu poi xabju le zdani poi la djak cu zbasu</field>
+<field name="eng_t">This is the boy who played with the toy that scared the frog that splashed the dog that chased the cat that ate the rat that killed the mouse that lived in the house that Jack built.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:17</field>
+<field name="jbo_t">e'u censa jamna lo muslo nu stidi lo nu censa jamna</field>
+<field name="eng_t">Jihad Against Islam's Call for Jihad.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:18</field>
+<field name="jbo_t">ro remna cu jilra le remna poi ro vulko cu jilra ke'a</field>
+<field name="eng_t">Every human envies the human admired by every Vulcan.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:19</field>
+<field name="jbo_t">ca da le merko ba cuxna lo ninmu jatna i la'e di'u ba na melbi</field>
+<field name="eng_t">Someday the USA will elect a woman president, and it won't be pretty.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:20</field>
+<field name="jbo_t">noda zmarai lo ro nonzau mulna'u</field>
+<field name="eng_t">Nothing is the greatest positive integer.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:21</field>
+<field name="jbo_t">jinga</field>
+<field name="eng_t">Checkmate</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:22</field>
+<field name="jbo_t">ta melbi ke cmalu ke nixli ckule</field>
+<field name="eng_t">Now that's a pretty little girls' school.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:23</field>
+<field name="jbo_t">ko'a gunta lo prenu gi'enai lo panpi prenu</field>
+<field name="eng_t">They were attacking people, not peaceful people.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:24</field>
+<field name="jbo_t">pe'a mabla kerfa djedi</field>
+<field name="eng_t">"Bad hair day"</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:25</field>
+<field name="jbo_t">ganai su'ore prenu cu banli gi no prenu cu du lo ropa banli prenu</field>
+<field name="eng_t">If at least two people are great, then no one is the one great person.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:26</field>
+<field name="jbo_t">le gerku pe le lamji cu ckape</field>
+<field name="eng_t">The dog next door is dangerous.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:27</field>
+<field name="jbo_t">le lekmi'i na kunti ija le cikre prenu pu lebna le romoi birje</field>
+<field name="eng_t">The fridge is not empty, unless the repairman took the last beer.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:28</field>
+<field name="jbo_t">la al cu speni lo ropa tixnu be la betis</field>
+<field name="eng_t">Al is married to Betty's only daughter.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:29</field>
+<field name="jbo_t">le xunre zdani cu du le zdani poi la djak ba'o zbasu ke'a</field>
+<field name="eng_t">The red house is the house that Jack built.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:30</field>
+<field name="jbo_t">la'o zoi Russell zoi na se steci lo ka ce'u finti la'o zoi Principia Mathematica zoi</field>
+<field name="eng_t">Russell is not the only author of Principia Mathematica.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:31</field>
+<field name="jbo_t">lo prenu poi ke'a catra JFK cu te pleji fi CIA</field>
+<field name="eng_t">The person who shot JFK worked for the CIA.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:32</field>
+<field name="jbo_t">ganai su'o re prenu cu banli gi no prenu cu ropamoi fi lo banli prenu</field>
+<field name="eng_t">If at least two people are great, then no one is the one great person.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:33</field>
+<field name="jbo_t">la djerymis cu tolcitrai lo ro bersa be la koris</field>
+<field name="eng_t">Jeremy is Cory's oldest son.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:34</field>
+<field name="jbo_t">ei ro da rinsa le nolraitru</field>
+<field name="eng_t">All hail the king.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:35</field>
+<field name="jbo_t">no da zmarai lo ro nonmau mulna'u</field>
+<field name="eng_t">Nothing is the greatest positive integer.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:36</field>
+<field name="jbo_t">le cipra poi ro tadni cu fliba ke'a cu nadmau le cipra poi ro tadni cu snada ke'a</field>
+<field name="eng_t">The exam that every student failed is harder than the exam that every student passed.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:37a</field>
+<field name="jbo_t">ganai do na ka'e kansa le se prami be do gi ko prami le se kansa be do</field>
+<field name="eng_t">If you can't be with the one you love, love the one you're with.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:37b</field>
+<field name="jbo_t">ga do ka'e kansa le se prami be do gi ko prami le se kansa be do</field>
+<field name="eng_t">If you can't be with the one you love, love the one you're with.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:38a</field>
+<field name="jbo_t">le ctuca be le lankyboi selkei bende cu sisku lo clarai tadni</field>
+<field name="eng_t">The coach of the basketball team is looking for the tallest student.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:38b</field>
+<field name="jbo_t">le ctuca be le lankyboi selkei bende cu sisku le clarai tadni</field>
+<field name="eng_t">The coach of the basketball team is looking for the tallest student.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:39</field>
+<field name="jbo_t">le ropa bersa be le nolraitru be le sfero cu speni pa le tixnu be la xerbert</field>
+<field name="eng_t">The king of Sweden's only son is married to one of Herbert's daughters.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:40</field>
+<field name="jbo_t">la karlas cu du lo ropa cfatadni poi ke'a traji snada ro tercu'e be fi ke'a</field>
+<field name="eng_t">Carla is the one freshman who aced every course in which she enrolled.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:41</field>
+<field name="jbo_t">le ralju be IBM cu speni lo zvati</field>
+<field name="eng_t">The CEO of IBM is the spouse of someone present.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:42</field>
+<field name="jbo_t">ro remna cu jilra le remna poi ro vulko cu sinma ke'a</field>
+<field name="eng_t">Every human envies the human admired by every Vulcan.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:43</field>
+<field name="jbo_t">lo pu jatna be le merko cu du lo ro merko poi se slabu ro jatna be lo gugde</field>
+<field name="eng_t">The former president of the United States is the only American who knows the president of every country.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:44</field>
+<field name="jbo_t">ti du le gerku poi jersi le mlatu poi kalte le smacu poi xabju le zdani poi la djak zbasu</field>
+<field name="eng_t">This is the dog that chased the cat that stalked the mouse that lived in the house that Jack built.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:45</field>
+<field name="jbo_t">lo sezypi'i be lo se mitre be lo xiptenuse be lo kurjga cibyselmla cu du lo simsumji be lo sezypi'i be lo se mitre be lo jicmu joi sraji mlana be kycy</field>
+<field name="eng_t">The square of the length of the hypotenuse of any right triangle is equal to the sum of the squares of the lengths of its base and vertical sides.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:46</field>
+<field name="jbo_t">la bil xebni la djordj inaja la pat xebni la bil</field>
+<field name="eng_t">Bill hates George only if Pat hates Bill.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:47</field>
+<field name="jbo_t">lo nu da kurji je tolylazni cu sarcu gi'enai ku'i banzu lo nu da snada le tercli</field>
+<field name="eng_t">Being careful and diligent is necessary, but not sufficient for passing this course.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:48</field>
+<field name="jbo_t">su'o ctuca naku jimpe fi le nabmi</field>
+<field name="eng_t">Some professors don't understand this problem.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:49</field>
+<field name="jbo_t">la'o zoi Danny DeVito zoi e lo cilce cinfo joi tirxu zo'u xagrai fa lo nu rivbi</field>
+<field name="eng_t">Danny DeVito and ferocious lions and tigers are best avoided.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:50</field>
+<field name="jbo_t">lo flalu prenu e lo tumla vecnu cu ricfu gi'a rigni</field>
+<field name="eng_t">Lawyers and real estate agents are rich or obnoxious.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:51</field>
+<field name="jbo_t">ganai ro ctuca cu tolzdi ro se ctuca be ri gi ro ctuca cu malxaksu lo ri temci</field>
+<field name="eng_t">If all professors bore all of their students, then all professors are wasting their time.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:52</field>
+<field name="jbo_t">su'o cinfo poi la'o zoi Bruce Willis zoi jersi cu banli danlu gi'enai ku'i cilce</field>
+<field name="eng_t">Some lion Bruce Willis is chasing is a formidable animal, but is not ferocious.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:53</field>
+<field name="jbo_t">lo tadni cu snada gi'o gunka</field>
+<field name="eng_t">The only students who pass are the ones who work.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:54</field>
+<field name="jbo_t">ro fliba cu lazni ijo ro mabla ctuca cu na'arde'a</field>
+<field name="eng_t">Only slackers fail if and only if the only unfair professors are on sabbatical.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:55</field>
+<field name="jbo_t">su'o prenu naku se sinma su'o da</field>
+<field name="eng_t">Someone is not respected by anyone.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:56</field>
+<field name="jbo_t">ro ctuca poi roda tolzdi ke'a cu tolzdi ro se ctuca be cy</field>
+<field name="eng_t">Any professor who is bored by everything bores all of his or her students.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:57</field>
+<field name="jbo_t">su'o mobyterle'i ctuca cu jibri sidju ije su'o dusygu'a jitro cu ctuca ije ku'i no jitro cu jibri sidju</field>
+<field name="eng_t">Some underpaid professors are also secretaries, and some overworked administrators are professors, but no administrator is a secretary.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:58</field>
+<field name="jbo_t">ganai lo tadni joi lo ctuca be ty cu tolzdisi'u gi lo rore da cu malxaksu lo ri temci</field>
+<field name="eng_t">If a student and his or her professor bore each other, then both are wasting their time.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:59</field>
+<field name="jbo_t">le fanmo cu jibni</field>
+<field name="eng_t">The end is nigh.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:60</field>
+<field name="jbo_t">ro da poi ke'a sinma ke'a cu se sinma ro de poi ke'a sinma di</field>
+<field name="eng_t">Everyone who respects oneself is respected by everyone who respects someone.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:61a</field>
+<field name="jbo_t">la kikeron cu du la tulius</field>
+<field name="eng_t">Cicero is Tully</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:61b</field>
+<field name="jbo_t">ro da go du zei kikeron gi du zei tulius</field>
+<field name="eng_t">Cicero is Tully</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:62</field>
+<field name="jbo_t">la daniel cu ropamoi panzi la iakob</field>
+<field name="eng_t">Daniel is the only child of Jacob.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:63</field>
+<field name="jbo_t">la rebekas cu se tixnu su'o re da</field>
+<field name="eng_t">Rebecca has at least two daughters.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:64</field>
+<field name="jbo_t">la kain na kurji lo bruna be ky</field>
+<field name="eng_t">Cain was not his brother's keeper.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:65</field>
+<field name="jbo_t">la karl cu clarai lo ro jmive nanmu</field>
+<field name="eng_t">Carl is the tallest man alive.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:66</field>
+<field name="jbo_t">lo ropa perli poi stali le tricu cu fusra</field>
+<field name="eng_t">The only pear left on the tree is rotten.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:67</field>
+<field name="jbo_t">re namcrprimu cu jbini li pano bi'i li pavo</field>
+<field name="eng_t">There are exactly two primes between 10 and 14.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:68</field>
+<field name="jbo_t">ro ricfu prenu cu ponse su'o re karce</field>
+<field name="eng_t">Every affluent person owns at least two cars.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:69</field>
+<field name="jbo_t">su'e pa xabju be la ritcmond ba jinga le cunso</field>
+<field name="eng_t">At most one Richmonder will win the lottery.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:70</field>
+<field name="jbo_t">ro nonmau mulna'u cu lamli'e pa da</field>
+<field name="eng_t">Every positive integer has exactly one successor.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:71</field>
+<field name="jbo_t">su'e re da pacpre bu'u la gotam</field>
+<field name="eng_t">There are no more than two villains in Gotham.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:72</field>
+<field name="jbo_t">la batman jo'u la robin se steci lo ka balpre bu'u la gotam</field>
+<field name="eng_t">Batman and Robin are the only heros in Gotham.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:73a</field>
+<field name="jbo_t">la keis cu sinma ro da enai ky</field>
+<field name="eng_t">Kay respects everyone but herself.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:73b</field>
+<field name="jbo_t">la keis cu sinma da'apa prenu enai ky</field>
+<field name="eng_t">Kay respects everyone but herself.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:74</field>
+<field name="jbo_t">ro da du su'o de</field>
+<field name="eng_t">Everything is identical to something.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:75</field>
+<field name="jbo_t">pa tadni cu sinma ro ctuca</field>
+<field name="eng_t">Exactly one student respects every professor.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:76</field>
+<field name="jbo_t">su'epa ctuca cu se sinma ro tadni</field>
+<field name="eng_t">No more than one professor is respected by every student.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:77</field>
+<field name="jbo_t">la aristoteles jo'u la dekart cu se steci lo ka ke'a mencremau ro se ctuca be ke'a</field>
+<field name="eng_t">Aristotle and Descartes are the only philosophers who are smarter than all of their disciples.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:78a</field>
+<field name="jbo_t">li re du lo ropa namcrprimu poi lamli'e lo namcrprimu</field>
+<field name="eng_t">2 is the only prime whose successor is prime.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:78b</field>
+<field name="jbo_t">li re se steci lo ka namcrprimu gi'e lamli'e lo namcrprimu</field>
+<field name="eng_t">2 is the only prime whose successor is prime.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:79</field>
+<field name="jbo_t">no prenu cu sinma su'o prenu poi ke'a sinma da'apa prenu enai ke'a</field>
+<field name="eng_t">No one respects anyone who respects everyone but him or herself.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+<doc>
+<field name="id">Conlang:80</field>
+<field name="jbo_t">ro da poi sinma pa selctukansa cu se sinma re selctukansa</field>
+<field name="eng_t">Everyone who respects exactly one classmate is respected by exactly two classmates.</field>
+<field name="src_t">http://www.lojban.org/tiki/Conlang+Test+Sentences</field>
+</doc>
+</add>
