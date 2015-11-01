@@ -1,614 +1,626 @@
 <add>
 <doc>
-<field name="id">CLL:1.1.1</field>
+<field name="id">CLL:0</field>
 <field name="jbo_t">mi klama le zarci</field>
 <field name="eng_t">I go to the store.</field>
-<field name="src_t">http://dag.github.com/cll/1/3/</field>
+<field name="src_t">http://lojban.github.io/cll/1/3/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.5.5</field>
+<field name="id">CLL:1</field>
+<field name="jbo_t">la meris.</field>
+<field name="eng_t">the one/ones named Mary</field>
+<field name="src_t">http://lojban.github.io/cll/2/3/</field>
+</doc>
+<doc>
+<field name="id">CLL:2</field>
+<field name="jbo_t">la djan.</field>
+<field name="eng_t">the one/ones named John</field>
+<field name="src_t">http://lojban.github.io/cll/2/3/</field>
+</doc>
+<doc>
+<field name="id">CLL:3</field>
 <field name="jbo_t">mi tavla do zo'e zo'e</field>
 <field name="eng_t">I talk to you about something in some language.</field>
-<field name="src_t">http://dag.github.com/cll/2/5/</field>
+<field name="src_t">http://lojban.github.io/cll/2/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.5.6</field>
+<field name="id">CLL:4</field>
 <field name="jbo_t">do tavla mi ta zo'e</field>
 <field name="eng_t">You talk to me about that thing in a language.</field>
-<field name="src_t">http://dag.github.com/cll/2/5/</field>
+<field name="src_t">http://lojban.github.io/cll/2/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.5.7</field>
+<field name="id">CLL:5</field>
 <field name="jbo_t">mi tavla zo'e tu ti</field>
 <field name="eng_t">I talk to someone about that thing yonder in this language.</field>
-<field name="src_t">http://dag.github.com/cll/2/5/</field>
+<field name="src_t">http://lojban.github.io/cll/2/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.5.8</field>
+<field name="id">CLL:6</field>
 <field name="jbo_t">mi tavla do</field>
 <field name="eng_t">I talk to you </field>
-<field name="src_t">http://dag.github.com/cll/2/5/</field>
+<field name="src_t">http://lojban.github.io/cll/2/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.5.9</field>
+<field name="id">CLL:7</field>
 <field name="jbo_t">do tavla mi ta</field>
 <field name="eng_t">You talk to me about that thing.</field>
-<field name="src_t">http://dag.github.com/cll/2/5/</field>
+<field name="src_t">http://lojban.github.io/cll/2/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.6.1</field>
+<field name="id">CLL:8</field>
 <field name="jbo_t">mi cu vecnu ti ta zo'e</field>
 <field name="eng_t">I sell this thing to that buyer.</field>
-<field name="src_t">http://dag.github.com/cll/2/6/</field>
+<field name="src_t">http://lojban.github.io/cll/2/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.6.2</field>
+<field name="id">CLL:9</field>
 <field name="jbo_t">mi ti cu vecnu ta</field>
 <field name="eng_t">I this thing do sell to that buyer.</field>
-<field name="src_t">http://dag.github.com/cll/2/6/</field>
+<field name="src_t">http://lojban.github.io/cll/2/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.6.3</field>
+<field name="id">CLL:10</field>
 <field name="jbo_t">mi ti ta cu vecnu</field>
 <field name="eng_t">I this thing to that buyer do sell.</field>
-<field name="src_t">http://dag.github.com/cll/2/6/</field>
+<field name="src_t">http://lojban.github.io/cll/2/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.6.4</field>
+<field name="id">CLL:11</field>
 <field name="jbo_t">ta melbi</field>
 <field name="eng_t">That is beautiful.</field>
-<field name="src_t">http://dag.github.com/cll/2/6/</field>
+<field name="src_t">http://lojban.github.io/cll/2/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.6.5</field>
+<field name="id">CLL:12</field>
 <field name="jbo_t">melbi</field>
 <field name="eng_t">Beautiful!</field>
-<field name="src_t">http://dag.github.com/cll/2/6/</field>
+<field name="src_t">http://lojban.github.io/cll/2/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.7.1</field>
+<field name="id">CLL:13</field>
 <field name="jbo_t">mi tavla do ti</field>
 <field name="eng_t">I talk to you about this.</field>
-<field name="src_t">http://dag.github.com/cll/2/7/</field>
+<field name="src_t">http://lojban.github.io/cll/2/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.7.2</field>
+<field name="id">CLL:14</field>
 <field name="jbo_t">do se tavla mi ti</field>
 <field name="eng_t">You are talked to by me about this.</field>
-<field name="src_t">http://dag.github.com/cll/2/7/</field>
+<field name="src_t">http://lojban.github.io/cll/2/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.7.3</field>
+<field name="id">CLL:15</field>
 <field name="jbo_t">mi tavla do ti</field>
 <field name="eng_t">I talk to you about this.</field>
-<field name="src_t">http://dag.github.com/cll/2/7/</field>
+<field name="src_t">http://lojban.github.io/cll/2/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.7.4</field>
+<field name="id">CLL:16</field>
 <field name="jbo_t">ti te tavla do mi</field>
 <field name="eng_t">This is talked about to you by me.</field>
-<field name="src_t">http://dag.github.com/cll/2/7/</field>
+<field name="src_t">http://lojban.github.io/cll/2/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.1</field>
+<field name="id">CLL:17</field>
 <field name="jbo_t">sutra tavla</field>
 <field name="eng_t">to talk fast</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.3</field>
+<field name="id">CLL:18</field>
 <field name="jbo_t">sutra tavla cutci</field>
 <field name="eng_t">fast-talker type of shoe </field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.5</field>
+<field name="id">CLL:19</field>
 <field name="jbo_t">bajra cutci</field>
 <field name="eng_t">runner's shoe</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.6</field>
+<field name="id">CLL:20</field>
 <field name="jbo_t">sutra tavla</field>
 <field name="eng_t">fast-talker</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.7</field>
+<field name="id">CLL:21</field>
 <field name="jbo_t">jikca toldi</field>
 <field name="eng_t">social butterfly</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.8</field>
+<field name="id">CLL:22</field>
 <field name="jbo_t">mi sutra klama la meris.</field>
 <field name="eng_t">I quickly go to Mary</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.9</field>
+<field name="id">CLL:23</field>
 <field name="jbo_t">mi sutra se klama la meris.</field>
 <field name="eng_t">Mary is quicly gone to by me.</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.10</field>
+<field name="id">CLL:24</field>
 <field name="jbo_t">la tam. melbi tavla la meris.</field>
 <field name="eng_t">Tom is a beautiful talker to Mary</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.11</field>
+<field name="id">CLL:25</field>
 <field name="jbo_t">la meris. melbi se tavla la tam.</field>
 <field name="eng_t">Mary is a beautiful audience for Tom.</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.12</field>
+<field name="id">CLL:26</field>
 <field name="jbo_t">la tam. tavla melbi la meris.</field>
 <field name="eng_t">Tom is talkerly-beautiful to Mary.</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.9.13</field>
+<field name="id">CLL:27</field>
 <field name="jbo_t">la tam. se tavla melbi la meris.</field>
 <field name="eng_t">Tom is audiencely-beautiful to Mary.</field>
-<field name="src_t">http://dag.github.com/cll/2/9/</field>
+<field name="src_t">http://lojban.github.io/cll/2/9/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.1</field>
+<field name="id">CLL:28</field>
 <field name="jbo_t">mi tavla do le tavla ku</field>
 <field name="eng_t">I talk to you about the talker</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.3</field>
+<field name="id">CLL:29</field>
 <field name="jbo_t">mi tavla   do  le tavla</field>
 <field name="eng_t">I talk to you about the talker</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.4</field>
+<field name="id">CLL:30</field>
 <field name="jbo_t">le sutra tavla</field>
 <field name="eng_t">The fast talker</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.5</field>
+<field name="id">CLL:31</field>
 <field name="jbo_t">le sutra cu tavla</field>
 <field name="eng_t">The fast one is talking</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.6</field>
+<field name="id">CLL:32</field>
 <field name="jbo_t">le sutra se tavla</field>
 <field name="eng_t">The fast listener.</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.7</field>
+<field name="id">CLL:33</field>
 <field name="jbo_t">le sutra cu se tavla</field>
 <field name="eng_t">The fast one is talked to.</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.10.8</field>
+<field name="id">CLL:34</field>
 <field name="jbo_t">mi cu tavla le vecnu le blari'o</field>
 <field name="eng_t">I talk to the seller about the blue-green-thing.</field>
-<field name="src_t">http://dag.github.com/cll/2/10/</field>
+<field name="src_t">http://lojban.github.io/cll/2/10/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.11.1</field>
+<field name="id">CLL:35</field>
 <field name="jbo_t">mi klama ti zo'e zo'e ta</field>
 <field name="eng_t">I go here using that means.</field>
-<field name="src_t">http://dag.github.com/cll/2/11/</field>
+<field name="src_t">http://lojban.github.io/cll/2/11/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.11.2</field>
+<field name="id">CLL:36</field>
 <field name="jbo_t">ta blari'o</field>
 <field name="eng_t">That is blue-green.</field>
-<field name="src_t">http://dag.github.com/cll/2/11/</field>
+<field name="src_t">http://lojban.github.io/cll/2/11/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.11.3-4</field>
+<field name="id">CLL:37</field>
 <field name="jbo_t">ti djarspageti .i ta go'i</field>
 <field name="eng_t">This is spaghetti. That (is spaghetti), too.</field>
-<field name="src_t">http://dag.github.com/cll/2/11/</field>
+<field name="src_t">http://lojban.github.io/cll/2/11/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.12.1,2</field>
+<field name="id">CLL:38</field>
 <field name="jbo_t">le gerku cu melbi .i ti pluka mi</field>
 <field name="eng_t">The dog is beautiful. This (the dog) pleases me.</field>
-<field name="src_t">http://dag.github.com/cll/2/12/</field>
+<field name="src_t">http://lojban.github.io/cll/2/12/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.12.1,3</field>
+<field name="id">CLL:39</field>
 <field name="jbo_t">le gerku cu melbi .i di'u pluka mi</field>
 <field name="eng_t">The dog is beautiful. The last sentence pleases me.</field>
-<field name="src_t">http://dag.github.com/cll/2/12/</field>
+<field name="src_t">http://lojban.github.io/cll/2/12/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.12.1,4</field>
+<field name="id">CLL:40</field>
 <field name="jbo_t">le gerku cu melbi .i la'e di'u pluka mi</field>
 <field name="eng_t">This dog is beautiful. This (the meaning of the last sentence) pleases me.</field>
-<field name="src_t">http://dag.github.com/cll/2/12/</field>
+<field name="src_t">http://lojban.github.io/cll/2/12/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.13.1</field>
+<field name="id">CLL:41</field>
 <field name="jbo_t">le mi gerku cu sutra</field>
 <field name="eng_t">My dog is fast.</field>
-<field name="src_t">http://dag.github.com/cll/2/13/</field>
+<field name="src_t">http://lojban.github.io/cll/2/13/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.1</field>
+<field name="id">CLL:42</field>
 <field name="jbo_t">doi djan.</field>
 <field name="eng_t">Oh, John, I'm talking to you.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.2</field>
+<field name="id">CLL:43</field>
 <field name="jbo_t">coi. djan.</field>
 <field name="eng_t">Hello, John.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.3</field>
+<field name="id">CLL:44</field>
 <field name="jbo_t">co'o. djan.</field>
 <field name="eng_t">Good-bye, John.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.4</field>
+<field name="id">CLL:45</field>
 <field name="jbo_t">do tavla</field>
 <field name="eng_t">You are-talking.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.5</field>
+<field name="id">CLL:46</field>
 <field name="jbo_t">ko tavla</field>
 <field name="eng_t">Talk!</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.6</field>
+<field name="id">CLL:47</field>
 <field name="jbo_t">ko sutra</field>
 <field name="eng_t">Be fast!</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.7</field>
+<field name="id">CLL:48</field>
 <field name="jbo_t">mi tavla ko</field>
 <field name="eng_t">Let me talk to you.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.8</field>
+<field name="id">CLL:49</field>
 <field name="jbo_t">ko kurji ko</field>
 <field name="eng_t">Take care of yourself.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.14.9</field>
+<field name="id">CLL:50</field>
 <field name="jbo_t">ko ko kurji</field>
 <field name="eng_t">Take care of yourself.</field>
-<field name="src_t">http://dag.github.com/cll/2/14/</field>
+<field name="src_t">http://lojban.github.io/cll/2/14/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.1,2</field>
+<field name="id">CLL:51</field>
 <field name="jbo_t">ma tavla do mi .i la djan.</field>
 <field name="eng_t">Who is talking to you about me? John (is talking to you about me).</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.3</field>
+<field name="id">CLL:52</field>
 <field name="jbo_t">do tavla mi</field>
 <field name="eng_t">You talk to what/whom?</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.4</field>
+<field name="id">CLL:53</field>
 <field name="jbo_t">ma tavla ma</field>
 <field name="eng_t">What/who talks to what/whom?</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.5</field>
+<field name="id">CLL:54</field>
 <field name="jbo_t">do mo</field>
 <field name="eng_t">You are-what/do-what?</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.6</field>
+<field name="id">CLL:55</field>
 <field name="jbo_t">mi melbi</field>
 <field name="eng_t">I am beautiful</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.7</field>
+<field name="id">CLL:56</field>
 <field name="jbo_t">mi tavla</field>
 <field name="eng_t">I talk</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.10</field>
+<field name="id">CLL:57</field>
 <field name="jbo_t">xu do tavla mi</field>
 <field name="eng_t">Are you talking to me?</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.11,12</field>
+<field name="id">CLL:58</field>
 <field name="jbo_t">xu do kanro .i mi kanro</field>
 <field name="eng_t">Are you healthy? I am healthy.</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.11,13</field>
+<field name="id">CLL:59</field>
 <field name="jbo_t">xu do kanro .i go'i</field>
 <field name="eng_t">Are you healthy? I am healthy.</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.11</field>
+<field name="id">CLL:60</field>
 <field name="jbo_t">xu do kanro .i le tavla cu kanro</field>
 <field name="eng_t">Are you healthy? The talker is healthy.</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.15.11</field>
+<field name="id">CLL:61</field>
 <field name="jbo_t">xu do kanro .i le tavla cu go'i</field>
 <field name="eng_t">Are you healthy? The talker is healthy.</field>
-<field name="src_t">http://dag.github.com/cll/2/15/</field>
+<field name="src_t">http://lojban.github.io/cll/2/15/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.1</field>
+<field name="id">CLL:62</field>
 <field name="jbo_t">.ie mi klama</field>
 <field name="eng_t">Yep! I'll go.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.2</field>
+<field name="id">CLL:63</field>
 <field name="jbo_t">.ei mi klama</field>
 <field name="eng_t">I should go.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.3</field>
+<field name="id">CLL:64</field>
 <field name="jbo_t">mi klama le melbi .ui</field>
 <field name="eng_t">I go to the beautiful-thing, which makes me feel happy.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.4</field>
+<field name="id">CLL:65</field>
 <field name="jbo_t">mi klama .i do stali</field>
 <field name="eng_t">I go. You stay.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.5</field>
+<field name="id">CLL:66</field>
 <field name="jbo_t">mi klama .i ji'a do stali</field>
 <field name="eng_t">I go. In addition, you stay.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.6</field>
+<field name="id">CLL:67</field>
 <field name="jbo_t">mi klama .i ku'i do stali</field>
 <field name="eng_t">I go. However, you stay.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.7</field>
+<field name="id">CLL:68</field>
 <field name="jbo_t">pe'i do melbi</field>
 <field name="eng_t">I opine! You are beautiful.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.16.8</field>
+<field name="id">CLL:69</field>
 <field name="jbo_t">za'a do melbi</field>
 <field name="eng_t">I directly observe! You are beautiful.</field>
-<field name="src_t">http://dag.github.com/cll/2/16/</field>
+<field name="src_t">http://lojban.github.io/cll/2/16/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.3</field>
+<field name="id">CLL:70</field>
 <field name="jbo_t">la djan. klama le zarci</field>
 <field name="eng_t">John goes to the store.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.4</field>
+<field name="id">CLL:71</field>
 <field name="jbo_t">la djan. pu klama le zarci</field>
 <field name="eng_t">John went to the store.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.5</field>
+<field name="id">CLL:72</field>
 <field name="jbo_t">la djan. ca klama le zarci</field>
 <field name="eng_t">John goes to the store.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.6</field>
+<field name="id">CLL:73</field>
 <field name="jbo_t">do vu vecnu zo'e</field>
 <field name="eng_t">You yonder sell something unspecified.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.7</field>
+<field name="id">CLL:74</field>
 <field name="jbo_t">le pu bajra cu tavla</field>
 <field name="eng_t">The former runner talks.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.8</field>
+<field name="id">CLL:75</field>
 <field name="jbo_t">le vi bajra cu tavla</field>
 <field name="eng_t">This runner talks.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:2.17.9</field>
+<field name="id">CLL:76</field>
 <field name="jbo_t">le vi tavla cu ba klama</field>
 <field name="eng_t">This talker will go.</field>
-<field name="src_t">http://dag.github.com/cll/2/17/</field>
+<field name="src_t">http://lojban.github.io/cll/2/17/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.1</field>
+<field name="id">CLL:77</field>
 <field name="jbo_t">skami plino</field>
 <field name="eng_t">computer user</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.2</field>
+<field name="id">CLL:78</field>
 <field name="jbo_t">barda bloti</field>
 <field name="eng_t">ship</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.3</field>
+<field name="id">CLL:79</field>
 <field name="jbo_t">patfu mamta</field>
 <field name="eng_t">paternal grandmother</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.4</field>
+<field name="id">CLL:80</field>
 <field name="jbo_t">mamta patfu</field>
 <field name="eng_t">maternal grandfather</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.5</field>
+<field name="id">CLL:81</field>
 <field name="jbo_t">sampli</field>
 <field name="eng_t">user of computers</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.6</field>
+<field name="id">CLL:82</field>
 <field name="jbo_t">bralo'i</field>
 <field name="eng_t">ship</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.7</field>
+<field name="id">CLL:83</field>
 <field name="jbo_t">mampa'u</field>
 <field name="eng_t">maternal grandfather</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.5.8</field>
+<field name="id">CLL:84</field>
 <field name="jbo_t">soirsai</field>
 <field name="eng_t">field rations</field>
-<field name="src_t">http://dag.github.com/cll/4/5/</field>
+<field name="src_t">http://lojban.github.io/cll/4/5/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.1</field>
+<field name="id">CLL:85</field>
 <field name="jbo_t">mamtypatfu</field>
 <field name="eng_t">maternal grandfather</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.2</field>
+<field name="id">CLL:86</field>
 <field name="jbo_t">lerfyliste</field>
 <field name="eng_t">list of letters</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.3</field>
+<field name="id">CLL:87</field>
 <field name="jbo_t">nancyprali</field>
 <field name="eng_t">annual profit</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.4</field>
+<field name="id">CLL:88</field>
 <field name="jbo_t">prunyplipe</field>
 <field name="eng_t">elastic leap (spring)</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.5</field>
+<field name="id">CLL:89</field>
 <field name="jbo_t">vancysanmi</field>
 <field name="eng_t">supper</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.6</field>
+<field name="id">CLL:90</field>
 <field name="jbo_t">cumfri</field>
 <field name="eng_t">possible experience</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.7</field>
+<field name="id">CLL:91</field>
 <field name="jbo_t">klezba</field>
 <field name="eng_t">category make</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.8</field>
+<field name="id">CLL:92</field>
 <field name="jbo_t">kixta'a</field>
 <field name="eng_t">cry-out talk</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.9</field>
+<field name="id">CLL:93</field>
 <field name="jbo_t">sniju'o</field>
 <field name="eng_t">sign know</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.10</field>
+<field name="id">CLL:94</field>
 <field name="jbo_t">mampa'u</field>
 <field name="eng_t">maternal grandfather</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.11</field>
+<field name="id">CLL:95</field>
 <field name="jbo_t">lerste</field>
 <field name="eng_t">list of letters</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.13</field>
+<field name="id">CLL:96</field>
 <field name="jbo_t">xy. zei kantu</field>
 <field name="eng_t">X ray</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.14</field>
+<field name="id">CLL:97</field>
 <field name="jbo_t">kulnr,farsi zei lolgai</field>
 <field name="eng_t">Persian rug</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.15</field>
+<field name="id">CLL:98</field>
 <field name="jbo_t">na'e zei .a zei na'e zei by. Livgyterbilma</field>
 <field name="eng_t">non-A, non-B hepatitis</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.6.16</field>
+<field name="id">CLL:99</field>
 <field name="jbo_t">.cerman. zei jamkarce</field>
 <field name="eng_t">Sherman tank</field>
-<field name="src_t">http://dag.github.com/cll/4/6/</field>
+<field name="src_t">http://lojban.github.io/cll/4/6/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.7.3</field>
+<field name="id">CLL:100</field>
 <field name="jbo_t">cidj,r,spageti </field>
 <field name="eng_t">spaghetti</field>
-<field name="src_t">http://dag.github.com/cll/4/7/</field>
+<field name="src_t">http://lojban.github.io/cll/4/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.7.4</field>
+<field name="id">CLL:101</field>
 <field name="jbo_t">tric,r,xaceru </field>
 <field name="eng_t">Acer (the scientific name of maple trees)</field>
-<field name="src_t">http://dag.github.com/cll/4/7/</field>
+<field name="src_t">http://lojban.github.io/cll/4/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.7.5</field>
+<field name="id">CLL:102</field>
 <field name="jbo_t">cirl,r,bri</field>
 <field name="eng_t">brie (cheese)</field>
-<field name="src_t">http://dag.github.com/cll/4/7/</field>
+<field name="src_t">http://lojban.github.io/cll/4/7/</field>
 </doc>
 <doc>
-<field name="id">CLL:4.7.6</field>
+<field name="id">CLL:103</field>
 <field name="jbo_t">lerf,r,djamo </field>
 <field name="eng_t">Jamo (Korean Hangul letters)</field>
-<field name="src_t">http://dag.github.com/cll/4/7/</field>
+<field name="src_t">http://lojban.github.io/cll/4/7/</field>
 </doc>
 </add>

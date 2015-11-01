@@ -1,0 +1,104 @@
+<add>
+<doc>
+<field name="id">Introduction_to_Lojban:0</field>
+<field name="jbo_t">mi ca'o tavla do lo pa skina</field>
+<field name="eng_t">I'm talking to you about a movie.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:1</field>
+<field name="jbo_t">.i lo se skina cu mutce cinri ui</field>
+<field name="eng_t">The plot of the movie is very interesting!</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:2</field>
+<field name="jbo_t">.i xu do tugni</field>
+<field name="eng_t">Do you agree?</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:3</field>
+<field name="jbo_t">je'u</field>
+<field name="eng_t">Yes.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:4</field>
+<field name="jbo_t">ca lo prulamdei mi tavla do</field>
+<field name="eng_t">Yesterday I was talking to you.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:5</field>
+<field name="jbo_t">mi se pluka lo nu mi penmi do</field>
+<field name="eng_t">It's a pleasure to meet you.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:6</field>
+<field name="jbo_t">go'i ra'o</field>
+<field name="eng_t">Me too.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:7</field>
+<field name="jbo_t">vanci coi la alis</field>
+<field name="eng_t">Good evening, Alice!</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:8</field>
+<field name="jbo_t">.i e'i mi ca gunka bu'u lo briju</field>
+<field name="eng_t">I have to work at the office.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:9</field>
+<field name="jbo_t">do xabju ma poi tcadu</field>
+<field name="eng_t">What city do you live in?</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:10</field>
+<field name="jbo_t">do se jibri lo ka mo</field>
+<field name="eng_t">What is your job?</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:11</field>
+<field name="jbo_t">sanga prenu</field>
+<field name="eng_t">I am a singer.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:12</field>
+<field name="jbo_t">ca ma do surla</field>
+<field name="eng_t">When do you take rest?</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:13</field>
+<field name="jbo_t">lo crisa</field>
+<field name="eng_t">In summer.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:14</field>
+<field name="jbo_t">lo citsi zo'u mi traji nelci lo vensa e lo crisa</field>
+<field name="eng_t">As for seasons, I like spring and summer most.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:15</field>
+<field name="jbo_t">mi nelci lo ka litru lo ropno tumla</field>
+<field name="eng_t">I like traveling to Europe.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+<doc>
+<field name="id">Introduction_to_Lojban:16</field>
+<field name="jbo_t">mi si'a nelci</field>
+<field name="eng_t">I like it too.</field>
+<field name="src_t">https://mw.lojban.org/images/d/d1/Lojban._How_to_quickly_create_sentences.pdf</field>
+</doc>
+</add>
