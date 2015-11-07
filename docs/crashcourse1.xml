@@ -1,0 +1,1304 @@
+<add>
+<doc>
+<field name="id">crashcourse1:0</field>
+<field name="jbo_t">lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">Cats drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:1</field>
+<field name="jbo_t">lo plise cu kukte</field>
+<field name="eng_t">Apples are tasty.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:2</field>
+<field name="jbo_t">karce</field>
+<field name="eng_t">Car!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:3</field>
+<field name="jbo_t">carvi</field>
+<field name="eng_t">It is raining.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:4</field>
+<field name="jbo_t">prami</field>
+<field name="eng_t">Someone loves.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:5</field>
+<field name="jbo_t">bajra</field>
+<field name="eng_t">Someone runs.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:6</field>
+<field name="jbo_t">mi</field>
+<field name="eng_t">I</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:7</field>
+<field name="jbo_t">do</field>
+<field name="eng_t">you</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:8</field>
+<field name="jbo_t">mi'ai</field>
+<field name="eng_t">we</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:9</field>
+<field name="jbo_t">ti</field>
+<field name="eng_t">this one</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:10</field>
+<field name="jbo_t">ta</field>
+<field name="eng_t">that one</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:11</field>
+<field name="jbo_t">tu</field>
+<field name="eng_t">that one over there</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:12</field>
+<field name="jbo_t">mi pinxe</field>
+<field name="eng_t">I drink.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:13</field>
+<field name="jbo_t">do pinxe</field>
+<field name="eng_t">You drink.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:14</field>
+<field name="jbo_t">ti ladru</field>
+<field name="eng_t">This is some milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:15</field>
+<field name="jbo_t">ta mlatu</field>
+<field name="eng_t">That is a cat.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:16</field>
+<field name="jbo_t">do citka lo plise</field>
+<field name="eng_t">You eat apples.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:17</field>
+<field name="jbo_t">mi prami do</field>
+<field name="eng_t">I love you.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:18</field>
+<field name="jbo_t">mi'ai citka</field>
+<field name="eng_t">We eat.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:19</field>
+<field name="jbo_t">mi pinxe lo ladru</field>
+<field name="eng_t">I drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:20</field>
+<field name="jbo_t">mi citka lo plise</field>
+<field name="eng_t">I eat apples.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:21</field>
+<field name="jbo_t">.i mi viska lo mlatu .i lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">I see cats. Cats drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:22</field>
+<field name="jbo_t">lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">Cats drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:23</field>
+<field name="jbo_t">lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">A cat drinks milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:24</field>
+<field name="jbo_t">ta plise</field>
+<field name="eng_t">That is an apple.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:25</field>
+<field name="jbo_t">lo ladru cu kukte</field>
+<field name="eng_t">Milk is tasty.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:26</field>
+<field name="jbo_t">do prami mi</field>
+<field name="eng_t">You love me.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:27</field>
+<field name="jbo_t">mi'ai citka lo plise</field>
+<field name="eng_t">We eat apples.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:28</field>
+<field name="jbo_t">pa</field>
+<field name="eng_t">1</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:29</field>
+<field name="jbo_t">re</field>
+<field name="eng_t">2</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:30</field>
+<field name="jbo_t">ci</field>
+<field name="eng_t">3</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:31</field>
+<field name="jbo_t">vo</field>
+<field name="eng_t">4</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:32</field>
+<field name="jbo_t">mu</field>
+<field name="eng_t">5</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:33</field>
+<field name="jbo_t">xa</field>
+<field name="eng_t">6</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:34</field>
+<field name="jbo_t">ze</field>
+<field name="eng_t">7</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:35</field>
+<field name="jbo_t">bi</field>
+<field name="eng_t">8</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:36</field>
+<field name="jbo_t">so</field>
+<field name="eng_t">9</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:37</field>
+<field name="jbo_t">no</field>
+<field name="eng_t">0</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:38</field>
+<field name="jbo_t">ro</field>
+<field name="eng_t">all</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:39</field>
+<field name="jbo_t">lo pa mlatu cu pinxe lo ladru</field>
+<field name="eng_t">One cat drinks milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:40</field>
+<field name="jbo_t">lo re mu mlatu cu pinxe lo ladru</field>
+<field name="eng_t">25 cats drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:41</field>
+<field name="jbo_t">lo ro mlatu cu pinxe lo ladru</field>
+<field name="eng_t">All cats drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:42</field>
+<field name="jbo_t">ci lo re mu mlatu cu pinxe lo ladru</field>
+<field name="eng_t">Three out of 25 cats are drinking milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:43</field>
+<field name="jbo_t">ro lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">Each, every cat drinks milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:44</field>
+<field name="jbo_t">lo pa mlatu cu pinxe</field>
+<field name="eng_t">A cat is drinking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:45</field>
+<field name="jbo_t">lo za'u mlatu cu pinxe</field>
+<field name="eng_t">Cats are drinking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:46</field>
+<field name="jbo_t">za'u lo mlatu cu pinxe</field>
+<field name="eng_t">More cats are drinking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:47</field>
+<field name="jbo_t">me'i lo mlatu cu pinxe</field>
+<field name="eng_t">Fewer cats are drinking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:48</field>
+<field name="jbo_t">lo za'u ci mlatu cu pinxe</field>
+<field name="eng_t">More than three cats are drinking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:49</field>
+<field name="jbo_t">me'i ci lo mu mlatu cu pinxe</field>
+<field name="eng_t">Less than three out of five cats are drinking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:50</field>
+<field name="jbo_t">lo mu prenu cu klama lo zarci</field>
+<field name="eng_t">Five people go to the market.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:51</field>
+<field name="jbo_t">pa no lo pa no no prenu cu stati .i do stati</field>
+<field name="eng_t">10 out of 100 people are smart. You are smart.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:52</field>
+<field name="jbo_t">lo prenu cu nelci lo plise</field>
+<field name="eng_t">People like apples. or A person likes apples.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:53</field>
+<field name="jbo_t">lo za'u prenu cu nelci lo plise .i za'u lo prenu cu nelci lo najnimre .i me'i lo prenu cu nelci lo badna</field>
+<field name="eng_t">People like apples. More people like oranges. Fewer people like bananas.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:54</field>
+<field name="jbo_t">za'u re lo mu prenu cu stati</field>
+<field name="eng_t">More than two out of five people are smart.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:55</field>
+<field name="jbo_t">lo re mu xa mlatu cu stati</field>
+<field name="eng_t">256 cats are smart.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:56</field>
+<field name="jbo_t">lo me'i pa re plise cu kukte</field>
+<field name="eng_t">Fewer than 12 apples are tasty.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:57</field>
+<field name="jbo_t">lo ro prenu cu citka .i me'i lo prenu cu citka lo najnimre</field>
+<field name="eng_t">All people eat. Fewer people eat oranges.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:58</field>
+<field name="jbo_t">tu melbi zdani</field>
+<field name="eng_t">That is a nice home over there.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:59</field>
+<field name="jbo_t">do melbi dansu</field>
+<field name="eng_t">You nicely dance.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:60</field>
+<field name="jbo_t">lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">A cat drinks milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:61</field>
+<field name="jbo_t">lo melbi fetsi</field>
+<field name="eng_t">beautiful female.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:62</field>
+<field name="jbo_t">do sutra klama</field>
+<field name="eng_t">You quickly go. You go fast.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:63</field>
+<field name="jbo_t">ta barda zdani</field>
+<field name="eng_t">That is a big home.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:64</field>
+<field name="jbo_t">lo sutra bajra mlatu</field>
+<field name="eng_t">a quickly running cat</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:65</field>
+<field name="jbo_t">lo sutra mlatu</field>
+<field name="eng_t">a quick cat</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:66</field>
+<field name="jbo_t">lo bajra mlatu</field>
+<field name="eng_t">a running cat</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:67</field>
+<field name="jbo_t">ti cmalu verba</field>
+<field name="eng_t">This is a small child.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:68</field>
+<field name="jbo_t">lo kukte plise</field>
+<field name="eng_t">tasty apple</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:69</field>
+<field name="jbo_t">lo sutra citka</field>
+<field name="eng_t">quick eater</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:70</field>
+<field name="jbo_t">do sutra klama nakni</field>
+<field name="eng_t">You are a quickly going male.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:71</field>
+<field name="jbo_t">xu do nelci lo gerku</field>
+<field name="eng_t">Do you like dogs?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:72</field>
+<field name="jbo_t">xu mi klama</field>
+<field name="eng_t">Am I coming?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:73</field>
+<field name="jbo_t">xu pelxu</field>
+<field name="eng_t">Is it yellow?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:74</field>
+<field name="jbo_t">do nelci lo barda xu gerku</field>
+<field name="eng_t">Do you like BIG dogs?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:75</field>
+<field name="jbo_t">je'u</field>
+<field name="eng_t">Yes.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:76</field>
+<field name="jbo_t">je'u nai</field>
+<field name="eng_t">No.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:77</field>
+<field name="jbo_t">je'u do lazni</field>
+<field name="eng_t">Truly you are lazy.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:78</field>
+<field name="jbo_t">je'u nai mi nelci lo gerku</field>
+<field name="eng_t">It is false that I like dogs.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:79</field>
+<field name="jbo_t">xu lo barda zdani cu melbi</field>
+<field name="eng_t">Is the big home beautiful?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:80</field>
+<field name="jbo_t">lo re nakni cu stati xu</field>
+<field name="eng_t">Are the two men smart?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:81</field>
+<field name="jbo_t">je'u nai</field>
+<field name="eng_t">No.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:82</field>
+<field name="jbo_t">do klama lo zarci xu</field>
+<field name="eng_t">Do you go to the market?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:83</field>
+<field name="jbo_t">xu lo pa verba cu prami lo ci mlatu</field>
+<field name="eng_t">Does the child love the three cats?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:84</field>
+<field name="jbo_t">xu lo pa karce cu sutra</field>
+<field name="eng_t">Is the car fast?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:85</field>
+<field name="jbo_t">xu lo pa najnimre cu kukte</field>
+<field name="eng_t">Is the orange tasty?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:86</field>
+<field name="jbo_t">je'u</field>
+<field name="eng_t">Yes, it is.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:87</field>
+<field name="jbo_t">xu lo pa fetsi cu prami do</field>
+<field name="eng_t">Does the female love you?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:88</field>
+<field name="jbo_t">do ko'oi bajra</field>
+<field name="eng_t">Run!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:89</field>
+<field name="jbo_t">ko bajra</field>
+<field name="eng_t">Do run!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:90</field>
+<field name="jbo_t">nelci ko</field>
+<field name="eng_t">Make it so you are liked by someone!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:91</field>
+<field name="jbo_t">do ko'oi kurji do ko'oi</field>
+<field name="eng_t">Take care of yourself.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:92</field>
+<field name="jbo_t">ko kurji ko</field>
+<field name="eng_t">Take care of yourself.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:93</field>
+<field name="jbo_t">mi'ai ko'oi klama</field>
+<field name="eng_t">Let's go.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:94</field>
+<field name="jbo_t">ko'oi klama</field>
+<field name="eng_t">Let's go.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:95</field>
+<field name="jbo_t">.e'o do lebna lo cukta</field>
+<field name="eng_t">Could you take the book, please?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:96</field>
+<field name="jbo_t">ko sutra bajra</field>
+<field name="eng_t">Run quickly!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:97</field>
+<field name="jbo_t">.e'o do pinxe lo tcati</field>
+<field name="eng_t">Please, drink tea!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:98</field>
+<field name="jbo_t">ko catlu lo skina</field>
+<field name="eng_t">Watch a film!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:99</field>
+<field name="jbo_t">ko stati</field>
+<field name="eng_t">Be smart!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:100</field>
+<field name="jbo_t">ko klama lo zdani</field>
+<field name="eng_t">Go home!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:101</field>
+<field name="jbo_t">.e'o do pinxe lo ckafi</field>
+<field name="eng_t">Please, drink coffee!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:102</field>
+<field name="jbo_t">.e'o do kurji lo verba</field>
+<field name="eng_t">Please, take care of the child.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:103</field>
+<field name="jbo_t">lo melbi je cmalu zdani</field>
+<field name="eng_t">A pretty and small home is here.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:104</field>
+<field name="jbo_t">lo melbi cmalu zdani cu zvati</field>
+<field name="eng_t">A prettily small home is here.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:105</field>
+<field name="jbo_t">mi .e do nelci lo jisra</field>
+<field name="eng_t">I like juice, and you like juice.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:106</field>
+<field name="jbo_t">mi je do nelci lo plise</field>
+<field name="eng_t">I like apples, and you like apples.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:107</field>
+<field name="jbo_t">mi nelci lo plise je lo jisra</field>
+<field name="eng_t">I like apples and juice.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:108</field>
+<field name="jbo_t">lo verba cu fengu ja bilma</field>
+<field name="eng_t">The child is angry or ill </field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:109</field>
+<field name="jbo_t">lo karce cu blabi jo nai grusi</field>
+<field name="eng_t">The car is either white or gray.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:110</field>
+<field name="jbo_t">mi prami do .i ju do fenki</field>
+<field name="eng_t">I love you. Whether or not you are crazy.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:111</field>
+<field name="jbo_t">lo nanla ce lo nixli cu klama lo panku</field>
+<field name="eng_t">A boy with a girl go to a park.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:112</field>
+<field name="jbo_t">lo nanla e lo nixli cu klama lo panka</field>
+<field name="eng_t">A boy goes to a park, and a girl goes to a park.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:113</field>
+<field name="jbo_t">lo nanla ce lo nixli cu casnu lo karce</field>
+<field name="eng_t">A boy and a girl discuss a car.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:114</field>
+<field name="jbo_t">lo nanla e lo nixli cu casnu lo karce</field>
+<field name="eng_t">A boy discusses a car, and a girl discusses a car.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:115</field>
+<field name="jbo_t">lo nanla ce nixli cu casnu lo karce</field>
+<field name="eng_t">Someone who is a boy and a girl discusses a car.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:116</field>
+<field name="jbo_t">lo nanla ce lo nixli cu casnu lo karce</field>
+<field name="eng_t">A boy and a girl discuss a car.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:117</field>
+<field name="jbo_t">mi nelci lo badna .e lo plise</field>
+<field name="eng_t">I like bananas, and I like apples.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:118</field>
+<field name="jbo_t">do sutra ja stati</field>
+<field name="eng_t">You are quick or smart or both.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:119</field>
+<field name="jbo_t">lo za'u prenu cu casnu lo karce .u lo gerku</field>
+<field name="eng_t">The people discuss cars whether or not (they discuss) dogs.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:120</field>
+<field name="jbo_t">mi citka lo najnimre .o nai lo badna</field>
+<field name="eng_t">I eat either oranges or bananas.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:121</field>
+<field name="jbo_t">lo fetsi .e lo nakni cu nelci lo carvi</field>
+<field name="eng_t">Females like rain, and males like rain.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:122</field>
+<field name="jbo_t">mi .onai do klama lo zarci</field>
+<field name="eng_t">Either I or you go to the market.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:123</field>
+<field name="jbo_t">mi viska lo barda je melbi karce</field>
+<field name="eng_t">I see a big and beautiful car.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:124</field>
+<field name="jbo_t">lo verba cu pinxe lo ladru .a lo jisra</field>
+<field name="eng_t">The child drinks milk and/or juice.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:125</field>
+<field name="jbo_t">lo verba ce lo cmalu cu casnu lo pa karce</field>
+<field name="eng_t">The child and someone small discuss a car.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:126</field>
+<field name="jbo_t">lo najnimre cu barda i je ku'i lo badna cu cmalu</field>
+<field name="eng_t">Oranges are big. But bananas are small.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:127</field>
+<field name="jbo_t">lo nicte cu nu mi viska lo lunra</field>
+<field name="eng_t">The night is when I see the Moon.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:128</field>
+<field name="jbo_t">mi gleki lo nu do klama</field>
+<field name="eng_t">I'm happy because you are coming.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:129</field>
+<field name="jbo_t">mi djica lo nu do klama ti</field>
+<field name="eng_t">I want you to come here (to this place)</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:130</field>
+<field name="jbo_t">lo cabna cu nicte</field>
+<field name="eng_t">Now it's night. At present it's night.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:131</field>
+<field name="jbo_t">lo nu pinxe lo ladru cu nabmi mi</field>
+<field name="eng_t">Drinking milk is a problem, problematic to me.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:132</field>
+<field name="jbo_t">mi nelci lo nu do dansu</field>
+<field name="eng_t">I like you dancing.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:133</field>
+<field name="jbo_t">xu do gleki lo nu do pilno lo skami</field>
+<field name="eng_t">Are you happy of using a computer?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:134</field>
+<field name="jbo_t">do djica lo nu mi citka lo plise xu</field>
+<field name="eng_t">Do you want me to eat an apple?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:135</field>
+<field name="jbo_t">lo nu klama ti cu nabmi</field>
+<field name="eng_t">Coming here is a problem.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:136</field>
+<field name="jbo_t">mi djica lo nu do gleki</field>
+<field name="eng_t">I want you to be happy.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:137</field>
+<field name="jbo_t">mi pinxe ca lo nu do klama</field>
+<field name="eng_t">I drink while you are coming.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:138</field>
+<field name="jbo_t">mi citka ba lo nu mi dansu</field>
+<field name="eng_t">I eat after I dance.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:139</field>
+<field name="jbo_t">lo mlatu cu pinxe lo ladru</field>
+<field name="eng_t">Cats drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:140</field>
+<field name="jbo_t">lo mlatu ca pinxe lo ladru</field>
+<field name="eng_t">Cats drink milk (at present).</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:141</field>
+<field name="jbo_t">lo mlatu pu pinxe lo ladru</field>
+<field name="eng_t">Cats drank milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:142</field>
+<field name="jbo_t">lo mlatu ba pinxe lo ladru</field>
+<field name="eng_t">Cats will drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:143</field>
+<field name="jbo_t">lo nicte cu pluka</field>
+<field name="eng_t">The night is pleasant.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:144</field>
+<field name="jbo_t">ba lo nicte cu pluka</field>
+<field name="eng_t">After the night it is pleasant.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:145</field>
+<field name="jbo_t">lo nicte cu ba pluka</field>
+<field name="eng_t">The night will be pleasant.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:146</field>
+<field name="jbo_t">mi pu citka ba lo nu mi dansu</field>
+<field name="eng_t">I ate after I danced.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:147</field>
+<field name="jbo_t">mi pu co'a cikna</field>
+<field name="eng_t">I woke up</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:148</field>
+<field name="jbo_t">lo mlatu ca ca'o pinxe lo ladru</field>
+<field name="eng_t">Cats (at present) are drinking milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:149</field>
+<field name="jbo_t">lo mlatu ca mo'u pinxe lo ladru</field>
+<field name="eng_t">Cats have drunk milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:150</field>
+<field name="jbo_t">lo mlatu ca ta'e pinxe lo ladru</field>
+<field name="eng_t">Cats (habitually, sometimes) drink milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:151</field>
+<field name="jbo_t">lo mlatu pu mo'u pinxe lo ladru</field>
+<field name="eng_t">Cats had drunk milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:152</field>
+<field name="jbo_t">lo mlatu ba mo'u pinxe lo ladru</field>
+<field name="eng_t">Cats will have drunk milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:153</field>
+<field name="jbo_t">mi pu ze'a sipna</field>
+<field name="eng_t">I slept for a while.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:154</field>
+<field name="jbo_t">mi pu sipna ze'a lo nicte</field>
+<field name="eng_t">I slept through the night. I slept all night.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:155</field>
+<field name="jbo_t">mi pu sipna ze'i lo nicte</field>
+<field name="eng_t">I slept through the short night.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:156</field>
+<field name="jbo_t">mi pu sipna ca lo nicte</field>
+<field name="eng_t">I slept at night.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:157</field>
+<field name="jbo_t">mi pinxe ri'a lo nu mi taske</field>
+<field name="eng_t">I drink because I am thirsty.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:158</field>
+<field name="jbo_t">mi citka ri'a lo nu mi xagji</field>
+<field name="eng_t">I eat because I am hungry.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:159</field>
+<field name="jbo_t">mi klama fa'a do to'o lo mlatu</field>
+<field name="eng_t">I go to you from a cat.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:160</field>
+<field name="jbo_t">mi cadzu bu'u lo tcadu</field>
+<field name="eng_t">I walk in the city.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:161</field>
+<field name="jbo_t">lo pa mlatu cu plipe fa'a mi ca lo nu do ca'o klama</field>
+<field name="eng_t">A cat jumps towards me when you are coming.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:162</field>
+<field name="jbo_t">lo pa mlatu cu plipe ca lo nu do ca'o klama vau fa'a mi</field>
+<field name="eng_t">A cat jumps (when you are coming) towards me.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:163</field>
+<field name="jbo_t">lo pa mlatu cu plipe ca lo nu do ca'o klama fa'a mi</field>
+<field name="eng_t">A cat jumps (when you are coming towards me).</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:164</field>
+<field name="jbo_t">mi ca gleki lo nu do viska lo tsani</field>
+<field name="eng_t">I am happy that you see the sky.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:165</field>
+<field name="jbo_t">xu lo mlatu pu ca'o zvati lo zdani</field>
+<field name="eng_t">Were cats staying at home?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:166</field>
+<field name="jbo_t">do pu citka lo plise ba lo nu mi pinxe lo ladru</field>
+<field name="eng_t">You ate an apple after I drank the milk.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:167</field>
+<field name="jbo_t">ko catlu fa'a lo canko</field>
+<field name="eng_t">Look towards the window.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:168</field>
+<field name="jbo_t">xu do gleki ca lo nu do ca'o cadzu bu'u lo purdi</field>
+<field name="eng_t">Are you happy when you are walking in the garden?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:169</field>
+<field name="jbo_t">ca lo nu mi klama lo zdani vau do pinxe lo tcati ri'a lo nu do taske</field>
+<field name="eng_t">When I go home you drink tea because you are thirsty.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:170</field>
+<field name="jbo_t">do ba viska lo solri</field>
+<field name="eng_t">You will see the sun.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:171</field>
+<field name="jbo_t">do ca jimpe lo nu ba carvi</field>
+<field name="eng_t">You understand that it will rain.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:172</field>
+<field name="jbo_t">ko sutra bajra to'o lo fagri</field>
+<field name="eng_t">Quickly run away from the fire!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:173</field>
+<field name="jbo_t">mi'ai pu ca'o zvati lo zdani ca lo nu carvi</field>
+<field name="eng_t">We were staying at home when it was raining.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:174</field>
+<field name="jbo_t">mi na nelci do</field>
+<field name="eng_t">I don't like you.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:175</field>
+<field name="jbo_t">mi ja'a nelci do</field>
+<field name="eng_t">I do like you.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:176</field>
+<field name="jbo_t">la .bob. cu tcidu</field>
+<field name="eng_t">Bob reads/is reading.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:177</field>
+<field name="jbo_t">la .bob.djonson. cu tcidu</field>
+<field name="eng_t">Bob Johnson reads/is reading.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:178</field>
+<field name="jbo_t">la .lojban. cu bangu mi</field>
+<field name="eng_t">I speak Lojban.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:179</field>
+<field name="jbo_t">la .alis.</field>
+<field name="eng_t">Alice</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:180</field>
+<field name="jbo_t">la .bob.</field>
+<field name="eng_t">Bob</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:181</field>
+<field name="jbo_t">la .ian.</field>
+<field name="eng_t">Yan or Ian</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:182</field>
+<field name="jbo_t">la .doris.</field>
+<field name="eng_t">Doris</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:183</field>
+<field name="jbo_t">la .kevin.</field>
+<field name="eng_t">Kevin</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:184</field>
+<field name="jbo_t">la .adam.</field>
+<field name="eng_t">Adam</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:185</field>
+<field name="jbo_t">la .meilis.</field>
+<field name="eng_t">Mei Li</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:186</field>
+<field name="jbo_t">la .abdul.</field>
+<field name="eng_t">Abdul</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:187</field>
+<field name="jbo_t">la .al.</field>
+<field name="eng_t">Ali</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:188</field>
+<field name="jbo_t">la .micel.</field>
+<field name="eng_t">Michelle</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:189</field>
+<field name="jbo_t">la .edvard.</field>
+<field name="eng_t">Edward</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:190</field>
+<field name="jbo_t">la .lukas.</field>
+<field name="eng_t">Lucas</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:191</field>
+<field name="jbo_t">la alis cu klama lo zarci i le fetsi cu xagji</field>
+<field name="eng_t">Alice is going to a shop. She is hungry.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:192</field>
+<field name="jbo_t">la alis cu viska la doris i le fetsi cu melbi</field>
+<field name="eng_t">Alice can see Doris. She (Doris) is beautiful.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:193</field>
+<field name="jbo_t">coi do</field>
+<field name="eng_t">Hello you.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:194</field>
+<field name="jbo_t">cerni coi</field>
+<field name="eng_t">Good morning!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:195</field>
+<field name="jbo_t">vanci coi</field>
+<field name="eng_t">Good evening!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:196</field>
+<field name="jbo_t">donri coi</field>
+<field name="eng_t">Good day!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:197</field>
+<field name="jbo_t">nicte coi</field>
+<field name="eng_t">Nightly greetings!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:198</field>
+<field name="jbo_t">nicte co'o</field>
+<field name="eng_t">Goodnight!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:199</field>
+<field name="jbo_t">pluka nicte di'ai</field>
+<field name="eng_t">Pleasant night!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:200</field>
+<field name="jbo_t">di'ai do</field>
+<field name="eng_t">Good luck to you!</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:201</field>
+<field name="jbo_t">mi'e la .doris.</field>
+<field name="eng_t">I'm Doris. This is Doris speaking.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:202</field>
+<field name="jbo_t">mi cliva doi la .robert.</field>
+<field name="eng_t">I'm leaving, Robert.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:203</field>
+<field name="jbo_t">mi cliva la .robert.</field>
+<field name="eng_t">I'm leaving Robert.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:204</field>
+<field name="jbo_t">ki'e do do pu sidju mi</field>
+<field name="eng_t">Thank you, you helped me.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:205</field>
+<field name="jbo_t">je'e do</field>
+<field name="eng_t">Not at all.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:206</field>
+<field name="jbo_t">coi .i xu do kanro</field>
+<field name="eng_t">Hello. How do you do?</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:207</field>
+<field name="jbo_t">coi do mi djica lo nu do sidju mi</field>
+<field name="eng_t">Hello. I want you to help me.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:208</field>
+<field name="jbo_t">coi do la .alis. la .doris. pu cliva</field>
+<field name="eng_t">Hello! Alice left Doris.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:209</field>
+<field name="jbo_t">coi la .alis. la .doris. pu cliva</field>
+<field name="eng_t">Hello, Alice! Doris's just left.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:210</field>
+<field name="jbo_t">.ui coi do la .alis. la .doris. pu cliva</field>
+<field name="eng_t">Yay, Hello! Alice left Doris.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:211</field>
+<field name="jbo_t">cerni coi la .alis.</field>
+<field name="eng_t">Good morning, Alice.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:212</field>
+<field name="jbo_t">mi ba sipna</field>
+<field name="eng_t">I will sleep.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:213</field>
+<field name="jbo_t">pluka nicte di'ai</field>
+<field name="eng_t">Good night.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:214</field>
+<field name="jbo_t">mi'e la .adam. i mi nelci lo nu mi ca'o tavla do</field>
+<field name="eng_t">I am Adam. I like that I am talking to you.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:215</field>
+<field name="jbo_t">doi lo mamta mi ba citka lo plise</field>
+<field name="eng_t">Mommy, I will eat an apple.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+<doc>
+<field name="id">crashcourse1:216</field>
+<field name="jbo_t">xu do cliva .i co'o do</field>
+<field name="eng_t">You leave? Goodbye.</field>
+<field name="src_t">https://mw.lojban.org/papri/The_Crash_Course_(a_draft)#Lesson_1._The_language_at_a_glance</field>
+</doc>
+</add>
