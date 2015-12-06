@@ -33,20 +33,20 @@ cat corpus/dev | cut -f 2 | mosesdecoder/scripts/tokenizer/tokenizer.perl -l en 
 
 # Build Lojban LM
 
-mosesdecoder/bin/lmplz -o 3 < corpus/train.clean.jb > corpus/train.arpa.jb
-mosesdecoder/bin/build_binary corpus/train.arpa.jb corpus/train.blm.jb
+mosesdecoder/bin/lmplz -o 3 < corpus/train.clean.jb > lm/train.arpa.jb
+mosesdecoder/bin/build_binary lm/train.arpa.jb lm/train.blm.jb
 
 # Build English LM
 
-mosesdecoder/bin/lmplz -o 3 < corpus/train.clean.en > corpus/train.arpa.en
-mosesdecoder/bin/build_binary corpus/train.arpa.en corpus/train.blm.en
+mosesdecoder/bin/lmplz -o 3 < corpus/train.clean.en > lm/train.arpa.en
+mosesdecoder/bin/build_binary lm/train.arpa.en lm/train.blm.en
 
 # Build jbo -> eng model
 
 mosesdecoder/scripts/training/train-model.perl \
     -root-dir train.jb-en -corpus corpus/train.clean \
     -f jb -e en -alignment grow-diag-final-and -reordering msd-bidirectional-fe \
-    -lm 0:3:$PWD/corpus/train.blm.en:8 \
+    -lm 0:3:$PWD/lm/train.blm.en:8 \
     -external-bin-dir mosesdecoder/tools
 
 # Tuning
@@ -61,7 +61,7 @@ mosesdecoder/scripts/training/train-model.perl \
 mosesdecoder/scripts/training/train-model.perl \
     -root-dir train.en-jb -corpus corpus/train.clean \
     -f en -e jb -alignment grow-diag-final-and -reordering msd-bidirectional-fe \
-    -lm 0:3:$PWD/corpus/train.blm.jb:8 \
+    -lm 0:3:$PWD/lm/train.blm.jb:8 \
     -external-bin-dir mosesdecoder/tools
 
 #
