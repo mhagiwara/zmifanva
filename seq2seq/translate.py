@@ -124,10 +124,10 @@ def create_model(session, forward_only):
         forward_only=forward_only, use_lstm=FLAGS.lstm)
     ckpt = tf.train.get_checkpoint_state(FLAGS.train_dir)
     if ckpt and gfile.Exists(ckpt.model_checkpoint_path):
-        print("Reading model parameters from %s" % ckpt.model_checkpoint_path)
+        print("Reading model parameters from %s" % ckpt.model_checkpoint_path, file=sys.stderr)
         model.saver.restore(session, ckpt.model_checkpoint_path)
     else:
-        print("Created model with fresh parameters.")
+        print("Created model with fresh parameters.", file=sys.stderr)
         session.run(tf.initialize_all_variables())
     return model
 
@@ -226,8 +226,8 @@ def decode():
         _, rev_fr_vocab = data_utils.initialize_vocabulary(fr_vocab_path)
 
         # Decode from standard input.
-        sys.stdout.write("> ")
-        sys.stdout.flush()
+        # sys.stdout.write("> ")
+        # sys.stdout.flush()
         sentence = sys.stdin.readline()
         while sentence:
             # Get token-ids for the input sentence.
@@ -250,7 +250,7 @@ def decode():
                 outputs = outputs[:outputs.index(data_utils.EOS_ID)]
             # Print out French sentence corresponding to outputs.
             print(" ".join([rev_fr_vocab[output] for output in outputs]))
-            print("> ", end="")
+            # print("> ", end="")
             sys.stdout.flush()
             sentence = sys.stdin.readline()
 

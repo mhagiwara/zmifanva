@@ -123,7 +123,7 @@ def vva_tokenizer(sentence):
 def lojban_tokenizer(sentence):
     """Tokenizer for Lojban - simply split by whitespace."""
 
-    return sentence.split(' ')
+    return sentence.strip().split(' ')
 
 
 def create_vocabulary(vocabulary_path, data_path, max_vocabulary_size,
