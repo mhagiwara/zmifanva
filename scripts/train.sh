@@ -90,6 +90,9 @@ mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.en < train.jb-e
 # BLEU = 24.17, 60.6/32.3/17.4/10.4 (BP=0.989, ratio=0.989, hyp_len=465, ref_len=470)
 # (2015/11/06 added crashcourse1, no tuning)
 # BLEU = 21.26, 58.6/31.0/16.2/8.1 (BP=0.961, ratio=0.962, hyp_len=452, ref_len=470)
+# (2015/12/23 added normalization)
+# BLEU = 23.26, 62.5/34.2/18.2/9.9 (BP=0.934, ratio=0.936, hyp_len=440, ref_len=470)
+
 
 # Evaluate (eng -> jbo)
 
@@ -103,4 +106,6 @@ mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.jb < train.en-j
 # BLEU = 28.06, 61.2/35.9/22.9/15.0 (BP=0.951, ratio=0.952, hyp_len=420, ref_len=441)
 # (2015/11/06 added crashcourse1, no tuning)
 # BLEU = 27.64, 60.7/35.6/21.7/13.2 (BP=0.986, ratio=0.986, hyp_len=435, ref_len=441)
+# (2015/12/23 added normalization)
+# BLEU = 28.80, 61.4/35.7/21.6/14.5 (BP=1.000, ratio=1.044, hyp_len=428, ref_len=410)
 

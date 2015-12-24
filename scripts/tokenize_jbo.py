@@ -1,11 +1,22 @@
 """
-Script to tokenize Lojban text.
+Script to tokenize and normalize Lojban text.
 """
 import sys
 import re
 
+
+def normalize(word):
+    """Given a Lojban word, normalize it."""
+    return word.strip('.?')
+
+
 def tokenize(text):
-    tokens = re.split(' +', text)
+    """Given a Lojban text, tokenize it to a list of words."""
+    tokens = [normalize(t) for t in re.split(' +', text)]
+
+    # remove the first 'i'
+    if len(tokens) > 0 and tokens[0] == 'i':
+        tokens = tokens[1:]
     return tokens
 
 
