@@ -16,6 +16,7 @@ python scripts/convert_solr_xml_to_bitext.py docs/tatoeba.xml >> corpus/train
 python scripts/convert_solr_xml_to_bitext.py docs/teris.xml >> corpus/train
 python scripts/convert_solr_xml_to_bitext.py docs/introduction.xml >> corpus/train
 python scripts/convert_solr_xml_to_bitext.py docs/crashcourse1.xml >> corpus/train
+python scripts/convert_solr_xml_to_bitext.py docs/crashcourse.jbo_eng_dict.xml >> corpus/train
 
 # Preprocess corpus
 
@@ -92,7 +93,8 @@ mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.en < train.jb-e
 # BLEU = 21.26, 58.6/31.0/16.2/8.1 (BP=0.961, ratio=0.962, hyp_len=452, ref_len=470)
 # (2015/12/23 added normalization)
 # BLEU = 23.26, 62.5/34.2/18.2/9.9 (BP=0.934, ratio=0.936, hyp_len=440, ref_len=470)
-
+# (2015/12/24 added crashcourse jbo<->eng dictionary)
+# BLEU = 31.65, 66.0/40.5/25.2/17.7 (BP=0.957, ratio=0.957, hyp_len=450, ref_len=470)
 
 # Evaluate (eng -> jbo)
 
@@ -108,4 +110,5 @@ mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.jb < train.en-j
 # BLEU = 27.64, 60.7/35.6/21.7/13.2 (BP=0.986, ratio=0.986, hyp_len=435, ref_len=441)
 # (2015/12/23 added normalization)
 # BLEU = 28.80, 61.4/35.7/21.6/14.5 (BP=1.000, ratio=1.044, hyp_len=428, ref_len=410)
-
+# (2015/12/24 added crashcourse jbo<->eng dictionary)
+# BLEU = 39.68, 69.0/44.2/32.2/25.2 (BP=1.000, ratio=1.000, hyp_len=410, ref_len=410)

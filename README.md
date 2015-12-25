@@ -13,7 +13,13 @@
 BLEU = 27.64, 60.7/35.6/21.7/13.2 (BP=0.986, ratio=0.986, hyp_len=435, ref_len=441)
 
 Errors:
--
+- It &apos;ll be sunny , I hope . lo solri sei mi pacna   ba sunny kei mi pacna
+    - OOV 'sunny'
+- Do you feel pain ?      xu do cortu     xu do cinmo lo ka pain ma
+    - OOV 'cortu'
+- My knee hurts . mi cortu lo cidni       lo mi knee se cortu
+    - OOV 'knee' <-> 'cidni'
+- 
 
 (jbo -> eng)
 BLEU = 21.26, 58.6/31.0/16.2/8.1 (BP=0.961, ratio=0.962, hyp_len=452, ref_len=470)
