@@ -1,0 +1,31 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+#main textarea {
+    width: 100%;
+}
+
+#main button {
+    margin-left: 16px;
+    margin-right: 16px;
+}

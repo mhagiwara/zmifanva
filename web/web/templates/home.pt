@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="${request.locale_name}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="pyramid web application">
+    <meta name="author" content="Pylons Project">
+    <link rel="shortcut icon" href="${request.static_url('web:static/pyramid-16x16.png')}">
+
+    <title>zmifanva - Lojban &harr; English Machine Translation Engine</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="//oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="//oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this scaffold -->
+    <link href="${request.static_url('web:static/main.css')}" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-175204-12', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+
+  <body>
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href=".">zmifanva</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li><a>Lojban &harr; English Machine Translation Engine</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div id="main" class="container" role="main">
+        <div class="row">
+          <form action="." method="GET">
+            <div class="col-md-5">
+              Source Text (Input):
+              <textarea name="src" rows="8" cols="40">${src}</textarea>
+            </div>
+            <div class="col-md-2" style="padding-top: 32px; padding-bottom: 32px;">
+              <button class="btn btn-primary" tal:condition="dir == 'jb2en'" type="submit" name="dir" value="jb2en">Lojban &rarr; English</button>
+              <button class="btn btn-default" tal:condition="dir != 'jb2en'" type="submit" name="dir" value="jb2en">Lojban &rarr; English</button>
+              <button class="btn btn-primary" tal:condition="dir == 'en2jb'" type="submit" name="dir" value="en2jb">English &rarr; Lojban</button>
+              <button class="btn btn-default" tal:condition="dir != 'en2jb'" type="submit" name="dir" value="en2jb">English &rarr; Lojban</button>
+            </div>
+            <div class="col-md-5">
+              Target Text (Output):
+              <textarea rows="8" cols="40">${tgt}</textarea>
+            </div>
+          </form>
+        </div>
+
+        <hr/>
+
+        <div class="row">
+          <div class="col-md-4">
+            <h3>jufsisku</h3>
+            <p>If you are looking for human translated, high quality Lojban-English bilingual sentences, try zmifanva's sister project jufsisku.
+            <p><a class="btn btn-sm btn-default" href="http://lojban.lilyx.net/jufsisku/" role="button">Try jufsisku &raquo;</a></p>
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>Contribute</h3>
+            <p>zmifanva is based on <a href="https://en.wikipedia.org/wiki/Statistical_machine_translation#Phrase-based_translation">phrase-based statistical machine translation. </a>
+            If you are interested in contributing to its development, visit the source code on Github.
+            <p><a class="btn btn-sm btn-default" href="https://github.com/mhagiwara/zmifanva" role="button">View on Github &raquo;</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>Report Issues</h3>
+            <p>zmifanva does not always output correct translation or grammatical sentences, neither in English nor in Lojban.</p>
+            <p>If you find translation quality issues on zmifanva, please report from the link below. </p>
+            <p><a class="btn btn-sm btn-default" href="https://docs.google.com/forms/d/1ZyaxJioItk7T2utifBZ7Ak1GV_XTBn0dnxqHk30DjG0/viewform" role="button">Report issues &raquo;</a></p>
+          </div>
+        </div>
+
+        <hr/>
+        <div class="row">
+            zmifanva is developed and maintained by <a href="http://masatohagiwara.net/">Masato Hagiwara</a>.
+        </div>
+      </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//oss.maxcdn.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//oss.maxcdn.com/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  </body>
+</html>
