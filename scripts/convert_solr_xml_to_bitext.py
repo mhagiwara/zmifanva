@@ -37,11 +37,12 @@ def main():
         print "Usage: python convert_solr_xml_to_bitext.py [XML filename] > output text filename"
         sys.exit(1)
 
-    tree = ET.parse(sys.argv[1])
-    root = tree.getroot()
+    for filename in sys.argv[1:]:
+        tree = ET.parse(filename)
+        root = tree.getroot()
 
-    for jbo_t, eng_t in iterate_bitext(root):
-        print '%s\t%s' % (jbo_t, eng_t)
+        for jbo_t, eng_t in iterate_bitext(root):
+            print '%s\t%s' % (jbo_t, eng_t)
 
 
 if __name__ == '__main__':
