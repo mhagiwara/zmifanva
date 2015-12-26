@@ -75,14 +75,14 @@
         <div class="row">
           <div class="col-md-4">
             <h3>jufsisku</h3>
-            <p>If you are looking for human translated, high quality Lojban-English bilingual sentences, try zmifanva's sister project jufsisku.
+            <p>If you are looking to search human translated, high quality Lojban-English bilingual sentences, try zmifanva's sister project jufsisku.
             <p><a class="btn btn-sm btn-default" href="http://lojban.lilyx.net/jufsisku/" role="button">Try jufsisku &raquo;</a></p>
             </p>
           </div>
           <div class="col-md-4">
             <h3>Contribute</h3>
             <p>zmifanva is based on <a href="https://en.wikipedia.org/wiki/Statistical_machine_translation#Phrase-based_translation">phrase-based statistical machine translation. </a>
-            If you are interested in contributing to its development, visit the source code on Github.
+            If you are interested in contributing to zmifanva's development, view the source code on Github.
             <p><a class="btn btn-sm btn-default" href="https://github.com/mhagiwara/zmifanva" role="button">View on Github &raquo;</a></p>
           </div>
           <div class="col-md-4">
