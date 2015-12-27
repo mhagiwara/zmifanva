@@ -89,7 +89,7 @@
             <h3>Report Issues</h3>
             <p>zmifanva does not always output correct translation or grammatical sentences, neither in English nor in Lojban.</p>
             <p>If you find translation quality issues on zmifanva, please report from the link below. </p>
-            <p><a class="btn btn-sm btn-default" href="https://docs.google.com/forms/d/1ZyaxJioItk7T2utifBZ7Ak1GV_XTBn0dnxqHk30DjG0/viewform" role="button">Report issues &raquo;</a></p>
+            <p><a class="btn btn-sm btn-default" href="https://docs.google.com/forms/d/1ZyaxJioItk7T2utifBZ7Ak1GV_XTBn0dnxqHk30DjG0/viewform?entry.397177602=${src}&entry.762116517=${tgt}" role="button">Report issues &raquo;</a></p>
           </div>
         </div>
 
