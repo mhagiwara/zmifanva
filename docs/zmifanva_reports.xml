@@ -1,0 +1,44 @@
+<add>
+<doc>
+<field name="id">ZmifanvaReports:1</field>
+<field name="jbo_t">ma smuni zo coi</field>
+<field name="eng_t">What is the meaning of "Hello"?</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+<doc>
+<field name="id">ZmifanvaReports:2</field>
+<field name="jbo_t">mi po'u la .djef. cu prami lo nu tavla fo lo jbobau .ui</field>
+<field name="eng_t">I, Djeff, love to speak Lojban!</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+<doc>
+<field name="id">ZmifanvaReports:3</field>
+<field name="jbo_t">mi nelci lo mlatu poi ke'a xekri</field>
+<field name="eng_t">I like cats that are black.</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+<doc>
+<field name="id">ZmifanvaReports:4</field>
+<field name="jbo_t">do prenu xu</field>
+<field name="eng_t">Are you really a person?</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+<doc>
+<field name="id">ZmifanvaReports:5</field>
+<field name="jbo_t">ko klama lo drata</field>
+<field name="eng_t">Go somewhere else.</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+<doc>
+<field name="id">ZmifanvaReports:6</field>
+<field name="jbo_t">cinse</field>
+<field name="eng_t">sexual</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+<doc>
+<field name="id">ZmifanvaReports:7</field>
+<field name="jbo_t">mi klama lo jbogu'e fo lo karce</field>
+<field name="eng_t">I go to Lojibanistan by car.</field>
+<field name="src_t">http://lojban.lilyx.net/zmifanva/</field>
+</doc>
+</add>

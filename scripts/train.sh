@@ -17,6 +17,7 @@ python scripts/convert_solr_xml_to_bitext.py docs/teris.xml >> corpus/train
 python scripts/convert_solr_xml_to_bitext.py docs/introduction.xml >> corpus/train
 python scripts/convert_solr_xml_to_bitext.py docs/crashcourse1.xml >> corpus/train
 python scripts/convert_solr_xml_to_bitext.py docs/crashcourse.jbo_eng_dict.xml >> corpus/train
+python scripts/convert_solr_xml_to_bitext.py docs/zmifanva_reports.xml >> corpus/train
 
 # Preprocess corpus
 
@@ -83,6 +84,8 @@ cat corpus/test | cut -f 2 | mosesdecoder/scripts/tokenizer/tokenizer.perl -l en
 
 mosesdecoder/bin/moses -f train.jb-en/model/moses.ini < corpus/test.tok.jb > train.jb-en/test.translated.en
 mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.en < train.jb-en/test.translated.en
+# Generate regression report.
+paste corpus/test.tok.jb train.jb-en/test.translated.en corpus/test.tok.en > train.jb-en/results
 
 # Results
 # (no tuning)
@@ -95,11 +98,15 @@ mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.en < train.jb-e
 # BLEU = 23.26, 62.5/34.2/18.2/9.9 (BP=0.934, ratio=0.936, hyp_len=440, ref_len=470)
 # (2015/12/24 added crashcourse jbo<->eng dictionary)
 # BLEU = 31.65, 66.0/40.5/25.2/17.7 (BP=0.957, ratio=0.957, hyp_len=450, ref_len=470)
+# (2016/01/23 added report sentences.)
+# BLEU = 29.38, 65.7/38.8/22.6/16.0 (BP=0.948, ratio=0.949, hyp_len=446, ref_len=470)
 
 # Evaluate (eng -> jbo)
 
 mosesdecoder/bin/moses -f train.en-jb/model/moses.ini < corpus/test.tok.en > train.en-jb/test.translated.jb
 mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.jb < train.en-jb/test.translated.jb
+# Generate regression report.
+paste corpus/test.tok.en train.en-jb/test.translated.jb corpus/test.tok.jb > train.en-jb/results
 
 # Results
 # (no tuning)
@@ -112,3 +119,5 @@ mosesdecoder/scripts/generic/multi-bleu.perl -lc corpus/test.tok.jb < train.en-j
 # BLEU = 28.80, 61.4/35.7/21.6/14.5 (BP=1.000, ratio=1.044, hyp_len=428, ref_len=410)
 # (2015/12/24 added crashcourse jbo<->eng dictionary)
 # BLEU = 39.68, 69.0/44.2/32.2/25.2 (BP=1.000, ratio=1.000, hyp_len=410, ref_len=410)
+# (2016/01/23 added report sentences.)
+# BLEU = 38.50, 69.0/43.1/30.7/24.0 (BP=1.000, ratio=1.015, hyp_len=416, ref_len=410)
